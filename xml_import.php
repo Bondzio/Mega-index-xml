@@ -1,4 +1,5 @@
 <?php
+include './XML2Array.php';
 
 function pre_print_r($var){
 		echo "<pre>";
@@ -10,5 +11,11 @@ function pre_print_r($var){
 
 $doc = new DOMDocument();
 $doc->load("./part2.xml");
-$uname = $doc->getElementsByTagName("oname");
+// $unames = $doc->getElementsByTagName("oname");
+// $uname = $unames->item(0)->nodeValue;
+// pre_print_r($uname);
+
+
+$array = XML2Array::createArray($doc);
+pre_print_r($array['globReg']);
 
