@@ -33,7 +33,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
 
 	$ober = $globReg->appendChild($dom->createElement('oberBegriff'));
 
-	$ober->setAttribute('xml:id', $i);
+	//$ober->setAttribute('xml:id', '');
 	$oname = $ober->appendChild($dom->createElement('oname', $key_char[$i]));
 	// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
 	// $unter->setAttribute('xml:id', $i);
@@ -43,7 +43,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
 	if(!empty($key_num[$i])){
 
 		$unter = $ober->appendChild($dom->createElement('unterBegriff'));
-		$unter->setAttribute('xml:id', $i);
+		//$unter->setAttribute('xml:id', '');
 
 		$key_num_array = explode(" ", $key_num[$i]);
 		// code for delete -
@@ -91,7 +91,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
 				if(!empty($hyphen_num[$i][$j])){
 					// Each	hyphen with couple numbers means one unterBegriff
 					$unter = $ober->appendChild($dom->createElement('unterBegriff'));
-					$unter->setAttribute('xml:id', $i);
+					//$unter->setAttribute('xml:id', '');
 					$uname = $unter->appendChild($dom->createElement('uname', $hyphen_char[$i][$j]));
 
 					$hyphen_num_array = explode(" ", $hyphen_num[$i][$j]);
