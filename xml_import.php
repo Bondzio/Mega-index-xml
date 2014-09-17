@@ -9,13 +9,14 @@ function pre_print_r($var){
 
 
 
-$doc = new DOMDocument();
-$doc->load("./part2.xml");
-// $unames = $doc->getElementsByTagName("oname");
-// $uname = $unames->item(0)->nodeValue;
-// pre_print_r($uname);
+$part2 = new DOMDocument();
+$part2->load("./part2.xml");
 
+$globReg = new DOMDocument();
+$globReg->load("./globReg.xml");
 
-$array = XML2Array::createArray($doc);
-pre_print_r($array['globReg']);
+$part2_arr = XML2Array::createArray($part2);
+$globReg_arr = XML2Array::createArray($globReg);
+
+//pre_print_r($part2_arr['globReg']);
 

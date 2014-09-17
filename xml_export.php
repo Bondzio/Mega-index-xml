@@ -128,8 +128,13 @@ for ($i=0; $i < count($key_char) ; $i++) {
 
 // add link to the key
 	if(array_key_exists($i, $arrow_char)){
-		$link = $ober->appendChild($dom->createElement('link',substr(trim($arrow_char[$i]), 2)));
-		$link->setAttribute('target', '');
+		$arrow_string = substr(trim($arrow_char[$i]), 2);
+		$arrow_arr = explode(";", $arrow_string);
+		pre_print_r($arrow_arr);
+			foreach ($arrow_arr as $each_arrow_arr) {
+				$link = $ober->appendChild($dom->createElement('link',$each_arrow_arr));
+				$link->setAttribute('target', '');
+			}
 	}
 
 }

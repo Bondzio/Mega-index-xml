@@ -508,7 +508,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Geldhandlungskapital; Kaufmannskapital</link>
+    <link target="">Geldhandlungskapital</link>
+    <link target=""> Kaufmannskapital</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Handelskosten</oname>
@@ -2553,7 +2554,10 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Baumwolle; Baumwollindustrie; Goldab-und -zufluß; Korn</link>
+    <link target="">Baumwolle</link>
+    <link target=""> Baumwollindustrie</link>
+    <link target=""> Goldab-und -zufluß</link>
+    <link target=""> Korn</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Indien</oname>
@@ -3484,7 +3488,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Feudalismus; Monopol</link>
+    <link target="">Feudalismus</link>
+    <link target=""> Monopol</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Industrie, chemische</oname>
@@ -4055,7 +4060,11 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Disziplin; Hausindustrie; Eisenbahnen; Schiffahrt; Transportindustrie</link>
+    <link target="">Disziplin</link>
+    <link target=""> Hausindustrie</link>
+    <link target=""> Eisenbahnen</link>
+    <link target=""> Schiffahrt</link>
+    <link target=""> Transportindustrie</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Industriebezirke</oname>
@@ -4690,7 +4699,10 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Baumwollindustrie; Geschäftszweige; Industrie, chemische; Textilindustrie</link>
+    <link target="">Baumwollindustrie</link>
+    <link target=""> Geschäftszweige</link>
+    <link target=""> Industrie, chemische</link>
+    <link target=""> Textilindustrie</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Inhalt und Form</oname>
@@ -10233,7 +10245,24 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Anlagesphären, -felder; Akkumulation des Kapitals; Akkumulation des Kapitals, ursprüngliche; Apologie, Apologeten; Arbeitsbedingungen; Bindung und Freisetzung; Geld; Geldkapital; Kaufmannskapital; Konzentration; Leihkapital; Produktionsmittel; Überproduktion; Verluste; Warenkapital; Wertsteigerung und Entwertung; Zentralisation; Zusammensetzung des Kapitals, organische</link>
+    <link target="">Anlagesphären, -felder</link>
+    <link target=""> Akkumulation des Kapitals</link>
+    <link target=""> Akkumulation des Kapitals, ursprüngliche</link>
+    <link target=""> Apologie, Apologeten</link>
+    <link target=""> Arbeitsbedingungen</link>
+    <link target=""> Bindung und Freisetzung</link>
+    <link target=""> Geld</link>
+    <link target=""> Geldkapital</link>
+    <link target=""> Kaufmannskapital</link>
+    <link target=""> Konzentration</link>
+    <link target=""> Leihkapital</link>
+    <link target=""> Produktionsmittel</link>
+    <link target=""> Überproduktion</link>
+    <link target=""> Verluste</link>
+    <link target=""> Warenkapital</link>
+    <link target=""> Wertsteigerung und Entwertung</link>
+    <link target=""> Zentralisation</link>
+    <link target=""> Zusammensetzung des Kapitals, organische</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kapital, fiktives</oname>
@@ -10686,7 +10715,11 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Aktien; Schwindel; Staatsanleihen, -effekten; Staatsverschuldung; Wertpapiere</link>
+    <link target="">Aktien</link>
+    <link target=""> Schwindel</link>
+    <link target=""> Staatsanleihen, -effekten</link>
+    <link target=""> Staatsverschuldung</link>
+    <link target=""> Wertpapiere</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kapital, fixes</oname>
@@ -12878,7 +12911,11 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Geldkapital; Kapital, produktives; Kapital, zinstragendes; Nachfrage und Zufuhr; Warenkapital</link>
+    <link target="">Geldkapital</link>
+    <link target=""> Kapital, produktives</link>
+    <link target=""> Kapital, zinstragendes</link>
+    <link target=""> Nachfrage und Zufuhr</link>
+    <link target=""> Warenkapital</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kapital, kaufmännisches</oname>
@@ -14839,7 +14876,11 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Ausbeutung; Bindung und Freisetzung; Krisen, ökonomische; Wertsteigerung und Entwertung; Zusammensetzung des Kapitals, organische</link>
+    <link target="">Ausbeutung</link>
+    <link target=""> Bindung und Freisetzung</link>
+    <link target=""> Krisen, ökonomische</link>
+    <link target=""> Wertsteigerung und Entwertung</link>
+    <link target=""> Zusammensetzung des Kapitals, organische</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kapital, produktives</oname>
@@ -17402,7 +17443,9 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Bindung und Freisetzung; Wertsteigerung und Entwertung; Zusammensetzung des Kapitals, organische</link>
+    <link target="">Bindung und Freisetzung</link>
+    <link target=""> Wertsteigerung und Entwertung</link>
+    <link target=""> Zusammensetzung des Kapitals, organische</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kapital, zinstragendes</oname>
@@ -18451,7 +18494,16 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Gegensatz; Geldhändler; Geldkapital; Kapital, fiktives; Leihkapital; Verwaltung; Vorstellung; Wertpapiere; Wucherkapital; Zins</link>
+    <link target="">Gegensatz</link>
+    <link target=""> Geldhändler</link>
+    <link target=""> Geldkapital</link>
+    <link target=""> Kapital, fiktives</link>
+    <link target=""> Leihkapital</link>
+    <link target=""> Verwaltung</link>
+    <link target=""> Vorstellung</link>
+    <link target=""> Wertpapiere</link>
+    <link target=""> Wucherkapital</link>
+    <link target=""> Zins</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kapital, zirkulierendes</oname>
@@ -29642,7 +29694,11 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Bankrott; Händler; Kapitalist; Reservefonds; Zusatzkapital</link>
+    <link target="">Bankrott</link>
+    <link target=""> Händler</link>
+    <link target=""> Kapitalist</link>
+    <link target=""> Reservefonds</link>
+    <link target=""> Zusatzkapital</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kaufmannskapital (merkantiles Kapital)</oname>
@@ -31380,7 +31436,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Kaufmann; Profit, kommerzieller</link>
+    <link target="">Kaufmann</link>
+    <link target=""> Profit, kommerzieller</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kinderarbeit</oname>
@@ -31511,7 +31568,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Religion; Mittelalter</link>
+    <link target="">Religion</link>
+    <link target=""> Mittelalter</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Klasse</oname>
@@ -31995,7 +32053,10 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Arbeiterklasse; Bauern; Grundeigentümer; Kapitalistenklasse</link>
+    <link target="">Arbeiterklasse</link>
+    <link target=""> Bauern</link>
+    <link target=""> Grundeigentümer</link>
+    <link target=""> Kapitalistenklasse</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Klassengegensatz</oname>
@@ -33249,7 +33310,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Eisenbahn; Transportindustrie</link>
+    <link target="">Eisenbahn</link>
+    <link target=""> Transportindustrie</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kommunismus (als ökonomische Gesellschaftsformation)</oname>
@@ -33329,7 +33391,8 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kompagnien</oname>
-    <link target="">Holländisch-Ostindische	Kompagnie; Ostindische Kompagnie</link>
+    <link target="">Holländisch-Ostindische	Kompagnie</link>
+    <link target=""> Ostindische Kompagnie</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kompensation</oname>
@@ -35676,7 +35739,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Durchschnittsprofit; Durchschnittsprofitrate</link>
+    <link target="">Durchschnittsprofit</link>
+    <link target=""> Durchschnittsprofitrate</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Konsignationen</oname>
@@ -37832,7 +37896,8 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Konvertibilität</oname>
-    <link target="">Banknoten; Wechsel</link>
+    <link target="">Banknoten</link>
+    <link target=""> Wechsel</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Konzentration</oname>
@@ -38538,7 +38603,9 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Akkumulation des Kapitals; Gestz des tendenziellen Falls der Profitrate; Zentralisation</link>
+    <link target="">Akkumulation des Kapitals</link>
+    <link target=""> Gestz des tendenziellen Falls der Profitrate</link>
+    <link target=""> Zentralisation</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kooperation</oname>
@@ -39100,7 +39167,10 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Kaufmannskapital; Produktionskosten; Transport; Zirkulationskosten</link>
+    <link target="">Kaufmannskapital</link>
+    <link target=""> Produktionskosten</link>
+    <link target=""> Transport</link>
+    <link target=""> Zirkulationskosten</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kostpreis</oname>
@@ -40221,7 +40291,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Bodenpreis; Verwertungsprozeß des Kapitals</link>
+    <link target="">Bodenpreis</link>
+    <link target=""> Verwertungsprozeß des Kapitals</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kredit</oname>
@@ -43567,7 +43638,16 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Banken; Bankkredit; Banknoten; Depositen; Saint-Simonismus; Schwindel; Staatsanleihen, -effekten; Staatsverschuldung; Wechsel; Zins</link>
+    <link target="">Banken</link>
+    <link target=""> Bankkredit</link>
+    <link target=""> Banknoten</link>
+    <link target=""> Depositen</link>
+    <link target=""> Saint-Simonismus</link>
+    <link target=""> Schwindel</link>
+    <link target=""> Staatsanleihen, -effekten</link>
+    <link target=""> Staatsverschuldung</link>
+    <link target=""> Wechsel</link>
+    <link target=""> Zins</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kredit, kommerzieller (Handelskredit)</oname>
@@ -44174,7 +44254,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Banknoten; Wechsel</link>
+    <link target="">Banknoten</link>
+    <link target=""> Wechsel</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kreditkapital</oname>
@@ -45351,7 +45432,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Kapital, zinstragendes; Zentralisation</link>
+    <link target="">Kapital, zinstragendes</link>
+    <link target=""> Zentralisation</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kreislauf des Kapitals</oname>
@@ -49352,7 +49434,10 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Baumwollindustrie; England; Geldkrise; Überproduktion</link>
+    <link target="">Baumwollindustrie</link>
+    <link target=""> England</link>
+    <link target=""> Geldkrise</link>
+    <link target=""> Überproduktion</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kultur</oname>
@@ -49568,7 +49653,8 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kurse</oname>
-    <link target="">Aktien; Wertpapiere</link>
+    <link target="">Aktien</link>
+    <link target=""> Wertpapiere</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kurzarbeit</oname>
@@ -51159,7 +51245,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Konsumtionsmittel; Nachfrage und Zufuhr</link>
+    <link target="">Konsumtionsmittel</link>
+    <link target=""> Nachfrage und Zufuhr</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Leeds</oname>
@@ -53529,7 +53616,14 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Akkumulation von Geld- und Leihkapital; Anlagesphären, -felder; Bankkapital; Geldmarkt; Gold und Silber; Kapital, zinstragendes; Kredit; Zinsfuß, -rate</link>
+    <link target="">Akkumulation von Geld- und Leihkapital</link>
+    <link target=""> Anlagesphären, -felder</link>
+    <link target=""> Bankkapital</link>
+    <link target=""> Geldmarkt</link>
+    <link target=""> Gold und Silber</link>
+    <link target=""> Kapital, zinstragendes</link>
+    <link target=""> Kredit</link>
+    <link target=""> Zinsfuß, -rate</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Leinenindustrie</oname>
@@ -55566,7 +55660,13 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Agrikulturarbeiter; Fabriksystem; Kapitalist, fungierender; Maschinerie; Prosperität; Revenue; Verschwendung</link>
+    <link target="">Agrikulturarbeiter</link>
+    <link target=""> Fabriksystem</link>
+    <link target=""> Kapitalist, fungierender</link>
+    <link target=""> Maschinerie</link>
+    <link target=""> Prosperität</link>
+    <link target=""> Revenue</link>
+    <link target=""> Verschwendung</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Lombard, -geschäfte</oname>
@@ -55853,7 +55953,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Banken; Geldmarkt</link>
+    <link target="">Banken</link>
+    <link target=""> Geldmarkt</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Lumpen</oname>
@@ -56525,7 +56626,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Bank of England; Geldmarkt</link>
+    <link target="">Bank of England</link>
+    <link target=""> Geldmarkt</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Makler</oname>
@@ -56557,7 +56659,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Warenmakler; Wechselhändler</link>
+    <link target="">Warenmakler</link>
+    <link target=""> Wechselhändler</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Manager</oname>
@@ -58278,7 +58381,12 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Arbeitsmarkt; Geldmarkt; Handel; Kapitalist; Kapitalmarkt; Weltmarkt</link>
+    <link target="">Arbeitsmarkt</link>
+    <link target=""> Geldmarkt</link>
+    <link target=""> Handel</link>
+    <link target=""> Kapitalist</link>
+    <link target=""> Kapitalmarkt</link>
+    <link target=""> Weltmarkt</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Marktpreis</oname>
@@ -61811,7 +61919,9 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Abfälle; Amortisation des fixen Kapitals; Maschinenbau</link>
+    <link target="">Abfälle</link>
+    <link target=""> Amortisation des fixen Kapitals</link>
+    <link target=""> Maschinenbau</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Maß</oname>
@@ -68801,7 +68911,14 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Arbeitstag; Ausbeutung; Distribution; Extramehrwert;	Grundrente;	Kauf- mannskapital; Profit; Zins</link>
+    <link target="">Arbeitstag</link>
+    <link target=""> Ausbeutung</link>
+    <link target=""> Distribution</link>
+    <link target=""> Extramehrwert</link>
+    <link target="">	Grundrente</link>
+    <link target="">	Kauf- mannskapital</link>
+    <link target=""> Profit</link>
+    <link target=""> Zins</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Mehrwert, absoluter</oname>
@@ -72341,7 +72458,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Handwerk, Handwerker; Zünfte</link>
+    <link target="">Handwerk, Handwerker</link>
+    <link target=""> Zünfte</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Melioration</oname>
@@ -73486,7 +73604,10 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Geldzirkulation; Gold und Silber; Gold- ab- und -zufluß; Münzen</link>
+    <link target="">Geldzirkulation</link>
+    <link target=""> Gold und Silber</link>
+    <link target=""> Gold- ab- und -zufluß</link>
+    <link target=""> Münzen</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Metallschatz (der Banken)</oname>
@@ -73836,7 +73957,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Bank of England; Goldschatz</link>
+    <link target="">Bank of England</link>
+    <link target=""> Goldschatz</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Metamorphose der Ware</oname>
@@ -74232,7 +74354,9 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Abstraktion; Analyse; Logisches und Historisches</link>
+    <link target="">Abstraktion</link>
+    <link target=""> Analyse</link>
+    <link target=""> Logisches und Historisches</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Miete, Mietkontrakt</oname>
@@ -74821,7 +74945,9 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Bauern; Feudalismus; Kaufmann</link>
+    <link target="">Bauern</link>
+    <link target=""> Feudalismus</link>
+    <link target=""> Kaufmann</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Möbelfabrikation</oname>
@@ -75698,7 +75824,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Kartell; Trust</link>
+    <link target="">Kartell</link>
+    <link target=""> Trust</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Monopolpreis</oname>
@@ -76255,7 +76382,9 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Entfremdung; Fetischismus; Zins</link>
+    <link target="">Entfremdung</link>
+    <link target=""> Fetischismus</link>
+    <link target=""> Zins</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Nachfrage und Zufuhr (Nachfrage und Angebot)</oname>
@@ -77936,7 +78065,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Lebensmittel; Nachfrage und Zufuhr (Nachfrage und Angebot)</link>
+    <link target="">Lebensmittel</link>
+    <link target=""> Nachfrage und Zufuhr (Nachfrage und Angebot)</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Nation, Nationen</oname>
@@ -78760,7 +78890,9 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Hausindustrie; Kleinproduktion; Mittelalter</link>
+    <link target="">Hausindustrie</link>
+    <link target=""> Kleinproduktion</link>
+    <link target=""> Mittelalter</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Naturbedingungen</oname>
@@ -79306,7 +79438,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Chemie; Geologie</link>
+    <link target="">Chemie</link>
+    <link target=""> Geologie</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Nebenarbeit</oname>
@@ -83095,7 +83228,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Banknoten; Metallgeld</link>
+    <link target="">Banknoten</link>
+    <link target=""> Metallgeld</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Paris</oname>
@@ -85912,7 +86046,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Abstraktion; Analyse</link>
+    <link target="">Abstraktion</link>
+    <link target=""> Analyse</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Politische Ökonomie, klassische bürgerliche</oname>
@@ -86417,7 +86552,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Ricardo, David; Smith, Adam</link>
+    <link target="">Ricardo, David</link>
+    <link target=""> Smith, Adam</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Portugal, Portugiesen</oname>
@@ -88257,7 +88393,14 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Agrikulturprodukte; Bodenpreis; Fabrikate; Leihkapital; Marktpreis; Monopolpreis; Warenpreise; Zins</link>
+    <link target="">Agrikulturprodukte</link>
+    <link target=""> Bodenpreis</link>
+    <link target=""> Fabrikate</link>
+    <link target=""> Leihkapital</link>
+    <link target=""> Marktpreis</link>
+    <link target=""> Monopolpreis</link>
+    <link target=""> Warenpreise</link>
+    <link target=""> Zins</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Preisschwankungen, -wechsel</oname>
@@ -89293,7 +89436,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Banken; Provinzbanken</link>
+    <link target="">Banken</link>
+    <link target=""> Provinzbanken</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Privateigentum</oname>
@@ -89983,7 +90127,8 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Agrikulturprodukte; Gesamtprodukt, gesellschaftliches</link>
+    <link target="">Agrikulturprodukte</link>
+    <link target=""> Gesamtprodukt, gesellschaftliches</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Produktenrente (Naturalrente)</oname>
@@ -92133,7 +92278,14 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Abfälle; Kleinproduktion; Konsumtionsmittel; Nahrung, -smittel; Produktion, assoziierte; Produktionsmittel; Produktionsweise; Überproduktion</link>
+    <link target="">Abfälle</link>
+    <link target=""> Kleinproduktion</link>
+    <link target=""> Konsumtionsmittel</link>
+    <link target=""> Nahrung, -smittel</link>
+    <link target=""> Produktion, assoziierte</link>
+    <link target=""> Produktionsmittel</link>
+    <link target=""> Produktionsweise</link>
+    <link target=""> Überproduktion</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Produktion, agrikole</oname>
@@ -95815,6 +95967,11 @@
         </entry>
       </group>
     </unterBegriff>
-    <link target="">Arbeit; Erfindungen; Fortschritt; Massenproduktion; Produktionsweise, kapitalistische; Ware</link>
+    <link target="">Arbeit</link>
+    <link target=""> Erfindungen</link>
+    <link target=""> Fortschritt</link>
+    <link target=""> Massenproduktion</link>
+    <link target=""> Produktionsweise, kapitalistische</link>
+    <link target=""> Ware</link>
   </oberBegriff>
 </globReg>
