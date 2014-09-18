@@ -7,6 +7,7 @@ OCRソフトウェアによる作ったテキストのよくあるミス(手修�
 
 ###矢印の識別のミス
 　　例：
+　　
     Abfälle (Exkremente)
     ...省略
     → Verluste
