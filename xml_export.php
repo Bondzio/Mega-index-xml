@@ -12,19 +12,6 @@ function pre_print_r($var){
 		echo "</pre>";
 	}
 
-
-
-//empty($key_num[2])?print('a'):print('b');
-//$a = $key_num[70];
-//$a = explode(" ", $a);
-//pre_print_r($a);
-//strpos("7728", "-")?print("a"):print("b");
-//pre_print_r($key_num);
-
-
-
-
-
 $dom = new DomDocument('1.0', 'UTF-8');
 $globReg = $dom->appendChild($dom->createElement('globReg'));
 
@@ -130,7 +117,6 @@ for ($i=0; $i < count($key_char) ; $i++) {
 	if(array_key_exists($i, $arrow_char)){
 		$arrow_string = substr(trim($arrow_char[$i]), 2);
 		$arrow_arr = explode(";", $arrow_string);
-		pre_print_r($arrow_arr);
 			foreach ($arrow_arr as $each_arrow_arr) {
 				$link = $ober->appendChild($dom->createElement('link',$each_arrow_arr));
 				$link->setAttribute('target', '');
@@ -141,4 +127,3 @@ for ($i=0; $i < count($key_char) ; $i++) {
 
 $dom->formatOutput = true;
 $dom->save('part2.xml');
-
