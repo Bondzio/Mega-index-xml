@@ -6,7 +6,7 @@ use php to process raw text to xml
 ###OCRソフトウェアによる作ったテキストのよくあるミス(手修正する必要があります)
 
     矢印の識別のミス
-　　例：
+    Example:
     Abfälle (Exkremente)
     ...省略
     → Verluste
