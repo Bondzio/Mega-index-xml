@@ -93,25 +93,16 @@ $key_num = array();// the numbers related to the key are all stored here;
 $key_char = array();// all the key was stored here;
 // print out all value of $key;
 //for ($i=0; $i < count($key); $i++) {echo $key[$i]."<br />"; }
+
 for ($i=0; $i < count($key); $i++) { 
 	preg_match_all($pattern, $key[$i], $matches);
 	$key_char[$i] = $matches[1][0];
-	$key_num[$i] = $matches[2][0];
+
+	if(strpos($key_char[$i], "<br />")){
+		$key_char[$i] = substr($key_char[$i], 0, strpos($key_char[$i], "<br />"));
+	}
+		$key_num[$i] = $matches[2][0];
 }
-
-// for ($i=0; $i <count($key) ; $i++) { 
-// 	preg_match('/\d-?.*/', $key[$i],$page_matches);
-// 	if(array_key_exists(0,$page_matches)){ 
-// 		$key_num [$i] = $page_matches[0];
-// 	}else{$key_num[$i] = ""; }
-// }
-
-// for ($i=0; $i <count($key) ; $i++) { 
-// 	preg_match('/[^\d]*/', trim($key[$i]),$char_matches);
-// 	$key_char [$i] = $char_matches[0];
-// }
-
-
 
 
 // Let's seperate char&num of hyphen;
