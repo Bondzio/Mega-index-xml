@@ -29,7 +29,7 @@ $array_one_word ={
 	}
 
 
-	$keywds = file("clean_part2.txt");
+	$keywds = file("./text/clean_part2.txt");
 
 /*
 // check if it's right
@@ -87,24 +87,29 @@ for ($i=0; $i < count($key); $i++) {
 */
 
 
+$pattern = "/(.*?)\s([-\s\d]+)$/";
 // Let's seperate char&num of key;
 $key_num = array();// the numbers related to the key are all stored here;
 $key_char = array();// all the key was stored here;
 // print out all value of $key;
 //for ($i=0; $i < count($key); $i++) {echo $key[$i]."<br />"; }
-for ($i=0; $i <count($key) ; $i++) { 
-	preg_match('/\d-?.*/', $key[$i],$page_matches);
-	if(array_key_exists(0,$page_matches)){ 
-		$key_num [$i] = $page_matches[0];
-	}else{$key_num[$i] = ""; }
+for ($i=0; $i < count($key); $i++) { 
+	preg_match_all($pattern, $key[$i], $matches);
+	$key_char[$i] = $matches[1][0];
+	$key_num[$i] = $matches[2][0];
 }
 
-for ($i=0; $i <count($key) ; $i++) { 
-	preg_match('/[^\d]*/', trim($key[$i]),$char_matches);
-	$key_char [$i] = $char_matches[0];
-}
-//pre_print_r($key_char);
-//pre_print_r($key_num); //for ($i=0; $i < count($key_char); $i++) {echo $i." ".$key_char[$i][0]."<br />"; }
+// for ($i=0; $i <count($key) ; $i++) { 
+// 	preg_match('/\d-?.*/', $key[$i],$page_matches);
+// 	if(array_key_exists(0,$page_matches)){ 
+// 		$key_num [$i] = $page_matches[0];
+// 	}else{$key_num[$i] = ""; }
+// }
+
+// for ($i=0; $i <count($key) ; $i++) { 
+// 	preg_match('/[^\d]*/', trim($key[$i]),$char_matches);
+// 	$key_char [$i] = $char_matches[0];
+// }
 
 
 
@@ -115,7 +120,6 @@ $hyphen_char = array();// all the key was stored here;
 foreach ($hyphen as $value){foreach ($value as $child) { $temp[] = $child; } };
 //$re = '"(.*?)\\s([-\\s\\d]+)$"m'; 
 //$re = "/(.*?)([-\s\d]+)?$/m";
-$pattern = "/(.*?)\s([-\s\d]+)$/";
 //pre_print_r($hyphen_keys);
 //pre_print_r($hyphen_keys_keys);
 //pre_print_r($hyphen);
@@ -145,6 +149,7 @@ for ($i=0; $i < count($arrow_keys); $i++) {
 	}
 //pre_print_r($arrow_char);
 //pre_print_r($arrow_num);
+
 
 
 // print all words as html
