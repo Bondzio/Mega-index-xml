@@ -21,7 +21,6 @@ function pre_print_r($var){
 
 
 $part2 = file_get_contents("./globReg.xml");
-
 $result = xmlstr_to_array($part2);
 pre_print_r($result);
 
