@@ -3,617 +3,922 @@
   array (
     0 => '﻿Handelsbilanz',
     1 => 'Handelsfreiheit',
-    2 => 'Handelsgeist ',
-    3 => 'Handelsgeld ',
-    4 => 'Handelshäuser ',
-    5 => 'Handelskapital ',
-    6 => 'Handelskosten ',
+    2 => 'Handelsgeist',
+    3 => 'Handelsgeld',
+    4 => 'Handelshäuser',
+    5 => 'Handelskapital',
+    6 => 'Handelskosten',
     7 => 'Handelskredit',
-    8 => 'Handelskrise ',
-    9 => 'Handelsnation ',
+    8 => 'Handelskrise',
+    9 => 'Handelsnation',
     10 => 'Handelsprofit',
-    11 => 'Handelsstädte ',
-    12 => 'Handelsvölker ',
+    11 => 'Handelsstädte',
+    12 => 'Handelsvölker',
     13 => 'Handelswechsel',
-    14 => 'Handelszweig ',
-    15 => 'Handwerk, Handwerker ',
+    14 => 'Handelszweig',
+    15 => 'Handwerk, Handwerker',
     16 => 'Hausindustrie',
-    17 => 'Hausmiete ',
-    18 => 'Heimarbeit ',
-    19 => 'Herrschaft ',
-    20 => 'Hilfsstoffe ',
+    17 => 'Hausmiete',
+    18 => 'Heimarbeit',
+    19 => 'Herrschaft',
+    20 => 'Hilfsstoffe',
     21 => 'Historisches und Logisches',
-    22 => 'Hörige, Hörigkeit ',
-    23 => 'Holland ',
-    24 => 'Holländisch-Ostindische Kompanie ',
-    25 => 'Hungersnot ',
-    26 => 'Hypothek ',
+    22 => 'Hörige, Hörigkeit',
+    23 => 'Holland',
+    24 => 'Holländisch-Ostindische Kompanie',
+    25 => 'Hungersnot',
+    26 => 'Hypothek',
     27 => 'Hypothese',
     28 => 'Ideal',
     29 => 'Ideelles',
     30 => 'Identität',
-    31 => 'Import (Einfuhr) ',
-    32 => 'Indien ',
+    31 => 'Import (Einfuhr)',
+    32 => 'Indien',
     33 => 'Individuum',
-    34 => 'Industrie ',
-    35 => 'Industrie, chemische ',
-    36 => 'Industrie, extraktive ',
-    37 => 'Industrie, große ',
-    38 => 'Industriebezirke ',
+    34 => 'Industrie',
+    35 => 'Industrie, chemische',
+    36 => 'Industrie, extraktive',
+    37 => 'Industrie, große',
+    38 => 'Industriebezirke',
     39 => 'Industriebevölkerung',
-    40 => 'Industrieländer ',
-    41 => 'Industrielle ',
-    42 => 'Industriewaren, -produkte ',
-    43 => 'Industriezweige ',
-    44 => 'Inhalt und Form ',
+    40 => 'Industrieländer',
+    41 => 'Industrielle',
+    42 => 'Industriewaren, -produkte',
+    43 => 'Industriezweige',
+    44 => 'Inhalt und Form',
     45 => 'Intensität der Arbeit',
     46 => 'Interessen',
-    47 => 'Internationale Arbeiter-Assoziation ',
-    48 => 'Ipswich ',
-    49 => 'Irland ',
+    47 => 'Internationale Arbeiter-Assoziation',
+    48 => 'Ipswich',
+    49 => 'Irland',
     50 => 'Irrationalismus',
-    51 => 'Italien ',
-    52 => 'Jahreszeiten ',
-    53 => 'Japan ',
-    54 => 'Juden ',
+    51 => 'Italien',
+    52 => 'Jahreszeiten',
+    53 => 'Japan',
+    54 => 'Juden',
     55 => 'Justiz',
-    56 => 'Jute-Spinnerei ',
-    57 => 'Kanada ',
-    58 => 'Kapital ',
-    59 => 'Kapital, fiktives ',
-    60 => 'Kapital, fixes ',
-    61 => 'Kapital, industrielles ',
+    56 => 'Jute-Spinnerei',
+    57 => 'Kanada',
+    58 => 'Kapital',
+    59 => 'Kapital, fiktives',
+    60 => 'Kapital, fixes',
+    61 => 'Kapital, industrielles',
     62 => 'Kapital, kaufmännisches',
     63 => 'Kapital, konstantes',
-    64 => 'Kapital, produktives ',
-    65 => 'Kapital, variables ',
-    66 => 'Kapital, zinstragendes ',
+    64 => 'Kapital, produktives',
+    65 => 'Kapital, variables',
+    66 => 'Kapital, zinstragendes',
     67 => 'Kapital, zirkulierendes',
     68 => '„Das Kapital“',
-    69 => '„Das Kapital“, Buch ',
-    70 => '„Das Kapital“, Buch ',
-    71 => '„Das Kapital“, Buch ',
-    72 => '„Das Kapital“, Buch ',
-    73 => 'Kapitalanlage ',
-    74 => 'Kapitaleigentümer, -eigner ',
-    75 => 'Kapitaleigentum ',
-    76 => 'Kapitalexport ',
-    77 => 'Kapitalisierung ',
-    78 => 'Kapitalist ',
-    79 => 'Kapitalist, fungierender ',
-    80 => 'Kapitalist, industrieller ',
+    69 => '„Das Kapital“, Buch 1',
+    70 => '„Das Kapital“, Buch 2',
+    71 => '„Das Kapital“, Buch 3',
+    72 => '„Das Kapital“, Buch 4',
+    73 => 'Kapitalanlage',
+    74 => 'Kapitaleigentümer, -eigner',
+    75 => 'Kapitaleigentum',
+    76 => 'Kapitalexport',
+    77 => 'Kapitalisierung',
+    78 => 'Kapitalist',
+    79 => 'Kapitalist, fungierender',
+    80 => 'Kapitalist, industrieller',
     81 => 'Kapitalist, kommerzieller',
-    82 => 'Kapitalistenklasse ',
-    83 => 'Kapitalmangel ',
-    84 => 'Kapitalmarkt ',
-    85 => 'Kapitalmasse ',
-    86 => 'Kapitalschöpfung ',
-    87 => 'Kapitalübertragung ',
-    88 => 'Kapitalvorschüsse ',
-    89 => 'Kapitalwanderung ',
-    90 => 'Kapitalzins ',
-    91 => 'Kartelle ',
-    92 => 'Kategorie, ökonomische ',
-    93 => 'Katholizismus ',
-    94 => 'Kauf und Verkauf ',
-    95 => 'Kaufkraft ',
-    96 => 'Kaufmann ',
-    97 => 'Kaufmannskapital (merkantiles Kapital) ',
-    98 => 'Kinderarbeit ',
-    99 => 'Kirche ',
+    82 => 'Kapitalistenklasse',
+    83 => 'Kapitalmangel',
+    84 => 'Kapitalmarkt',
+    85 => 'Kapitalmasse',
+    86 => 'Kapitalschöpfung',
+    87 => 'Kapitalübertragung',
+    88 => 'Kapitalvorschüsse',
+    89 => 'Kapitalwanderung',
+    90 => 'Kapitalzins',
+    91 => 'Kartelle',
+    92 => 'Kategorie, ökonomische',
+    93 => 'Katholizismus',
+    94 => 'Kauf und Verkauf',
+    95 => 'Kaufkraft',
+    96 => 'Kaufmann',
+    97 => 'Kaufmannskapital (merkantiles Kapital)',
+    98 => 'Kinderarbeit',
+    99 => 'Kirche',
     100 => 'Klasse',
     101 => 'Klassen',
-    102 => 'Klassengegensatz ',
-    103 => 'Klassenkampf ',
+    102 => 'Klassengegensatz',
+    103 => 'Klassenkampf',
     104 => 'Kleinproduktion, -produzenten',
-    105 => 'Knechtschaft, -sverhältnis ',
+    105 => 'Knechtschaft, -sverhältnis',
     106 => 'Kohlenbergwerke',
-    107 => 'Kolonialhandel ',
-    108 => 'Kolonialstaaten ',
-    109 => 'Kolonialwaren, -produkte ',
-    110 => 'Kolonien, Kolonialsystem ',
-    111 => 'Kombination ',
-    112 => 'Kommunikation, -smittel ',
-    113 => 'Kommunismus (als ökonomische Gesellschaftsformation) ',
-    114 => 'Kommunismus, naturwüchsiger ',
+    107 => 'Kolonialhandel',
+    108 => 'Kolonialstaaten',
+    109 => 'Kolonialwaren, -produkte',
+    110 => 'Kolonien, Kolonialsystem',
+    111 => 'Kombination',
+    112 => 'Kommunikation, -smittel',
+    113 => 'Kommunismus (als ökonomische Gesellschaftsformation)',
+    114 => 'Kommunismus, naturwüchsiger',
     115 => 'Kompagnien',
-    116 => 'Kompensation ',
-    117 => 'Konjunktur ',
-    118 => 'Konkurrenz ',
-    119 => 'Konsignationen ',
+    116 => 'Kompensation',
+    117 => 'Konjunktur',
+    118 => 'Konkurrenz',
+    119 => 'Konsignationen',
     120 => 'Konsols',
-    121 => 'Konsument ',
-    122 => 'Konsumtion ',
-    123 => 'Konsumtionsfonds ',
-    124 => 'Konsumtionsmittel ',
-    125 => 'Konsumtionsverhältnisse ',
-    126 => 'Kontinuität ',
-    127 => 'Kontrakt ',
-    128 => 'Kontrolle ',
+    121 => 'Konsument',
+    122 => 'Konsumtion',
+    123 => 'Konsumtionsfonds',
+    124 => 'Konsumtionsmittel',
+    125 => 'Konsumtionsverhältnisse',
+    126 => 'Kontinuität',
+    127 => 'Kontrakt',
+    128 => 'Kontrolle',
     129 => 'Konvertibilität',
-    130 => 'Konzentration ',
-    131 => 'Kooperation ',
-    132 => 'Kooperation, einfache ',
-    133 => 'Kooperativfabriken der Arbeiter ',
+    130 => 'Konzentration',
+    131 => 'Kooperation',
+    132 => 'Kooperation, einfache',
+    133 => 'Kooperativfabriken der Arbeiter',
     134 => 'Korn',
     135 => 'Korngesetze, -zölle (in England)',
     136 => 'Kornrente',
-    137 => 'Korporationswesen ',
+    137 => 'Korporationswesen',
     138 => 'Kosten',
-    139 => 'Kostpreis ',
-    140 => 'Kredit ',
-    141 => 'Kredit, kommerzieller (Handelskredit) ',
-    142 => 'Kreditassoziationen ',
-    143 => 'Kreditgeld ',
-    144 => 'Kreditkapital ',
-    145 => 'Kreditkrise ',
-    146 => 'Kreditmangel ',
-    147 => 'Kreditsystem, -wesen ',
-    148 => 'Kreislauf des Kapitals ',
-    149 => 'Krieg ',
-    150 => 'Krimkrieg ',
-    151 => 'Krise, allgemeine ',
-    152 => 'Krisen, ökonomische ',
-    153 => 'Kultur ',
-    154 => 'Kunden ',
+    139 => 'Kostpreis',
+    140 => 'Kredit',
+    141 => 'Kredit, kommerzieller (Handelskredit)',
+    142 => 'Kreditassoziationen',
+    143 => 'Kreditgeld',
+    144 => 'Kreditkapital',
+    145 => 'Kreditkrise',
+    146 => 'Kreditmangel',
+    147 => 'Kreditsystem, -wesen',
+    148 => 'Kreislauf des Kapitals',
+    149 => 'Krieg',
+    150 => 'Krimkrieg',
+    151 => 'Krise, allgemeine',
+    152 => 'Krisen, ökonomische',
+    153 => 'Kultur',
+    154 => 'Kunden',
     155 => 'Kupfer',
     156 => 'Kurse',
-    157 => 'Kurzarbeit ',
-    158 => 'Ladescheine (bills of lading) ',
+    157 => 'Kurzarbeit',
+    158 => 'Ladescheine (bills of lading)',
     159 => 'Lagerscheine (dock warrants)',
     160 => 'Land (Dorf)',
     161 => 'Landarbeiter',
     162 => 'Landwirtschaft',
     163 => 'Länder',
-    164 => 'Lebensbedingungen, -weise ',
-    165 => 'Lebensmittel ',
-    166 => 'Leeds ',
-    167 => 'Leibeigene ',
-    168 => 'Leibeigenschaft ',
-    169 => 'Leibrente ',
-    170 => 'Leihkapital ',
+    164 => 'Lebensbedingungen, -weise',
+    165 => 'Lebensmittel',
+    166 => 'Leeds',
+    167 => 'Leibeigene',
+    168 => 'Leibeigenschaft',
+    169 => 'Leibrente',
+    170 => 'Leihkapital',
     171 => 'Leinenindustrie',
-    172 => 'Leitung der Produktion ',
-    173 => 'Little shilling man ',
-    174 => 'Liverpool ',
-    175 => 'Literatur, internationale sozialistische ',
-    176 => 'Logisches und Historisches ',
+    172 => 'Leitung der Produktion',
+    173 => 'Little shilling man',
+    174 => 'Liverpool',
+    175 => 'Literatur, internationale sozialistische',
+    176 => 'Logisches und Historisches',
     177 => 'Lohn',
-    178 => 'Lohnarbeit ',
-    179 => 'Lohnarbeit und Kapital ',
-    180 => 'Lohnarbeiter ',
+    178 => 'Lohnarbeit',
+    179 => 'Lohnarbeit und Kapital',
+    180 => 'Lohnarbeiter',
     181 => 'Lombard, -geschäfte',
-    182 => 'London ',
+    182 => 'London',
     183 => 'Lumpen',
-    184 => 'Luxus ',
-    185 => 'Luxusprodukt ',
-    186 => 'Luxusindustrien ',
-    187 => 'Macht ',
-    188 => 'Makler ',
-    189 => 'Manager ',
-    190 => 'Manchester ',
+    184 => 'Luxus',
+    185 => 'Luxusprodukt',
+    186 => 'Luxusindustrien',
+    187 => 'Macht',
+    188 => 'Makler',
+    189 => 'Manager',
+    190 => 'Manchester',
     191 => 'Mangel',
-    192 => 'Manufaktur ',
-    193 => 'Manufakturperiode ',
-    194 => 'Markgemeinschaft ',
-    195 => 'Markt ',
-    196 => 'Marktpreis ',
-    197 => 'Marktproduktionspreis ',
+    192 => 'Manufaktur',
+    193 => 'Manufakturperiode',
+    194 => 'Markgemeinschaft',
+    195 => 'Markt',
+    196 => 'Marktpreis',
+    197 => 'Marktproduktionspreis',
     198 => 'Marktwert',
     199 => 'Maschine',
-    200 => 'Maschinenbau ',
-    201 => 'Maschinerie ',
+    200 => 'Maschinenbau',
+    201 => 'Maschinerie',
     202 => 'Maß',
-    203 => 'Massenproduktion ',
-    204 => 'Mauritius ',
-    205 => 'Mehl ',
-    206 => 'Mehrarbeit (Surplusarbeit) ',
-    207 => 'Mehrarbeitszeit ',
-    208 => 'Mehrprodukt ',
-    209 => 'Mehrwert ',
-    210 => 'Mehrwert, absoluter ',
-    211 => 'Mehrwert, relativer ',
-    212 => 'Mehrwertmasse ',
-    213 => 'Mehrwertrate ',
-    214 => 'Mehrwerttheorie ',
-    215 => 'Meister ',
-    216 => 'Melioration ',
-    217 => 'Mensch, Individuum ',
-    218 => 'Merkantilismus ',
-    219 => 'Metäriewirtschaft ',
-    220 => 'Metallgeld ',
-    221 => 'Metallschatz (der Banken) ',
-    222 => 'Metamorphose der Ware ',
-    223 => 'Metamorphose des Kapitals ',
-    224 => 'Methode ',
-    225 => 'Miete, Mietkontrakt ',
-    226 => 'Mißernte ',
+    203 => 'Massenproduktion',
+    204 => 'Mauritius',
+    205 => 'Mehl',
+    206 => 'Mehrarbeit (Surplusarbeit)',
+    207 => 'Mehrarbeitszeit',
+    208 => 'Mehrprodukt',
+    209 => 'Mehrwert',
+    210 => 'Mehrwert, absoluter',
+    211 => 'Mehrwert, relativer',
+    212 => 'Mehrwertmasse',
+    213 => 'Mehrwertrate',
+    214 => 'Mehrwerttheorie',
+    215 => 'Meister',
+    216 => 'Melioration',
+    217 => 'Mensch, Individuum',
+    218 => 'Merkantilismus',
+    219 => 'Metäriewirtschaft',
+    220 => 'Metallgeld',
+    221 => 'Metallschatz (der Banken)',
+    222 => 'Metamorphose der Ware',
+    223 => 'Metamorphose des Kapitals',
+    224 => 'Methode',
+    225 => 'Miete, Mietkontrakt',
+    226 => 'Mißernte',
     227 => 'Mittel',
     228 => 'Mittelalter',
-    229 => 'Möbelfabrikation ',
-    230 => 'Modifikation ',
-    231 => 'Möglichkeit und Wirklichkeit ',
+    229 => 'Möbelfabrikation',
+    230 => 'Modifikation',
+    231 => 'Möglichkeit und Wirklichkeit',
     232 => 'Monetarsystem',
     233 => 'Monopol',
-    234 => 'Monopolisierung von Naturkräften ',
-    235 => 'Monopolpreis ',
-    236 => 'Monopolrente ',
+    234 => 'Monopolisierung von Naturkräften',
+    235 => 'Monopolpreis',
+    236 => 'Monopolrente',
     237 => 'Mühlen',
-    238 => 'Münzen ',
-    239 => 'Mystifikation des Kapitals ',
-    240 => 'Nachfrage und Zufuhr (Nachfrage und Angebot) ',
-    241 => 'Nahrung, -smittel ',
-    242 => 'Nation, Nationen ',
-    243 => 'Nationalbank ',
-    244 => 'Natur ',
+    238 => 'Münzen',
+    239 => 'Mystifikation des Kapitals',
+    240 => 'Nachfrage und Zufuhr (Nachfrage und Angebot)',
+    241 => 'Nahrung, -smittel',
+    242 => 'Nation, Nationen',
+    243 => 'Nationalbank',
+    244 => 'Natur',
     245 => 'Naturalrente',
-    246 => 'Naturalwirtschaft ',
-    247 => 'Naturbedingungen ',
-    248 => 'Naturgesetze ',
+    246 => 'Naturalwirtschaft',
+    247 => 'Naturbedingungen',
+    248 => 'Naturgesetze',
     249 => 'Naturkräfte',
-    250 => 'Naturreichtum ',
+    250 => 'Naturreichtum',
     251 => 'Naturwissenschaft',
     252 => 'Nebenarbeit',
-    253 => 'Nebenindustrie, ländlich-häusliche ',
-    254 => 'Nebenkosten der Produktion (faux frais de production) ',
+    253 => 'Nebenindustrie, ländlich-häusliche',
+    254 => 'Nebenkosten der Produktion (faux frais de production)',
     255 => 'Nettoprofit',
-    256 => 'Neuwert (v+m) ',
-    257 => 'Nomadenvölker ',
+    256 => 'Neuwert (v+m)',
+    257 => 'Nomadenvölker',
     258 => 'Normalarbeitstag',
     259 => 'Notwendigkeit',
     260 => 'Objekt',
-    261 => 'Obligationen ',
-    262 => 'Ökonomie (Ersparung) ',
+    261 => 'Obligationen',
+    262 => 'Ökonomie (Ersparung)',
     263 => 'Ökonomie',
-    264 => 'Ökonomie und Politik ',
-    265 => 'Opiumhandel ',
-    266 => 'Opiumkrieg ',
-    267 => 'Ostindische Kompanie ',
+    264 => 'Ökonomie und Politik',
+    265 => 'Opiumhandel',
+    266 => 'Opiumkrieg',
+    267 => 'Ostindische Kompanie',
     268 => 'Pacht',
-    269 => 'Pächter ',
-    270 => 'Panamaschwindel ',
-    271 => 'Papiergeld ',
-    272 => 'Paris ',
-    273 => 'Parzelleneigentum, -wirtschaft ',
-    274 => 'Patrizier und Plebejer ',
-    275 => 'Pauperismus, Paupers ',
+    269 => 'Pächter',
+    270 => 'Panamaschwindel',
+    271 => 'Papiergeld',
+    272 => 'Paris',
+    273 => 'Parzelleneigentum, -wirtschaft',
+    274 => 'Patrizier und Plebejer',
+    275 => 'Pauperismus, Paupers',
     276 => 'Personifikation',
-    277 => 'Peru ',
-    278 => 'Pfandgeschäfte ',
-    279 => 'Pfandhaus ',
-    280 => 'Pfandhauszins ',
-    281 => 'Pfandverleiher ',
-    282 => 'Physiokraten, Physiokratismus ',
-    283 => 'Physiologie ',
-    284 => 'Plantagen, -wirtschaft ',
+    277 => 'Peru',
+    278 => 'Pfandgeschäfte',
+    279 => 'Pfandhaus',
+    280 => 'Pfandhauszins',
+    281 => 'Pfandverleiher',
+    282 => 'Physiokraten, Physiokratismus',
+    283 => 'Physiologie',
+    284 => 'Plantagen, -wirtschaft',
     285 => 'Plebejer',
-    286 => 'Polen ',
+    286 => 'Polen',
     287 => 'Politik',
-    288 => 'Politische Ökonomie ',
+    288 => 'Politische Ökonomie',
     289 => 'Politische Ökonomie, bürgerliche',
     290 => 'Politische Ökonomie, klassische bürgerliche',
-    291 => 'Portugal, Portugiesen ',
-    292 => 'Praxis ',
-    293 => 'Preis ',
-    294 => 'Preisschwankungen, -wechsel ',
-    295 => 'Prellerei ',
-    296 => 'Privatbanken ',
-    297 => 'Privateigentum ',
-    298 => 'Produkt ',
-    299 => 'Produktenrente (Naturalrente) ',
-    300 => 'Produktenwert ',
-    301 => 'Produktion ',
+    291 => 'Portugal, Portugiesen',
+    292 => 'Praxis',
+    293 => 'Preis',
+    294 => 'Preisschwankungen, -wechsel',
+    295 => 'Prellerei',
+    296 => 'Privatbanken',
+    297 => 'Privateigentum',
+    298 => 'Produkt',
+    299 => 'Produktenrente (Naturalrente)',
+    300 => 'Produktenwert',
+    301 => 'Produktion',
     302 => 'Produktion, agrikole',
     303 => 'Produktion, assoziierte',
-    304 => 'Produktion, kapitalistische ',
+    304 => 'Produktion, kapitalistische',
   ),
   'key_num' => 
   array (
-    0 => '',
-    1 => '',
-    2 => '325',
-    3 => '311',
-    4 => '483',
-    5 => '321 760',
-    6 => '291',
-    7 => '',
-    8 => '540 541 549',
-    9 => '326 772',
-    10 => '',
-    11 => '310 311 320 321 323 493',
-    12 => '321-325',
-    13 => '',
-    14 => '302 305 308 322',
-    15 => '584 590 757',
-    16 => '',
-    17 => '135 136 140 750',
-    18 => '96',
-    19 => '375',
-    20 => '36 75 103 105 110 115 210 217 223 224 245 257 258 737 809 812',
-    21 => '',
-    22 => '605 766 768 769 774',
-    23 => '325',
-    24 => '300 301 322',
-    25 => '489',
-    26 => '447 462',
-    27 => '',
-    28 => '',
-    29 => '',
-    30 => '',
-    31 => '497',
-    32 => '72 399 405',
-    33 => '',
-    34 => '206 207 687',
-    35 => '72',
-    36 => '103 121 737',
-    37 => '231',
-    38 => '482',
-    39 => '',
-    40 => '72 429',
-    41 => '360 616 749 787 840',
-    42 => '656',
-    43 => '105 206 283 758',
-    44 => '30 331 332 496',
-    45 => '',
-    46 => '',
-    47 => '7',
-    48 => '484 492',
-    49 => '399 616',
-    50 => '',
-    51 => '21 328 545 776',
-    52 => '440',
-    53 => '101',
-    54 => '323 408 587 601 602',
-    55 => '',
-    56 => '131',
-    57 => '581 656',
-    58 => '446',
-    59 => '250 401 402 404 468 472 474 504 505',
-    60 => '104',
-    61 => '284 285 331 360 382 563 758',
-    62 => '',
-    63 => '',
-    64 => '243 271 480 758',
-    65 => '35 500 674',
-    66 => '237 348 349 362 370 445 461 462 466-468 473 475',
-    67 => '',
-    68 => '',
-    69 => '1 5 7 8 10 11 15 17 29 30 33 35 38 42-44 47 52 53 75 79 83 91 93 95 136 144 147 162 164 181 193 228 229 243 258 302 311 313 436 449 483 516 518 564 605 616 619 765 766 770 793 809 824 851',
-    70 => '2 5-7 11 15 19 20 29 30 46 52 71 72 74-76 121 164 263-265 276 283 295 299 303 333 435 438 477 524 555 750 802 810 812 818',
-    71 => '3 5 15 18 23 29 30',
-    72 => '4',
-    73 => '115 144 266 316 446 506 527 573 738 843',
-    74 => '335 336 341 361 362 365 367-370',
-    75 => '347 372 375 475',
-    76 => '311 566 567 572 581',
-    77 => '242 462-464',
-    78 => '10 12 13 15 16 20 37 39 160 166 217 219 327 341 532 598 602 603 673 815 822 842 844',
-    79 => '249 342 349-351 355 362 368 373 382 383 428 795 843 846',
-    80 => '12 14 20 237 262 264 269 271 288 291 292 294 308 337 362 376 377 411 476 479 492 498 501 503 507-509 513 539 577 595 596 607 613',
-    81 => '',
-    82 => '12 13 124 309 310 314 359 365 366 480',
-    83 => '414',
-    84 => '504 571 747',
-    85 => '206 436 563 631 658',
-    86 => '535 536',
-    87 => '206 207 313 420 438 445 446 571 576',
-    88 => '15 44 72-76 78 114 217 275 445 447 533 685',
-    89 => '603',
-    90 => '51 372 610',
-    91 => '429 486',
-    92 => '33 212 237 338 339 357 361 365 366 368 369 492 607 611 628 785 795 797 798 801 807 831',
-    93 => '583',
-    94 => '420 434 478 486 516 786',
-    95 => '430',
-    96 => '20 265 270-272 288 296 297 300 317-319 323 324 327 360 394 430 491 584',
-    97 => '21 206 222 332 381 442 494',
-    98 => '88 91 93 230',
-    99 => '590 591',
-    100 => '',
-    101 => '',
-    102 => '595',
-    103 => '10',
-    104 => '',
-    105 => '375 376 606 765 766 806',
-    106 => '',
-    107 => '234 398-405 494 545 573',
-    108 => '656',
-    109 => '403 526',
-    110 => '324 574 581',
-    111 => '251',
-    112 => '856',
-    113 => '620',
-    114 => '325 326 806 849',
-    115 => '',
-    116 => '144 360',
-    117 => '364 508 509 805',
-    118 => '30 87 116 121 486 603 614 617 854',
-    119 => '404 484 526',
-    120 => '',
-    121 => '102 132 188 192 193 267 270 275 282 298 304 317 322 334 433 435 440 478 486 647 735 816',
-    122 => '186 405 487 554 576 643',
-    123 => '298',
-    124 => '500 525 822 823',
-    125 => '241 254',
-    126 => '264 309',
-    127 => '331 659 688 763 776 843 844',
-    128 => '359 430',
-    129 => '',
-    130 => '786',
-    131 => '262 377',
-    132 => '79 262 631',
-    133 => '85 377',
-    134 => '',
-    135 => '',
-    136 => '',
-    137 => '806',
-    138 => '',
-    139 => '171 179 226 329 545',
-    140 => '75 385 785 805',
-    141 => '393 394 416 417 484 486 487 495 512 562 592',
-    142 => '591',
-    143 => '360 394 395 418 420 444 593 596',
-    144 => '491 503 507',
-    145 => '440 486',
-    146 => '418 480 489 552',
-    147 => '114 121 140 262 273 274 297 311 378 415 421 444 468 473 475 505 506 590 591 594 601 854',
-    148 => '46 337-338 341 501 504 513',
-    149 => '415 582',
-    150 => '131 415',
-    151 => '126 485 486 488 561 ',
-    152 => '198',
-    153 => '103 553',
-    154 => '319 320 396 411 419 420 434 435',
-    155 => '',
-    156 => '',
-    157 => '113 127 132-134',
-    158 => '474 526',
-    159 => '',
-    160 => '',
-    161 => '',
-    162 => '',
-    163 => '',
-    164 => '115 295',
-    165 => '319 399 821',
-    166 => '129',
-    167 => '589 605 768 853',
-    168 => '177 319 622 766 768 769 794 806',
-    169 => '335 385',
-    170 => '337 338 395 530 573 786',
-    171 => '',
-    172 => '100',
-    173 => '553',
-    174 => '320 526',
-    175 => '5 6',
-    176 => '46 177 240 282',
-    177 => '',
-    178 => '10 195 603',
-    179 => '12 47 50 51 195 603 798-800 804 813 851-853 856',
-    180 => '10 12 177 233 376 586 607 660 796 856 859',
-    181 => '',
-    182 => '101 506 517 522 535 609 750',
-    183 => '',
-    184 => '430 620 703',
-    185 => '84 233 311 321 558 601 621',
-    186 => '233 328',
-    187 => '469 795 799',
-    188 => '403-405 553',
-    189 => '376-379 428',
-    190 => '89 320 483 532',
-    191 => '',
-    192 => '316 317 329 602 662 683 717 774-776',
-    193 => '325',
-    194 => '605',
-    195 => '46 115 116 123 179 185 188 265 266 274 278 297 298 486 509 540 771',
-    196 => '14 206 208 209 360 367 657 805',
-    197 => '198 207 634 705 725 738',
-    198 => '',
-    199 => '',
-    200 => '80 81 101',
-    201 => '742 743',
-    202 => '',
-    203 => '79 80 101 104 181 234 243 326 329 477 478',
-    204 => '407',
-    205 => '655',
-    206 => '220 227 235 327 387 614 674 742 745 770 778 779',
-    207 => '78 794',
-    208 => '14 242 814 829 849',
-    209 => '15 16 21-23 324 325 328 336 447 474 598 634 760 778 817',
-    210 => '86 236 251 ',
-    211 => '641 642 852',
-    212 => '220 243 248 294',
-    213 => '16 22 30',
-    214 => '13 20',
-    215 => '94 327 328',
-    216 => '607 638 664',
-    217 => '186 832',
-    218 => '761',
-    219 => '656 657',
-    220 => '433-436 487 492 495 504 511 512 570 573',
-    221 => '471 563',
-    222 => '192 193 267 275 283 296 309 315 318 332 333 336 479',
-    223 => '263 309 334 504',
-    224 => '301 353 354 401 610 847',
-    225 => '76 610 751',
-    226 => '412 481 509 589 779',
-    227 => '',
-    228 => '',
-    229 => '327 328',
-    230 => '188 202 691 754 824',
-    231 => '767 768',
-    232 => '',
-    233 => '',
-    234 => '630 632 633 749',
-    235 => '824',
-    236 => '807',
-    237 => '',
-    238 => '311 433 436 540 542 547 557 559 560',
-    239 => '38 48 51 172 381 382 789 790 801',
-    240 => '195 401 719 739',
-    241 => '96 621 661 822',
-    242 => '260 325 408 429 620 752 759 786 788 815 825',
-    243 => '447',
-    244 => '70 238 656 725',
-    245 => '',
-    246 => '326 327 770-772',
-    247 => '121',
-    248 => '121 125 788 831 852',
-    249 => '',
-    250 => '106',
-    251 => '',
-    252 => '',
-    253 => '327-329 762 766 770 771 782',
-    254 => '78 265 296 327 631 783',
-    255 => '',
-    256 => '30 33-36 51 66 176 201 223 224 809 810 818 822 823 828 831 840 845-849',
-    257 => '325',
-    258 => '',
-    259 => '',
-    260 => '',
-    261 => '530 570 ',
-    262 => '291',
-    263 => '',
-    264 => '326 511 586 587 614 766 767',
-    265 => '545',
-    266 => '398',
-    267 => '380 530 533 569 570 573 593',
-    268 => '',
-    269 => '101 763',
-    270 => '430',
-    271 => '398 447 469 534 583 591',
-    272 => '580 582',
-    273 => '326 779 780 784',
-    274 => '585 589',
-    275 => '188 619 620 704',
-    276 => '',
-    277 => '849',
-    278 => '487',
-    279 => '328 585 590 591',
-    280 => '591',
-    281 => '591 593',
-    282 => '594',
-    283 => '737',
-    284 => '494 762 766 779 782',
-    285 => '',
-    286 => '262 323 856',
-    287 => '',
-    288 => '21',
-    289 => '',
-    290 => '',
-    291 => '324 325',
-    292 => '60 73 208 340 494 733 754',
-    293 => '30 37 49 81 176 198 227 429',
-    294 => '170 179 199 223 224 355 414 480 542-544 578 606 732 840 841',
-    295 => '83 598 776 802 824',
-    296 => '395 441 555 598',
-    297 => '605',
-    298 => '14 34 35 39 43 83 85 86 155 175 284 304',
-    299 => '622 773 778',
-    300 => '30 34-38 39 43 114 152 808 827 830',
-    301 => '37',
-    302 => '',
-    303 => '',
-    304 => '16 30 33 35 43 181 226 298 565',
+    0 => '
+',
+    1 => '
+',
+    2 => '325
+',
+    3 => '311
+',
+    4 => '483
+',
+    5 => '321 760
+',
+    6 => '291
+',
+    7 => '
+',
+    8 => '540 541 549
+',
+    9 => '326 772
+',
+    10 => '
+',
+    11 => '310 311 320 321 323 493
+',
+    12 => '321-325
+',
+    13 => '
+',
+    14 => '302 305 308 322
+',
+    15 => '584 590 757
+',
+    16 => '
+',
+    17 => '135 136 140 750
+',
+    18 => '96
+',
+    19 => '375
+',
+    20 => '36 75 103 105 110 115 210 217 223 224 245 257 258 737 809 812
+',
+    21 => '
+',
+    22 => '605 766 768 769 774
+',
+    23 => '325
+',
+    24 => '300 301 322
+',
+    25 => '489
+',
+    26 => '447 462
+',
+    27 => '
+',
+    28 => '
+',
+    29 => '
+',
+    30 => '
+',
+    31 => '497
+',
+    32 => '72 399 405
+',
+    33 => '
+',
+    34 => '206 207 687
+',
+    35 => '72
+',
+    36 => '103 121 737
+',
+    37 => '231
+',
+    38 => '482
+',
+    39 => '
+',
+    40 => '72 429
+',
+    41 => '360 616 749 787 840
+',
+    42 => '656
+',
+    43 => '105 206 283 758
+',
+    44 => '30 331 332 496
+',
+    45 => '
+',
+    46 => '
+',
+    47 => '7
+',
+    48 => '484 492
+',
+    49 => '399 616
+',
+    50 => '
+',
+    51 => '21 328 545 776
+',
+    52 => '440
+',
+    53 => '101
+',
+    54 => '323 408 587 601 602
+',
+    55 => '
+',
+    56 => '131
+',
+    57 => '581 656
+',
+    58 => '446
+',
+    59 => '250 401 402 404 468 472 474 504 505
+',
+    60 => '104
+',
+    61 => '284 285 331 360 382 563 758
+',
+    62 => '
+',
+    63 => '
+',
+    64 => '243 271 480 758
+',
+    65 => '35 500 674
+',
+    66 => '237 348 349 362 370 445 461 462 466-468 473 475
+',
+    67 => '
+',
+    68 => '
+',
+    69 => '5 7 8 10 11 15 17 29 30 33 35 38 42-44 47 52 53 75 79 83 91 93 95 136 144 147 162 164 181 193 228 229 243 258 302 311 313 436 449 483 516 518 564 605 616 619 765 766 770 793 809 824 851
+',
+    70 => '5-7 11 15 19 20 29 30 46 52 71 72 74-76 121 164 263-265 276 283 295 299 303 333 435 438 477 524 555 750 802 810 812 818
+',
+    71 => '5 15 18 23 29 30
+',
+    72 => '
+',
+    73 => '115 144 266 316 446 506 527 573 738 843
+',
+    74 => '335 336 341 361 362 365 367-370
+',
+    75 => '347 372 375 475
+',
+    76 => '311 566 567 572 581
+',
+    77 => '242 462-464
+',
+    78 => '10 12 13 15 16 20 37 39 160 166 217 219 327 341 532 598 602 603 673 815 822 842 844
+',
+    79 => '249 342 349-351 355 362 368 373 382 383 428 795 843 846
+',
+    80 => '12 14 20 237 262 264 269 271 288 291 292 294 308 337 362 376 377 411 476 479 492 498 501 503 507-509 513 539 577 595 596 607 613
+',
+    81 => '
+',
+    82 => '12 13 124 309 310 314 359 365 366 480
+',
+    83 => '414
+',
+    84 => '504 571 747
+',
+    85 => '206 436 563 631 658
+',
+    86 => '535 536
+',
+    87 => '206 207 313 420 438 445 446 571 576
+',
+    88 => '15 44 72-76 78 114 217 275 445 447 533 685
+',
+    89 => '603
+',
+    90 => '51 372 610
+',
+    91 => '429 486
+',
+    92 => '33 212 237 338 339 357 361 365 366 368 369 492 607 611 628 785 795 797 798 801 807 831
+',
+    93 => '583
+',
+    94 => '420 434 478 486 516 786
+',
+    95 => '430
+',
+    96 => '20 265 270-272 288 296 297 300 317-319 323 324 327 360 394 430 491 584
+',
+    97 => '21 206 222 332 381 442 494
+',
+    98 => '88 91 93 230
+',
+    99 => '590 591
+',
+    100 => '
+',
+    101 => '
+',
+    102 => '595
+',
+    103 => '10
+',
+    104 => '
+',
+    105 => '375 376 606 765 766 806
+',
+    106 => '
+',
+    107 => '234 398-405 494 545 573
+',
+    108 => '656
+',
+    109 => '403 526
+',
+    110 => '324 574 581
+',
+    111 => '251
+',
+    112 => '856
+',
+    113 => '620
+',
+    114 => '325 326 806 849
+',
+    115 => '
+',
+    116 => '144 360
+',
+    117 => '364 508 509 805
+',
+    118 => '30 87 116 121 486 603 614 617 854
+',
+    119 => '404 484 526
+',
+    120 => '
+',
+    121 => '102 132 188 192 193 267 270 275 282 298 304 317 322 334 433 435 440 478 486 647 735 816
+',
+    122 => '186 405 487 554 576 643
+',
+    123 => '298
+',
+    124 => '500 525 822 823
+',
+    125 => '241 254
+',
+    126 => '264 309
+',
+    127 => '331 659 688 763 776 843 844
+',
+    128 => '359 430
+',
+    129 => '
+',
+    130 => '786
+',
+    131 => '262 377
+',
+    132 => '79 262 631
+',
+    133 => '85 377
+',
+    134 => '
+',
+    135 => '
+',
+    136 => '
+',
+    137 => '806
+',
+    138 => '
+',
+    139 => '171 179 226 329 545
+',
+    140 => '75 385 785 805
+',
+    141 => '393 394 416 417 484 486 487 495 512 562 592
+',
+    142 => '591
+',
+    143 => '360 394 395 418 420 444 593 596
+',
+    144 => '491 503 507
+',
+    145 => '440 486
+',
+    146 => '418 480 489 552
+',
+    147 => '114 121 140 262 273 274 297 311 378 415 421 444 468 473 475 505 506 590 591 594 601 854
+',
+    148 => '46 337-338 341 501 504 513
+',
+    149 => '415 582
+',
+    150 => '131 415
+',
+    151 => '126 485 486 488 561 
+',
+    152 => '198
+',
+    153 => '103 553
+',
+    154 => '319 320 396 411 419 420 434 435
+',
+    155 => '
+',
+    156 => '
+',
+    157 => '113 127 132-134
+',
+    158 => '474 526
+',
+    159 => '
+',
+    160 => '
+',
+    161 => '
+',
+    162 => '
+',
+    163 => '
+',
+    164 => '115 295
+',
+    165 => '319 399 821
+',
+    166 => '129
+',
+    167 => '589 605 768 853
+',
+    168 => '177 319 622 766 768 769 794 806
+',
+    169 => '335 385
+',
+    170 => '337 338 395 530 573 786
+',
+    171 => '
+',
+    172 => '100
+',
+    173 => '553
+',
+    174 => '320 526
+',
+    175 => '5 6
+',
+    176 => '46 177 240 282
+',
+    177 => '
+',
+    178 => '10 195 603
+',
+    179 => '12 47 50 51 195 603 798-800 804 813 851-853 856
+',
+    180 => '10 12 177 233 376 586 607 660 796 856 859
+',
+    181 => '
+',
+    182 => '101 506 517 522 535 609 750
+',
+    183 => '
+',
+    184 => '430 620 703
+',
+    185 => '84 233 311 321 558 601 621
+',
+    186 => '233 328
+',
+    187 => '469 795 799
+',
+    188 => '403-405 553
+',
+    189 => '376-379 428
+',
+    190 => '89 320 483 532
+',
+    191 => '
+',
+    192 => '316 317 329 602 662 683 717 774-776
+',
+    193 => '325
+',
+    194 => '605
+',
+    195 => '46 115 116 123 179 185 188 265 266 274 278 297 298 486 509 540 771
+',
+    196 => '14 206 208 209 360 367 657 805
+',
+    197 => '198 207 634 705 725 738
+',
+    198 => '
+',
+    199 => '
+',
+    200 => '80 81 101
+',
+    201 => '742 743
+',
+    202 => '
+',
+    203 => '79 80 101 104 181 234 243 326 329 477 478
+',
+    204 => '407
+',
+    205 => '655
+',
+    206 => '220 227 235 327 387 614 674 742 745 770 778 779
+',
+    207 => '78 794
+',
+    208 => '14 242 814 829 849
+',
+    209 => '15 16 21-23 324 325 328 336 447 474 598 634 760 778 817
+',
+    210 => '86 236 251 
+',
+    211 => '641 642 852
+',
+    212 => '220 243 248 294
+',
+    213 => '16 22 30
+',
+    214 => '13 20
+',
+    215 => '94 327 328
+',
+    216 => '607 638 664
+',
+    217 => '186 832
+',
+    218 => '761
+',
+    219 => '656 657
+',
+    220 => '433-436 487 492 495 504 511 512 570 573
+',
+    221 => '471 563
+',
+    222 => '192 193 267 275 283 296 309 315 318 332 333 336 479
+',
+    223 => '263 309 334 504
+',
+    224 => '301 353 354 401 610 847
+',
+    225 => '76 610 751
+',
+    226 => '412 481 509 589 779
+',
+    227 => '
+',
+    228 => '
+',
+    229 => '327 328
+',
+    230 => '188 202 691 754 824
+',
+    231 => '767 768
+',
+    232 => '
+',
+    233 => '
+',
+    234 => '630 632 633 749
+',
+    235 => '824
+',
+    236 => '807
+',
+    237 => '
+',
+    238 => '311 433 436 540 542 547 557 559 560
+',
+    239 => '38 48 51 172 381 382 789 790 801
+',
+    240 => '195 401 719 739
+',
+    241 => '96 621 661 822
+',
+    242 => '260 325 408 429 620 752 759 786 788 815 825
+',
+    243 => '447
+',
+    244 => '70 238 656 725
+',
+    245 => '
+',
+    246 => '326 327 770-772
+',
+    247 => '121
+',
+    248 => '121 125 788 831 852
+',
+    249 => '
+',
+    250 => '106
+',
+    251 => '
+',
+    252 => '
+',
+    253 => '327-329 762 766 770 771 782
+',
+    254 => '78 265 296 327 631 783
+',
+    255 => '
+',
+    256 => '30 33-36 51 66 176 201 223 224 809 810 818 822 823 828 831 840 845-849
+',
+    257 => '325
+',
+    258 => '
+',
+    259 => '
+',
+    260 => '
+',
+    261 => '530 570 
+',
+    262 => '291
+',
+    263 => '
+',
+    264 => '326 511 586 587 614 766 767
+',
+    265 => '545
+',
+    266 => '398
+',
+    267 => '380 530 533 569 570 573 593
+',
+    268 => '
+',
+    269 => '101 763
+',
+    270 => '430
+',
+    271 => '398 447 469 534 583 591
+',
+    272 => '580 582
+',
+    273 => '326 779 780 784
+',
+    274 => '585 589
+',
+    275 => '188 619 620 704
+',
+    276 => '
+',
+    277 => '849
+',
+    278 => '487
+',
+    279 => '328 585 590 591
+',
+    280 => '591
+',
+    281 => '591 593
+',
+    282 => '594
+',
+    283 => '737
+',
+    284 => '494 762 766 779 782
+',
+    285 => '
+',
+    286 => '262 323 856
+',
+    287 => '
+',
+    288 => '21
+',
+    289 => '
+',
+    290 => '
+',
+    291 => '324 325
+',
+    292 => '60 73 208 340 494 733 754
+',
+    293 => '30 37 49 81 176 198 227 429
+',
+    294 => '170 179 199 223 224 355 414 480 542-544 578 606 732 840 841
+',
+    295 => '83 598 776 802 824
+',
+    296 => '395 441 555 598
+',
+    297 => '605
+',
+    298 => '14 34 35 39 43 83 85 86 155 175 284 304
+',
+    299 => '622 773 778
+',
+    300 => '30 34-38 39 43 114 152 808 827 830
+',
+    301 => '37
+',
+    302 => '
+',
+    303 => '
+',
+    304 => '16 30 33 35 43 181 226 298 565
+',
   ),
   'hyphen_char' => 
   array (
