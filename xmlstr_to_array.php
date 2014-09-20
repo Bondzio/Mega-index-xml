@@ -33,10 +33,23 @@ function domnode_to_array($node) {
         $v = domnode_to_array($child);
         if(isset($child->tagName)) {
           $t = $child->tagName;
+
+          if($t == "hi"){
+            
+            // create a new DOMDoc and import $node, than save it as string to parentNode array;
+            $d = new DOMDocument();
+            $within_hi = $node->getElementsByTagName('hi')->item(0)->parentNode;
+            $d->appendChild($d->importNode($within_hi, true));
+            $output = $d->saveXML($d->childNodes->item(0));
+            // pre_print_r($output);
+            return $output;
+
+          }else{
+
           if(!isset($output[$t])) {
             $output[$t] = array();
           }
-          $output[$t][] = $v;
+          $output[$t][] = $v;}
         }
         elseif($v || $v === '0') {
           $output = (string) $v;
