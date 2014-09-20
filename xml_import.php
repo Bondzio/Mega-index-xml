@@ -1,13 +1,9 @@
 <?php
 // include './XML2Array.php';
 include './xmlstr_to_array.php';
+include './utility.php';
 // include './xml2arr_dom.php';
 
-function pre_print_r($var){
-		echo "<pre>";
-		print_r($var);
-		echo "</pre>";
-	}
 
 
 // $part2 = new DOMDocument();
@@ -23,23 +19,28 @@ $part2xml = file_get_contents("./part2.xml");
 $globRegxml = xmlstr_to_array($globRegxml);
 $part2xml = xmlstr_to_array($part2xml);
 
-$file = './db_globReg.php';
-$text = '<?php $db_globReg ='.var_export($globRegxml, true).';';
-if(false !== fopen($file, 'w+')){
-    file_put_contents($file, $text);
-}else{
-    echo "FAIL!";
-}
+array_to_file('db_globReg.php', $globRegxml, 'db_globReg');
+array_to_file('db_part2.php', $part2xml, 'db_part2');
 
 
 
-$file = './db_part2.php';
-$text = '<?php $db_globReg ='.var_export($part2xml, true).';';
-if(false !== fopen($file, 'w+')){
-    file_put_contents($file, $text);
-}else{
-    echo "FAIL!";
-}
+// $file = './db_globReg.php';
+// $text = '<?php $db_globReg ='.var_export($globRegxml, true).';';
+// if(false !== fopen($file, 'w+')){
+//     file_put_contents($file, $text);
+// }else{
+//     echo "FAIL!";
+// }
+
+
+
+// $file = './db_part2.php';
+// $text = '<?php $db_globReg ='.var_export($part2xml, true).';';
+// if(false !== fopen($file, 'w+')){
+//     file_put_contents($file, $text);
+// }else{
+//     echo "FAIL!";
+// }
 
 /*
 
