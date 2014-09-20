@@ -1,0 +1,16 @@
+            <group oname="Reproduktion, einfache" uname="Schema der e.R.">
+                <entry>
+                    <name>Schema der e.R.</name>
+                    <book>11</book>
+                    <startPage>485</startPage>
+                    <endPage>485</endPage>
+                    <startLine>16</startLine>
+                    <endLine>24</endLine>
+                    <startTerm>Wir</startTerm>
+                    <endTerm>
+                        M
+                        <hi rend="sup">29<hi rend="frac">16/21</hi>
+                        </hi>β.
+                    </endTerm>
+                </entry>
+            </group>
