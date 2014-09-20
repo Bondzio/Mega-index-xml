@@ -5,22 +5,14 @@ include './utility.php';
 // include './xml2arr_dom.php';
 
 
-
-// $part2 = new DOMDocument();
-// $part2->load("./part2.xml");
-// $globReg = new DOMDocument();
-// $globReg->load("./globReg.xml");
-//$part2_arr = XML2Array::createArray($part2);
-//$globReg_arr = XML2Array::createArray($globReg);
-
-
 $globRegxml = file_get_contents("./globReg.xml");
 $part2xml = file_get_contents("./part2.xml");
+
 $globRegxml = xmlstr_to_array($globRegxml);
 $part2xml = xmlstr_to_array($part2xml);
 
-array_to_file('db_globReg.php', $globRegxml, 'db_globReg');
-array_to_file('db_part2.php', $part2xml, 'db_part2');
+array_to_file($globRegxml);
+array_to_file($part2xml);
 
 
 
