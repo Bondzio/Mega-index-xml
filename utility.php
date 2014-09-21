@@ -28,8 +28,9 @@ function array_to_file($array){
 	$fileName = 'db_'.$arrayName.".php";
 	$text = '<?php $'.$arrayName.' ='.var_export($array, true).';';
 	if(false !== fopen($fileName, 'w+')){
-	    file_put_contents($fileName, $text);
+	    file_put_contents('./db_array/'.$fileName, $text);
 	}else{
 	    echo "FAIL!";
 	}
 }
+

@@ -173,7 +173,7 @@ $db = array('key_char' => $key_char,
 $file = './db_array.php';
 $text = '<?php $db ='.var_export($db, true).';';
 if(false !== fopen($file, 'w+')){
-	file_put_contents($file, $text);
+	file_put_contents('./db_array/'.$file, $text);
 }else{
 	echo "FAIL!";
 }
