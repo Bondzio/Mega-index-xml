@@ -8,28 +8,6 @@ include './db_part2xml.php';
 // 	$volcabulary[] = $result['oberBegriff'][$i]['oname'];
 // }
 
-
-// $word['oname'];
-// $word['unterBegriff']
-// $word['unterBegriff'][$i]
-// $word['unterBegriff'][$i]['uname']
-// $word['unterBegriff'][$i]['group']
-// $word['unterBegriff'][$i]['group']['entry']
-// $word['unterBegriff'][$i]['group']['entry']['name']
-// $word['unterBegriff'][$i]['group']['entry']['book']
-// $word['unterBegriff'][$i]['group']['entry']['startPage']
-// $word['unterBegriff'][$i]['group']['entry']['endPage']
-// $word['unterBegriff'][$i]['group']['entry']['startLine']
-// $word['unterBegriff'][$i]['group']['entry']['endLine']
-// $word['unterBegriff'][$i]['group']['entry']['startTerm']
-// $word['unterBegriff'][$i]['group']['entry']['endTerm']
-
-
-// $word['unterBegriff'][$i]['group'][@attributes]
-// $word['unterBegriff'][$i]['group'][@attributes]['oname']
-// $word['unterBegriff'][$i]['group'][@attributes]['uname']
-
-
 $dom = new DomDocument('1.0', 'UTF-8');
 $finalXML = $dom->appendChild($dom->createElement('globReg'));
 
@@ -50,15 +28,24 @@ foreach ($part2xml['oberBegriff'] as $oberBegriff) {
 	// link to append to the last line of this funciton;
 	// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
 
+
+if(isset($oberBegriff['unterBegriff'])){
+
+
+
+
+
+
 	if(isset($oberBegriff['unterBegriff']['uname']))
 		{ 
 			// pre_print_r($oberBegriff);
-			$unter = $ober->appendChild($dom->createElement('unterBegriff'));
+			// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
 			$uname = $unter->appendChild($dom->createElement('uname', $oberBegriff['unterBegriff']['uname']));
 			$group = $unter->appendChild($dom->createElement('group'));
 
 			if(isset($oberBegriff['unterBegriff']['group']['entry'])){
 
+				$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 				$entry = $group->appendChild($dom->createElement('entry'));
 				$name = $entry->appendChild($dom->createElement('name', $oberBegriff['unterBegriff']['group']['entry']['name']));
 				$book = $entry->appendChild($dom->createElement('book', $oberBegriff['unterBegriff']['group']['entry']['book']));
@@ -72,6 +59,7 @@ foreach ($part2xml['oberBegriff'] as $oberBegriff) {
 			}else{
 				// pre_print_r($oberBegriff['unterBegriff']['group']);
 				foreach ($oberBegriff['unterBegriff']['group'] as $entry) {
+					$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 					// pre_print_r($entry['entry']);
 					$name_value = $entry['entry']['name'];
 					$book_value = $entry['entry']['book'];
@@ -106,21 +94,66 @@ foreach ($part2xml['oberBegriff'] as $oberBegriff) {
 		}else{
 
 
-			$unter = $ober->appendChild($dom->createElement('unterBegriff'));
-	foreach ($oberBegriff['unterBegriff'] as $unterBegriff) {
+		foreach ($oberBegriff['unterBegriff'] as $unterBegriff) {
 		// pre_print_r($unterBegriff['uname']);
 		// pre_print_r($unterBegriff);
-
+		$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 		$uname = $unter->appendChild($dom->createElement('uname', $unterBegriff['uname']));
-		// foreach ($unterBegriff as $unterBegriff_i) {// pre_print_r($unterBegriff_i['uname']); }
-		// $group = $unter->appendChild($dom->createElement('group'));
-		// $entry = $group->appendChild($dom->createElement('entry'));
+
+		if (isset($unterBegriff['group']['entry'])) {
+			// pre_print_r($unterBegriff['group']['entry']['name']);
+			// pre_print_r($unterBegriff['group']['entry']['startPage']);
+			$group = $unter->appendChild($dom->createElement('group'));
+			$entry = $group->appendChild($dom->createElement('entry'));
+			$name = $entry->appendChild($dom->createElement('name', $unterBegriff['group']['entry']['name']));
+			$book = $entry->appendChild($dom->createElement('book', $unterBegriff['group']['entry']['book']));
+			$startPage = $entry->appendChild($dom->createElement('startPage', $unterBegriff['group']['entry']['startPage']));
+			$endPage = $entry->appendChild($dom->createElement('endPage'));
+			$startLine = $entry->appendChild($dom->createElement('startLine'));
+			$endLine = $entry->appendChild($dom->createElement('endLine'));
+			$startTerm = $entry->appendChild($dom->createElement('startTerm'));
+			$endTerm = $entry->appendChild($dom->createElement('endTerm'));
+			// foreach ($unterBegriff as $unterBegriff_i) {// pre_print_r($unterBegriff_i['uname']); }
+			// $group = $unter->appendChild($dom->createElement('group'));
+			// $entry = $group->appendChild($dom->createElement('entry'));
+
+		}else{
+
+				$group = $unter->appendChild($dom->createElement('group'));
+				// pre_print_r($unterBegriff);
+
+			foreach ($unterBegriff['group'] as $entry_arr) {
+				// pre_print_r($entry_arr['entry']['startPage']);
+				// pre_print_r($entry_arr['entry']);
+
+				$entry = $group->appendChild($dom->createElement('entry'));
+				$name = $entry->appendChild($dom->createElement('name', $entry_arr['entry']['name']));
+				$book = $entry->appendChild($dom->createElement('book', $entry_arr['entry']['book']));
+				$startPage = $entry->appendChild($dom->createElement('startPage', $entry_arr['entry']['startPage']));
+				$endPage = $entry->appendChild($dom->createElement('endPage'));
+				$startLine = $entry->appendChild($dom->createElement('startLine'));
+				$endLine = $entry->appendChild($dom->createElement('endLine'));
+				$startTerm = $entry->appendChild($dom->createElement('startTerm'));
+				$endTerm = $entry->appendChild($dom->createElement('endTerm'));
+				// foreach ($unterBegriff as $unterBegriff_i) {// pre_print_r($unterBegriff_i['uname']); }
+				// $group = $unter->appendChild($dom->createElement('group'));
+				// $entry = $group->appendChild($dom->createElement('entry'));
+			}
+		}
+
+
+
 
 	}}
 
 
 	// $ober = $globReg->appendChild($dom->createElement('oberBegriff'));
 	// $oname = $ober->appendChild($dom->createElement('oname', $key_char[$i]));
+
+	}else{
+		pre_print_r($oberBegriff);
+		# code here to process links
+	}
 
 }
 
