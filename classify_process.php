@@ -170,9 +170,9 @@ $db = array('key_char' => $key_char,
 			'arrow_num' => $arrow_num
 	);
 
-$file = './db_array.php';
+$file = 'db_array.php';
 $text = '<?php $db ='.var_export($db, true).';';
-if(false !== fopen($file, 'w+')){
+if(false !== fopen('./db_array/'.$file, 'w+')){
 	file_put_contents('./db_array/'.$file, $text);
 }else{
 	echo "FAIL!";
