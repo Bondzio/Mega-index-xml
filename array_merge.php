@@ -22,9 +22,26 @@ for ($i=0; $i < count($result['oberBegriff']); $i++) {
 
 
 // comepare this two output, some word are 
-
-pre_print_r($volcabulary);
+// pre_print_r($volcabulary);
 // pre_print_r(array_unique($volcabulary));
+// https://www.diffchecker.com/e39cyuaj
+
+$duplicate_word = array_diff_assoc($volcabulary, array_unique($volcabulary));
+// array_intersect_assoc()
+// array_intersect()
+// pre_print_r($duplicate_word);
+array_to_file($duplicate_word);
+// function here to merge those word;
+
+$unique_volcabulary = array_unique($volcabulary);
+$volcabulary_id = array(0=>'');
+foreach ($unique_volcabulary as $item) {
+	$volcabulary_id[] = $item;
+}
+
+array_to_file($volcabulary_id);
+pre_print_r($volcabulary_id);
+
 
 
 /*
