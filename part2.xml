@@ -3,21 +3,6 @@
   <oberBegriff>
     <oname>﻿Handelsbilanz</oname>
     <unterBegriff>
-      <uname>﻿Handelsbilanz</uname>
-      <group oname="﻿Handelsbilanz" uname="﻿Handelsbilanz">
-        <entry>
-          <name>﻿Handelsbilanz</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>Englands mit Asien</uname>
       <group oname="﻿Handelsbilanz" uname="Englands mit Asien">
         <entry>
@@ -314,21 +299,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Handelsfreiheit</oname>
-    <unterBegriff>
-      <uname>Handelsfreiheit</uname>
-      <group oname="Handelsfreiheit" uname="Handelsfreiheit">
-        <entry>
-          <name>Handelsfreiheit</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Freihandel</link>
   </oberBegriff>
   <oberBegriff>
@@ -575,21 +545,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Handelskredit</oname>
-    <unterBegriff>
-      <uname>Handelskredit</uname>
-      <group oname="Handelskredit" uname="Handelskredit">
-        <entry>
-          <name>Handelskredit</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Kredit, kommerzieller</link>
   </oberBegriff>
   <oberBegriff>
@@ -666,21 +621,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Handelsprofit</oname>
-    <unterBegriff>
-      <uname>Handelsprofit</uname>
-      <group oname="Handelsprofit" uname="Handelsprofit">
-        <entry>
-          <name>Handelsprofit</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Profit, kommerzieller</link>
   </oberBegriff>
   <oberBegriff>
@@ -781,21 +721,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Handelswechsel</oname>
-    <unterBegriff>
-      <uname>Handelswechsel</uname>
-      <group oname="Handelswechsel" uname="Handelswechsel">
-        <entry>
-          <name>Handelswechsel</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Wechsel</link>
   </oberBegriff>
   <oberBegriff>
@@ -1055,21 +980,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Hausindustrie</oname>
-    <unterBegriff>
-      <uname>Hausindustrie</uname>
-      <group oname="Hausindustrie" uname="Hausindustrie">
-        <entry>
-          <name>Hausindustrie</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>ländliche</uname>
       <group oname="Hausindustrie" uname="ländliche">
@@ -1650,21 +1560,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Historisches und Logisches</oname>
-    <unterBegriff>
-      <uname>Historisches und Logisches</uname>
-      <group oname="Historisches und Logisches" uname="Historisches und Logisches">
-        <entry>
-          <name>Historisches und Logisches</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Logisches und Historisches</link>
   </oberBegriff>
   <oberBegriff>
@@ -2095,39 +1990,9 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Hypothese</oname>
-    <unterBegriff>
-      <uname>Hypothese</uname>
-      <group oname="Hypothese" uname="Hypothese">
-        <entry>
-          <name>Hypothese</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
   </oberBegriff>
   <oberBegriff>
     <oname>Ideal</oname>
-    <unterBegriff>
-      <uname>Ideal</uname>
-      <group oname="Ideal" uname="Ideal">
-        <entry>
-          <name>Ideal</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>und Wirklichkeit</uname>
       <group oname="Ideal" uname="und Wirklichkeit">
@@ -2158,21 +2023,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Ideelles</oname>
-    <unterBegriff>
-      <uname>Ideelles</uname>
-      <group oname="Ideelles" uname="Ideelles">
-        <entry>
-          <name>Ideelles</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>und Reales</uname>
       <group oname="Ideelles" uname="und Reales">
@@ -2251,21 +2101,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Identität</oname>
-    <unterBegriff>
-      <uname>Identität</uname>
-      <group oname="Identität" uname="Identität">
-        <entry>
-          <name>Identität</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>von Mehrwert und -arbeit</uname>
       <group oname="Identität" uname="von Mehrwert und -arbeit">
@@ -3138,21 +2973,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Individuum</oname>
-    <unterBegriff>
-      <uname>Individuum</uname>
-      <group oname="Individuum" uname="Individuum">
-        <entry>
-          <name>Individuum</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Mensch</link>
   </oberBegriff>
   <oberBegriff>
@@ -4263,21 +4083,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Industriebevölkerung</oname>
-    <unterBegriff>
-      <uname>Industriebevölkerung</uname>
-      <group oname="Industriebevölkerung" uname="Industriebevölkerung">
-        <entry>
-          <name>Industriebevölkerung</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Bevölkerung</link>
   </oberBegriff>
   <oberBegriff>
@@ -5559,40 +5364,10 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Intensität der Arbeit</oname>
-    <unterBegriff>
-      <uname>Intensität der Arbeit</uname>
-      <group oname="Intensität der Arbeit" uname="Intensität der Arbeit">
-        <entry>
-          <name>Intensität der Arbeit</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Arbeitsintensität</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Interessen</oname>
-    <unterBegriff>
-      <uname>Interessen</uname>
-      <group oname="Interessen" uname="Interessen">
-        <entry>
-          <name>Interessen</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>der herrschenden Klassen</uname>
       <group oname="Interessen" uname="der herrschenden Klassen">
@@ -6165,21 +5940,6 @@
   <oberBegriff>
     <oname>Irrationalismus</oname>
     <unterBegriff>
-      <uname>Irrationalismus</uname>
-      <group oname="Irrationalismus" uname="Irrationalismus">
-        <entry>
-          <name>Irrationalismus</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>und Rationalismus</uname>
       <group oname="Irrationalismus" uname="und Rationalismus">
         <entry>
@@ -6512,21 +6272,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Justiz</oname>
-    <unterBegriff>
-      <uname>Justiz</uname>
-      <group oname="Justiz" uname="Justiz">
-        <entry>
-          <name>Justiz</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Gerichte</link>
   </oberBegriff>
   <oberBegriff>
@@ -13094,40 +12839,10 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kapital, kaufmännisches</oname>
-    <unterBegriff>
-      <uname>Kapital, kaufmännisches</uname>
-      <group oname="Kapital, kaufmännisches" uname="Kapital, kaufmännisches">
-        <entry>
-          <name>Kapital, kaufmännisches</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Kaufmannskapital</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Kapital, konstantes</oname>
-    <unterBegriff>
-      <uname>Kapital, konstantes</uname>
-      <group oname="Kapital, konstantes" uname="Kapital, konstantes">
-        <entry>
-          <name>Kapital, konstantes</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Bestandteile</uname>
       <group oname="Kapital, konstantes" uname="Bestandteile">
@@ -18698,21 +18413,6 @@
   <oberBegriff>
     <oname>Kapital, zirkulierendes</oname>
     <unterBegriff>
-      <uname>Kapital, zirkulierendes</uname>
-      <group oname="Kapital, zirkulierendes" uname="Kapital, zirkulierendes">
-        <entry>
-          <name>Kapital, zirkulierendes</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>Bestandteile</uname>
       <group oname="Kapital, zirkulierendes" uname="Bestandteile">
         <entry>
@@ -19217,21 +18917,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>„Das Kapital“</oname>
-    <unterBegriff>
-      <uname>„Das Kapital“</uname>
-      <group oname="„Das Kapital“" uname="„Das Kapital“">
-        <entry>
-          <name>„Das Kapital“</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Marx’ System, Theorie</uname>
       <group oname="„Das Kapital“" uname="Marx’ System, Theorie">
@@ -20426,21 +20111,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>„Das Kapital“, Buch 4</oname>
-    <unterBegriff>
-      <uname>„Das Kapital“, Buch 4</uname>
-      <group oname="„Das Kapital“, Buch 4" uname="„Das Kapital“, Buch 4">
-        <entry>
-          <name>„Das Kapital“, Buch 4</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>„Theorien über den Mehrwert“</uname>
       <group oname="„Das Kapital“, Buch 4" uname="„Theorien über den Mehrwert“">
@@ -26111,21 +25781,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kapitalist, kommerzieller</oname>
-    <unterBegriff>
-      <uname>Kapitalist, kommerzieller</uname>
-      <group oname="Kapitalist, kommerzieller" uname="Kapitalist, kommerzieller">
-        <entry>
-          <name>Kapitalist, kommerzieller</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Kaufmann</link>
   </oberBegriff>
   <oberBegriff>
@@ -31508,21 +31163,6 @@
   <oberBegriff>
     <oname>Klasse</oname>
     <unterBegriff>
-      <uname>Klasse</uname>
-      <group oname="Klasse" uname="Klasse">
-        <entry>
-          <name>Klasse</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>der Rentiers</uname>
       <group oname="Klasse" uname="der Rentiers">
         <entry>
@@ -31720,21 +31360,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Klassen</oname>
-    <unterBegriff>
-      <uname>Klassen</uname>
-      <group oname="Klassen" uname="Klassen">
-        <entry>
-          <name>Klassen</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>in der kapitalistischen Gesellschaft</uname>
       <group oname="Klassen" uname="in der kapitalistischen Gesellschaft">
@@ -32088,21 +31713,6 @@
   <oberBegriff>
     <oname>Kleinproduktion, -produzenten</oname>
     <unterBegriff>
-      <uname>Kleinproduktion, -produzenten</uname>
-      <group oname="Kleinproduktion, -produzenten" uname="Kleinproduktion, -produzenten">
-        <entry>
-          <name>Kleinproduktion, -produzenten</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>landwirtschaftliche</uname>
       <group oname="Kleinproduktion, -produzenten" uname="landwirtschaftliche">
         <entry>
@@ -32417,21 +32027,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kohlenbergwerke</oname>
-    <unterBegriff>
-      <uname>Kohlenbergwerke</uname>
-      <group oname="Kohlenbergwerke" uname="Kohlenbergwerke">
-        <entry>
-          <name>Kohlenbergwerke</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Bergbau, -werke</link>
   </oberBegriff>
   <oberBegriff>
@@ -33370,21 +32965,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kompagnien</oname>
-    <unterBegriff>
-      <uname>Kompagnien</uname>
-      <group oname="Kompagnien" uname="Kompagnien">
-        <entry>
-          <name>Kompagnien</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Holländisch-Ostindische	Kompagnie</link>
     <link target=""> Ostindische Kompagnie</link>
   </oberBegriff>
@@ -35813,21 +35393,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Konsols</oname>
-    <unterBegriff>
-      <uname>Konsols</uname>
-      <group oname="Konsols" uname="Konsols">
-        <entry>
-          <name>Konsols</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Wertpapiere</link>
   </oberBegriff>
   <oberBegriff>
@@ -37853,21 +37418,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Konvertibilität</oname>
-    <unterBegriff>
-      <uname>Konvertibilität</uname>
-      <group oname="Konvertibilität" uname="Konvertibilität">
-        <entry>
-          <name>Konvertibilität</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Banknoten</link>
     <link target=""> Wechsel</link>
   </oberBegriff>
@@ -38898,21 +38448,6 @@
   <oberBegriff>
     <oname>Korn</oname>
     <unterBegriff>
-      <uname>Korn</uname>
-      <group oname="Korn" uname="Korn">
-        <entry>
-          <name>Korn</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>Preise</uname>
       <group oname="Korn" uname="Preise">
         <entry>
@@ -39008,21 +38543,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Korngesetze, -zölle (in England)</oname>
-    <unterBegriff>
-      <uname>Korngesetze, -zölle (in England)</uname>
-      <group oname="Korngesetze, -zölle (in England)" uname="Korngesetze, -zölle (in England)">
-        <entry>
-          <name>Korngesetze, -zölle (in England)</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Einführung der K.</uname>
       <group oname="Korngesetze, -zölle (in England)" uname="Einführung der K.">
@@ -39128,21 +38648,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kornrente</oname>
-    <unterBegriff>
-      <uname>Kornrente</uname>
-      <group oname="Kornrente" uname="Kornrente">
-        <entry>
-          <name>Kornrente</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Grundrente</link>
   </oberBegriff>
   <oberBegriff>
@@ -39165,21 +38670,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kosten</oname>
-    <unterBegriff>
-      <uname>Kosten</uname>
-      <group oname="Kosten" uname="Kosten">
-        <entry>
-          <name>Kosten</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>kapitalistische und „wirkliche“</uname>
       <group oname="Kosten" uname="kapitalistische und „wirkliche“">
@@ -49569,21 +49059,6 @@
   <oberBegriff>
     <oname>Kupfer</oname>
     <unterBegriff>
-      <uname>Kupfer</uname>
-      <group oname="Kupfer" uname="Kupfer">
-        <entry>
-          <name>Kupfer</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>als Geld</uname>
       <group oname="Kupfer" uname="als Geld">
         <entry>
@@ -49613,21 +49088,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Kurse</oname>
-    <unterBegriff>
-      <uname>Kurse</uname>
-      <group oname="Kurse" uname="Kurse">
-        <entry>
-          <name>Kurse</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Aktien</link>
     <link target=""> Wertpapiere</link>
   </oberBegriff>
@@ -49781,21 +49241,6 @@
   <oberBegriff>
     <oname>Lagerscheine (dock warrants)</oname>
     <unterBegriff>
-      <uname>Lagerscheine (dock warrants)</uname>
-      <group oname="Lagerscheine (dock warrants)" uname="Lagerscheine (dock warrants)">
-        <entry>
-          <name>Lagerscheine (dock warrants)</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>Vorschüsse auf L.</uname>
       <group oname="Lagerscheine (dock warrants)" uname="Vorschüsse auf L.">
         <entry>
@@ -49837,21 +49282,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Land (Dorf)</oname>
-    <unterBegriff>
-      <uname>Land (Dorf)</uname>
-      <group oname="Land (Dorf)" uname="Land (Dorf)">
-        <entry>
-          <name>Land (Dorf)</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>im Mittelalter</uname>
       <group oname="Land (Dorf)" uname="im Mittelalter">
@@ -49897,59 +49327,14 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Landarbeiter</oname>
-    <unterBegriff>
-      <uname>Landarbeiter</uname>
-      <group oname="Landarbeiter" uname="Landarbeiter">
-        <entry>
-          <name>Landarbeiter</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Agrikulturarbeiter</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Landwirtschaft</oname>
-    <unterBegriff>
-      <uname>Landwirtschaft</uname>
-      <group oname="Landwirtschaft" uname="Landwirtschaft">
-        <entry>
-          <name>Landwirtschaft</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Agrikultur</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Länder</oname>
-    <unterBegriff>
-      <uname>Länder</uname>
-      <group oname="Länder" uname="Länder">
-        <entry>
-          <name>Länder</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>entwickelter kapitalistischer Produktion</uname>
       <group oname="Länder" uname="entwickelter kapitalistischer Produktion">
@@ -53655,21 +53040,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Leinenindustrie</oname>
-    <unterBegriff>
-      <uname>Leinenindustrie</uname>
-      <group oname="Leinenindustrie" uname="Leinenindustrie">
-        <entry>
-          <name>Leinenindustrie</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Flachsindustrie</link>
   </oberBegriff>
   <oberBegriff>
@@ -54019,21 +53389,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Lohn</oname>
-    <unterBegriff>
-      <uname>Lohn</uname>
-      <group oname="Lohn" uname="Lohn">
-        <entry>
-          <name>Lohn</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Arbeitslohn</link>
   </oberBegriff>
   <oberBegriff>
@@ -55701,21 +55056,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Lombard, -geschäfte</oname>
-    <unterBegriff>
-      <uname>Lombard, -geschäfte</uname>
-      <group oname="Lombard, -geschäfte" uname="Lombard, -geschäfte">
-        <entry>
-          <name>Lombard, -geschäfte</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Vorschüsse</link>
   </oberBegriff>
   <oberBegriff>
@@ -55998,21 +55338,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Lumpen</oname>
-    <unterBegriff>
-      <uname>Lumpen</uname>
-      <group oname="Lumpen" uname="Lumpen">
-        <entry>
-          <name>Lumpen</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Nutzung in der Kunstwollindustrie</uname>
       <group oname="Lumpen" uname="Nutzung in der Kunstwollindustrie">
@@ -56791,21 +56116,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Mangel</oname>
-    <unterBegriff>
-      <uname>Mangel</uname>
-      <group oname="Mangel" uname="Mangel">
-        <entry>
-          <name>Mangel</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>an Rohstoffen</uname>
       <group oname="Mangel" uname="an Rohstoffen">
@@ -59764,21 +59074,6 @@
   <oberBegriff>
     <oname>Marktwert</oname>
     <unterBegriff>
-      <uname>Marktwert</uname>
-      <group oname="Marktwert" uname="Marktwert">
-        <entry>
-          <name>Marktwert</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>Gesetz des M.</uname>
       <group oname="Marktwert" uname="Gesetz des M.">
         <entry>
@@ -60396,21 +59691,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Maschine</oname>
-    <unterBegriff>
-      <uname>Maschine</uname>
-      <group oname="Maschine" uname="Maschine">
-        <entry>
-          <name>Maschine</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Arbeitsmaschine</uname>
       <group oname="Maschine" uname="Arbeitsmaschine">
@@ -61971,21 +61251,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Maß</oname>
-    <unterBegriff>
-      <uname>Maß</uname>
-      <group oname="Maß" uname="Maß">
-        <entry>
-          <name>Maß</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Qualität und Quantität</link>
   </oberBegriff>
   <oberBegriff>
@@ -74589,21 +73854,6 @@
   <oberBegriff>
     <oname>Mittel</oname>
     <unterBegriff>
-      <uname>Mittel</uname>
-      <group oname="Mittel" uname="Mittel">
-        <entry>
-          <name>Mittel</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>und Zweck</uname>
       <group oname="Mittel" uname="und Zweck">
         <entry>
@@ -74645,21 +73895,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Mittelalter</oname>
-    <unterBegriff>
-      <uname>Mittelalter</uname>
-      <group oname="Mittelalter" uname="Mittelalter">
-        <entry>
-          <name>Mittelalter</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Naturalwirtschaft</uname>
       <group oname="Mittelalter" uname="Naturalwirtschaft">
@@ -75105,21 +74340,6 @@
   <oberBegriff>
     <oname>Monetarsystem</oname>
     <unterBegriff>
-      <uname>Monetarsystem</uname>
-      <group oname="Monetarsystem" uname="Monetarsystem">
-        <entry>
-          <name>Monetarsystem</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>über Edelmetall als einzig wahren Reichtum</uname>
       <group oname="Monetarsystem" uname="über Edelmetall als einzig wahren Reichtum">
         <entry>
@@ -75218,21 +74438,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Monopol</oname>
-    <unterBegriff>
-      <uname>Monopol</uname>
-      <group oname="Monopol" uname="Monopol">
-        <entry>
-          <name>Monopol</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>der Produktion</uname>
       <group oname="Monopol" uname="der Produktion">
@@ -76027,21 +75232,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Mühlen</oname>
-    <unterBegriff>
-      <uname>Mühlen</uname>
-      <group oname="Mühlen" uname="Mühlen">
-        <entry>
-          <name>Mühlen</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>technische Verbesserungen</uname>
       <group oname="Mühlen" uname="technische Verbesserungen">
@@ -78768,21 +77958,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Naturalrente</oname>
-    <unterBegriff>
-      <uname>Naturalrente</uname>
-      <group oname="Naturalrente" uname="Naturalrente">
-        <entry>
-          <name>Naturalrente</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Produktenrente</link>
   </oberBegriff>
   <oberBegriff>
@@ -79146,21 +78321,6 @@
   <oberBegriff>
     <oname>Naturkräfte</oname>
     <unterBegriff>
-      <uname>Naturkräfte</uname>
-      <group oname="Naturkräfte" uname="Naturkräfte">
-        <entry>
-          <name>Naturkräfte</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>als Gratisproduktivkraft der Arbeit</uname>
       <group oname="Naturkräfte" uname="als Gratisproduktivkraft der Arbeit">
         <entry>
@@ -79368,21 +78528,6 @@
   <oberBegriff>
     <oname>Naturwissenschaft</oname>
     <unterBegriff>
-      <uname>Naturwissenschaft</uname>
-      <group oname="Naturwissenschaft" uname="Naturwissenschaft">
-        <entry>
-          <name>Naturwissenschaft</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>Anwendung in der Produktion</uname>
       <group oname="Naturwissenschaft" uname="Anwendung in der Produktion">
         <entry>
@@ -79471,21 +78616,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Nebenarbeit</oname>
-    <unterBegriff>
-      <uname>Nebenarbeit</uname>
-      <group oname="Nebenarbeit" uname="Nebenarbeit">
-        <entry>
-          <name>Nebenarbeit</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>agrikole</uname>
       <group oname="Nebenarbeit" uname="agrikole">
@@ -79660,21 +78790,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Nettoprofit</oname>
-    <unterBegriff>
-      <uname>Nettoprofit</uname>
-      <group oname="Nettoprofit" uname="Nettoprofit">
-        <entry>
-          <name>Nettoprofit</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Teilung des Profits in N. und Zins</uname>
       <group oname="Nettoprofit" uname="Teilung des Profits in N. und Zins">
@@ -79933,40 +79048,10 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Normalarbeitstag</oname>
-    <unterBegriff>
-      <uname>Normalarbeitstag</uname>
-      <group oname="Normalarbeitstag" uname="Normalarbeitstag">
-        <entry>
-          <name>Normalarbeitstag</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Arbeitstag</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Notwendigkeit</oname>
-    <unterBegriff>
-      <uname>Notwendigkeit</uname>
-      <group oname="Notwendigkeit" uname="Notwendigkeit">
-        <entry>
-          <name>Notwendigkeit</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Reich der N.</uname>
       <group oname="Notwendigkeit" uname="Reich der N.">
@@ -80090,21 +79175,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Objekt</oname>
-    <unterBegriff>
-      <uname>Objekt</uname>
-      <group oname="Objekt" uname="Objekt">
-        <entry>
-          <name>Objekt</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Subjekt und Objekt</link>
   </oberBegriff>
   <oberBegriff>
@@ -81559,21 +80629,6 @@
   <oberBegriff>
     <oname>Ökonomie</oname>
     <unterBegriff>
-      <uname>Ökonomie</uname>
-      <group oname="Ökonomie" uname="Ökonomie">
-        <entry>
-          <name>Ökonomie</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>und Gewalt</uname>
       <group oname="Ökonomie" uname="und Gewalt">
         <entry>
@@ -81831,21 +80886,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Pacht</oname>
-    <unterBegriff>
-      <uname>Pacht</uname>
-      <group oname="Pacht" uname="Pacht">
-        <entry>
-          <name>Pacht</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>Pachtzins, Pachtgeld und Rente</uname>
       <group oname="Pacht" uname="Pachtzins, Pachtgeld und Rente">
@@ -83603,21 +82643,6 @@
   <oberBegriff>
     <oname>Personifikation</oname>
     <unterBegriff>
-      <uname>Personifikation</uname>
-      <group oname="Personifikation" uname="Personifikation">
-        <entry>
-          <name>Personifikation</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
-    <unterBegriff>
       <uname>ökonomischer Verhältnisse</uname>
       <group oname="Personifikation" uname="ökonomischer Verhältnisse">
         <entry>
@@ -84256,21 +83281,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Plebejer</oname>
-    <unterBegriff>
-      <uname>Plebejer</uname>
-      <group oname="Plebejer" uname="Plebejer">
-        <entry>
-          <name>Plebejer</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Patrizier und Plebejer</link>
   </oberBegriff>
   <oberBegriff>
@@ -84359,21 +83369,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Politik</oname>
-    <unterBegriff>
-      <uname>Politik</uname>
-      <group oname="Politik" uname="Politik">
-        <entry>
-          <name>Politik</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Ökonomie und Politik</link>
   </oberBegriff>
   <oberBegriff>
@@ -84489,21 +83484,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Politische Ökonomie, bürgerliche</oname>
-    <unterBegriff>
-      <uname>Politische Ökonomie, bürgerliche</uname>
-      <group oname="Politische Ökonomie, bürgerliche" uname="Politische Ökonomie, bürgerliche">
-        <entry>
-          <name>Politische Ökonomie, bürgerliche</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>als theoretischer Ausdruck der kapitalistischen Produktionsweise</uname>
       <group oname="Politische Ökonomie, bürgerliche" uname="als theoretischer Ausdruck der kapitalistischen Produktionsweise">
@@ -86168,21 +85148,6 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Politische Ökonomie, klassische bürgerliche</oname>
-    <unterBegriff>
-      <uname>Politische Ökonomie, klassische bürgerliche</uname>
-      <group oname="Politische Ökonomie, klassische bürgerliche" uname="Politische Ökonomie, klassische bürgerliche">
-        <entry>
-          <name>Politische Ökonomie, klassische bürgerliche</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>wissenschaftliche Leistung</uname>
       <group oname="Politische Ökonomie, klassische bürgerliche" uname="wissenschaftliche Leistung">
@@ -92366,40 +91331,10 @@
   </oberBegriff>
   <oberBegriff>
     <oname>Produktion, agrikole</oname>
-    <unterBegriff>
-      <uname>Produktion, agrikole</uname>
-      <group oname="Produktion, agrikole" uname="Produktion, agrikole">
-        <entry>
-          <name>Produktion, agrikole</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <link target="">Agrikultur</link>
   </oberBegriff>
   <oberBegriff>
     <oname>Produktion, assoziierte</oname>
-    <unterBegriff>
-      <uname>Produktion, assoziierte</uname>
-      <group oname="Produktion, assoziierte" uname="Produktion, assoziierte">
-        <entry>
-          <name>Produktion, assoziierte</name>
-          <book>15</book>
-          <startPage/>
-          <endPage/>
-          <startLine> </startLine>
-          <endLine/>
-          <startTerm> </startTerm>
-          <endTerm/>
-        </entry>
-      </group>
-    </unterBegriff>
     <unterBegriff>
       <uname>materielle Voraussetzungen</uname>
       <group oname="Produktion, assoziierte" uname="materielle Voraussetzungen">
