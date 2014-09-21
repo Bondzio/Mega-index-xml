@@ -1,6 +1,6 @@
 <?php
-include './db_globRegxml.php';
-include './db_part2xml.php';
+include './db_array/db_globRegxml.php';
+include './db_array/db_part2xml.php';
 include './utility.php';
 
 

@@ -5,9 +5,9 @@ include './utility.php';
 // include './xml2arr_dom.php';
 
 
-$globRegxml = file_get_contents("./globReg.xml");
+$globRegxml = file_get_contents("./xml/globReg.xml");
 
-$part2xml = file_get_contents("./part2.xml");
+$part2xml = file_get_contents("./xml/part2.xml");
 
 
 $globRegxml = xmlstr_to_array($globRegxml);

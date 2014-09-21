@@ -1,5 +1,5 @@
 <?php
-include './db_array.php';
+include './db_array/db_array.php';
 $key_char = $db['key_char'];
 $key_num = $db['key_num'];
 $hyphen_char = $db['hyphen_char'];
@@ -136,4 +136,4 @@ for ($i=0; $i < count($key_char) ; $i++) {
 }
 
 $dom->formatOutput = true;
-$dom->save('part2.xml');
+$dom->save('./xml/part2.xml');
