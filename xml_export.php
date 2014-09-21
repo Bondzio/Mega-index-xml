@@ -25,16 +25,22 @@ for ($i=0; $i < count($key_char) ; $i++) {
 	// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
 	// $unter->setAttribute('xml:id', $i);
 
-// add key_num;
+	// add key_num;
 	//!empty($key_num[$i])?print('0'):print('1');
 	if(!empty($key_num[$i])){
 		$key_num[$i] = trim($key_num[$i]);
-		$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 		//$unter->setAttribute('xml:id', '');
-
 		$key_num_array = explode(" ", $key_num[$i]);
 		// code for delete -
-		$uname = $unter->appendChild($dom->createElement('uname', $key_char[$i]));
+
+		// pre_print_r($key_num_array);
+		if($key_num_array[0] ==''){
+			unset($key_num_array[0]);
+		}else{
+			$unter = $ober->appendChild($dom->createElement('unterBegriff'));
+			$uname = $unter->appendChild($dom->createElement('uname', $key_char[$i]));
+		}
+
 
 		foreach ($key_num_array as $each_page) {
 			$each_page = trim($each_page);
@@ -79,6 +85,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
 		for ($j=0; $j < count($hyphen_char[$i]) ; $j++) { 
 			$hyphen_char [$i][$j] = trim(substr($hyphen_char[$i][$j], 2));
 				if(!empty($hyphen_num[$i][$j])){
+					$hyphen_num[$i][$j] = trim($hyphen_num[$i][$j]);
 					// Each	hyphen with couple numbers means one unterBegriff
 					$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 					//$unter->setAttribute('xml:id', '');
