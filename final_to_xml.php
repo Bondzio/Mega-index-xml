@@ -172,4 +172,4 @@ if(isset($oberBegriff['unterBegriff'])){
 
 
 $dom->formatOutput = true;
-$dom->save('test_final.xml');
+$dom->save('./xml/test_final.xml');
