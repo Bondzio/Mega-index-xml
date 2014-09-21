@@ -28,19 +28,22 @@ for ($i=0; $i < count($key_char) ; $i++) {
 // add key_num;
 	//!empty($key_num[$i])?print('0'):print('1');
 	if(!empty($key_num[$i])){
-
+		$key_num[$i] = trim($key_num[$i]);
 		$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 		//$unter->setAttribute('xml:id', '');
 
 		$key_num_array = explode(" ", $key_num[$i]);
 		// code for delete -
+		$uname = $unter->appendChild($dom->createElement('uname', $key_char[$i]));
+
 		foreach ($key_num_array as $each_page) {
 			$each_page = trim($each_page);
+
+
 			if(strpos($each_page, "-")){
 				$each_page = substr($each_page, 0, strpos($each_page, "-"));
 			}
 
-			$uname = $unter->appendChild($dom->createElement('uname', $key_char[$i]));
 			$group = $unter->appendChild($dom->createElement('group'));
 			$group->setAttribute('oname', $key_char[$i]);
 			$group->setAttribute('uname', $key_char[$i]);
