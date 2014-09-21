@@ -6,7 +6,9 @@ include './utility.php';
 
 
 $globRegxml = file_get_contents("./globReg.xml");
+
 $part2xml = file_get_contents("./part2.xml");
+
 
 $globRegxml = xmlstr_to_array($globRegxml);
 $part2xml = xmlstr_to_array($part2xml);

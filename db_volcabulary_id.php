@@ -1,5 +1,4 @@
 <?php $volcabulary_id =array (
-  0 => '',
   1 => 'Abnutzung',
   2 => 'Abschreibung (depreciation)',
   3 => 'Absolutes',

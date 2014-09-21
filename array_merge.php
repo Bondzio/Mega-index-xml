@@ -27,61 +27,42 @@ for ($i=0; $i < count($result['oberBegriff']); $i++) {
 // https://www.diffchecker.com/e39cyuaj
 
 $duplicate_word = array_diff_assoc($volcabulary, array_unique($volcabulary));
-// array_intersect_assoc()
-// array_intersect()
+// array_intersect_assoc() // array_intersect() // array_diff_assoc // array_intersect
 // pre_print_r($duplicate_word);
 array_to_file($duplicate_word);
 // function here to merge those word;
 
 $unique_volcabulary = array_unique($volcabulary);
+// pre_print_r($unique_volcabulary);
+
+$string = $unique_volcabulary[734]; //UTF-8
+$cha=utf8_decode($string);
+var_dump($cha);
+$string = $unique_volcabulary[235]; //ASCII
+$cha=utf8_decode($string);
+var_dump($cha);
+// echo $cha;
+
+// http://zh.wikipedia.org/wiki/%E5%BE%B7%E8%AA%9E%E5%AD%97%E6%AF%8D
 $volcabulary_id = array(0=>'');
-foreach ($unique_volcabulary as $item) {
-	$volcabulary_id[] = $item;
-}
+	foreach ($unique_volcabulary as $item) {
+		$volcabulary_id[] = $item;
+		// $cha=mb_detect_encoding($item);
+		// echo $cha."<br />";
+	}
+unset($volcabulary_id[0]);
 
 array_to_file($volcabulary_id);
-pre_print_r($volcabulary_id);
+// asort($volcabulary_id);
+// pre_print_r($volcabulary_id);
+// natcasesort($volcabulary_id);
 
 
+function Sortify($string)
+{
+    return preg_replace('~&([a-z]{1,2})(acute|cedil|circ|grave|lig|orn|ring|slash|tilde|uml);~i', '$1' . chr(255) . '$2', htmlentities($string, ENT_QUOTES, 'UTF-8'));
+}
 
-/*
-$part2xml structure
+array_multisort(array_map('Sortify', $volcabulary_id), $volcabulary_id);
 
-array(
-	'oberBegriff' => array(),
-	'@root' = 'globReg',
-	)
-
-////////////////////////////
-
-array['oberBegriff'] == array(
-	0 => array(
-				'oname' => '',
-				'unterBegriff' => array()
-	)
-
-	1 => array(
-				'oname' => '',
-				'unterBegriff' => array()
-	)
-
-	...	
-)
-
-//////////////////////////////
-'unterBegriff' => array(
-	0 => array(
-				'uname' = '',
-				'group' =
-				)
-
-
-
-
-)
-
-
-
-
-
-*/
+// pre_print_r($volcabulary_id);
