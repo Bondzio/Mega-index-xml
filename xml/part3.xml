@@ -31936,7 +31936,7 @@
     </unterBegriff>
   </oberBegriff>
   <oberBegriff>
-    <oname/>
+    <oname></oname>
   </oberBegriff>
   <oberBegriff>
     <oname>Qualität</oname>
@@ -40355,7 +40355,7 @@
     </unterBegriff>
   </oberBegriff>
   <oberBegriff>
-    <oname/>
+    <oname></oname>
   </oberBegriff>
   <oberBegriff>
     <oname>Saint-Simonismus</oname>
@@ -47320,7 +47320,7 @@
     </unterBegriff>
   </oberBegriff>
   <oberBegriff>
-    <oname/>
+    <oname></oname>
   </oberBegriff>
   <oberBegriff>
     <oname>Tätigkeit</oname>
@@ -48902,7 +48902,7 @@
     </unterBegriff>
   </oberBegriff>
   <oberBegriff>
-    <oname/>
+    <oname></oname>
   </oberBegriff>
   <oberBegriff>
     <oname>Überarbeit, -arbeitung</oname>
@@ -53326,7 +53326,7 @@
     </unterBegriff>
   </oberBegriff>
   <oberBegriff>
-    <oname/>
+    <oname></oname>
   </oberBegriff>
   <oberBegriff>
     <oname>Venedig, Venetianer</oname>
@@ -59223,7 +59223,7 @@
     </unterBegriff>
   </oberBegriff>
   <oberBegriff>
-    <oname/>
+    <oname></oname>
   </oberBegriff>
   <oberBegriff>
     <oname>Ware</oname>
@@ -66867,7 +66867,7 @@
         <entry>
           <name>Diskont, -rate</name>
           <book>15</book>
-          <startPage/>
+          <startPage></startPage>
           <endPage/>
           <startLine> </startLine>
           <endLine/>
@@ -79602,7 +79602,7 @@
     </unterBegriff>
   </oberBegriff>
   <oberBegriff>
-    <oname/>
+    <oname></oname>
   </oberBegriff>
   <oberBegriff>
     <oname>Yeomanry</oname>
@@ -79639,7 +79639,7 @@
         <entry>
           <name>Bauern</name>
           <book>15</book>
-          <startPage/>
+          <startPage></startPage>
           <endPage/>
           <startLine> </startLine>
           <endLine/>
@@ -79650,7 +79650,7 @@
     </unterBegriff>
   </oberBegriff>
   <oberBegriff>
-    <oname/>
+    <oname></oname>
   </oberBegriff>
   <oberBegriff>
     <oname>Zahlungen</oname>

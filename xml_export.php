@@ -45,7 +45,6 @@ for ($i=0; $i < count($key_char) ; $i++) {
 		foreach ($key_num_array as $each_page) {
 			$each_page = trim($each_page);
 
-
 			if(strpos($each_page, "-")){
 				$each_page = substr($each_page, 0, strpos($each_page, "-"));
 			}
@@ -101,6 +100,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
 						// Each number of every hyphen meas one group
 
 						
+						pre_print_r($hyphen_char[$i][$j]);
 						$group = $unter->appendChild($dom->createElement('group'));
 						$group->setAttribute('oname', $key_char[$i]);
 						$group->setAttribute('uname', $hyphen_char[$i][$j]);

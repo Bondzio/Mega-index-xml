@@ -33,22 +33,26 @@ foreach ($part2xml['oberBegriff'] as $oberBegriff) {
 if(isset($oberBegriff['unterBegriff'])){
 
 
-	$unter = $ober->appendChild($dom->createElement('unterBegriff'));
+	// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
 	
 	if(isset($oberBegriff['unterBegriff']['uname'])){
 			// pre_print_r($oberBegriff);
-			// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
+			$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 			$uname = $unter->appendChild($dom->createElement('uname', $oberBegriff['unterBegriff']['uname']));
-			$group = $unter->appendChild($dom->createElement('group'));
-			$group->setAttribute('oname', $oberBegriff['oname']);
-			$group->setAttribute('uname', $oberBegriff['unterBegriff']['uname']);
+			// $group = $unter->appendChild($dom->createElement('group'));
+			// $group->setAttribute('oname', $oberBegriff['oname']);
+			// $group->setAttribute('uname', $oberBegriff['unterBegriff']['uname']);
 
 			if(isset($oberBegriff['unterBegriff']['group']['entry'])){
+				// pre_print_r($oberBegriff['unterBegriff']['group']['entry']);
+				$group = $unter->appendChild($dom->createElement('group'));
+				$group->setAttribute('oname', $oberBegriff['oname']);
+				$group->setAttribute('uname', $oberBegriff['unterBegriff']['uname']);
 
 				$entry = $group->appendChild($dom->createElement('entry'));
 				$name = $entry->appendChild($dom->createElement('name', $oberBegriff['unterBegriff']['group']['entry']['name']));
 				$book = $entry->appendChild($dom->createElement('book', $oberBegriff['unterBegriff']['group']['entry']['book']));
-				$startPage = $entry->appendChild($dom->createElement('startPage'));
+				$startPage = $entry->appendChild($dom->createElement('startPage', $oberBegriff['unterBegriff']['group']['entry']['startPage']));
 				$endPage = $entry->appendChild($dom->createElement('endPage'));
 				$startLine = $entry->appendChild($dom->createElement('startLine', ' '));
 				$endLine = $entry->appendChild($dom->createElement('endLine'));
@@ -60,6 +64,10 @@ if(isset($oberBegriff['unterBegriff'])){
 				foreach ($oberBegriff['unterBegriff']['group'] as $entry) {
 					// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
 					// pre_print_r($entry['entry']);
+					$group = $unter->appendChild($dom->createElement('group'));
+					$group->setAttribute('oname', $oberBegriff['oname']);
+					$group->setAttribute('uname', $oberBegriff['unterBegriff']['uname']);
+
 					$name_value = $entry['entry']['name'];
 					$book_value = $entry['entry']['book'];
 					$startPage_value = $entry['entry']['startPage'];
@@ -85,7 +93,7 @@ if(isset($oberBegriff['unterBegriff'])){
 		foreach ($oberBegriff['unterBegriff'] as $unterBegriff) {
 			// pre_print_r($unterBegriff['uname']);
 			// pre_print_r($unterBegriff);
-			// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
+			$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 			$uname = $unter->appendChild($dom->createElement('uname', $unterBegriff['uname']));
 
 			if (isset($unterBegriff['group']['entry'])) {
@@ -111,15 +119,18 @@ if(isset($oberBegriff['unterBegriff'])){
 
 			}else{
 
-					$group = $unter->appendChild($dom->createElement('group'));
-					$group->setAttribute('oname', $oberBegriff['oname']);
-					$group->setAttribute('uname', $unterBegriff['uname']);
+					// $group = $unter->appendChild($dom->createElement('group'));
+					// $group->setAttribute('oname', $oberBegriff['oname']);
+					// $group->setAttribute('uname', $unterBegriff['uname']);
 
 					// pre_print_r($unterBegriff);
 
 				foreach ($unterBegriff['group'] as $entry_arr) {
 					// pre_print_r($entry_arr['entry']['startPage']);
 					// pre_print_r($entry_arr['entry']);
+					$group = $unter->appendChild($dom->createElement('group'));
+					$group->setAttribute('oname', $oberBegriff['oname']);
+					$group->setAttribute('uname', $unterBegriff['uname']);
 
 					$entry = $group->appendChild($dom->createElement('entry'));
 					$name = $entry->appendChild($dom->createElement('name', $entry_arr['entry']['name']));
@@ -140,34 +151,59 @@ if(isset($oberBegriff['unterBegriff'])){
 
 
 	}}
-
-
-	// $ober = $globReg->appendChild($dom->createElement('oberBegriff'));
-	// $oname = $ober->appendChild($dom->createElement('oname', $key_char[$i]));
-
-	}else{
-
 		if(isset($oberBegriff['link'])){
 			if(isset($oberBegriff['link']['@content'])){
 				// pre_print_r($oberBegriff['link']);
-				$link = $ober->appendChild($dom->createElement('link', $oberBegriff['link']['@content']));
+				$link = $ober->appendChild($dom->createElement('link', trim($oberBegriff['link']['@content'])));
 				//$oberBegriff['link']['@content']) = array( target = '');
 				// 
 				$link->setAttribute('target', '');
 			}else{
 				foreach ($oberBegriff['link'] as $link_arr) {
 					// pre_print_r($link_arr['@content']);
-					$link = $ober->appendChild($dom->createElement('link', $link_arr['@content']));
+					$link = $ober->appendChild($dom->createElement('link', trim($link_arr['@content'])));
 					$link->setAttribute('target', '');
 				}
 			}
 
 		}else{
 			//exception: Hypothese 
-			pre_print_r($oberBegriff['oname']." don't have link!");
-	}}
+			// pre_print_r($oberBegriff['oname']." don't have link!");
+		}
 
-}
+
+
+	// $ober = $globReg->appendChild($dom->createElement('oberBegriff'));
+	// $oname = $ober->appendChild($dom->createElement('oname', $key_char[$i]));
+
+	}else{
+		// those words don't have unter
+		//Exp:  Handelsfreiheit
+		//		#Freihandel
+
+		if(isset($oberBegriff['link'])){
+				if(isset($oberBegriff['link']['@content'])){
+					// pre_print_r($oberBegriff['link']);
+					$link = $ober->appendChild($dom->createElement('link', trim($oberBegriff['link']['@content'])));
+					//$oberBegriff['link']['@content']) = array( target = '');
+					// 
+					$link->setAttribute('target', '');
+				}else{
+					foreach ($oberBegriff['link'] as $link_arr) {
+						// pre_print_r($link_arr['@content']);
+						$link = $ober->appendChild($dom->createElement('link', trim($link_arr['@content'])));
+						$link->setAttribute('target', '');
+					}
+				}
+
+			}else{
+				//exception: Hypothese 
+				//don't has links;
+				pre_print_r($oberBegriff['oname']." don't have link!");
+			}
+	}
+};
+
 
 
 
