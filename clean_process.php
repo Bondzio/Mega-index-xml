@@ -11,7 +11,7 @@ function pre_print_r($var){
 
 //improt abbyy处理后的纯文本文件
 //然后读取文件每一行为 数组。
-$keywds = file("index.txt");
+$keywds = file("./text/clean_part3.txt");
 
 /*
 //检测 是否有 数字开头的一行。

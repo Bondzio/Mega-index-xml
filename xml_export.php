@@ -19,6 +19,7 @@ $globReg = $dom->appendChild($dom->createElement('globReg'));
 
 for ($i=0; $i < count($key_char) ; $i++) { 
 	$key_char[$i] = trim($key_char[$i]);
+	pre_print_r($key_char[$i]);
 
 	$ober = $globReg->appendChild($dom->createElement('oberBegriff'));
 
@@ -102,7 +103,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
 						// Each number of every hyphen meas one group
 
 						
-						pre_print_r($hyphen_char[$i][$j]);
+						// pre_print_r($hyphen_char[$i][$j]);
 						$group = $unter->appendChild($dom->createElement('group'));
 						$group->setAttribute('oname', $key_char[$i]);
 						$group->setAttribute('uname', $hyphen_char[$i][$j]);
