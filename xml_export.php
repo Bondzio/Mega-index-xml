@@ -128,7 +128,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
 		$arrow_string = substr(trim($arrow_char[$i]), 2);
 		$arrow_arr = explode(";", $arrow_string);
 			foreach ($arrow_arr as $each_arrow_arr) {
-				$link = $ober->appendChild($dom->createElement('link',$each_arrow_arr));
+				$link = $ober->appendChild($dom->createElement('link',trim($each_arrow_arr)));
 				$link->setAttribute('target', '');
 			}
 	}
