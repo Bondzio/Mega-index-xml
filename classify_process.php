@@ -29,7 +29,8 @@ $array_one_word ={
 	}
 
 
-	$keywds = file("./text/clean_part2.txt");
+	// $keywds = file("./text/clean_part2.txt");
+	$keywds = file("./text/clean_part3.txt");
 
 /*
 // check if it's right
