@@ -17,7 +17,7 @@ $result =  array_merge_recursive($globRegxml, $part2xml);
 $volcabulary = array();
 
 for ($i=0; $i < count($result['oberBegriff']); $i++) { 
-	$volcabulary[] = $result['oberBegriff'][$i]['oname'];
+	$volcabulary[] = trimUTF8BOM($result['oberBegriff'][$i]['oname']);
 }
 
 
@@ -31,12 +31,13 @@ $duplicate_word = array_diff_assoc($volcabulary, array_unique($volcabulary));
 // pre_print_r($duplicate_word);
 array_to_file($duplicate_word);
 // function here to merge those word;
+// to be done...
 
 $unique_volcabulary = array_unique($volcabulary);
 // pre_print_r($unique_volcabulary);
 
-echo $string1 = $unique_volcabulary[734]; //UTF-8
-echo $string2 = $unique_volcabulary[235]; //ASCII
+// echo $string1 = $unique_volcabulary[734]; //UTF-8
+// echo $string2 = $unique_volcabulary[235]; //ASCII
 // $string1=utf8_decode($string1);
 // $string2=utf8_decode($string2);
 // var_dump($string1);

@@ -1,4 +1,5 @@
 <?php $duplicate_word =array (
+  734 => 'Handelsbilanz',
   739 => 'Handelskapital',
   757 => 'Holland',
   765 => 'Import (Einfuhr)',
