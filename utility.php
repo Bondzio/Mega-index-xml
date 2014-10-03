@@ -37,6 +37,7 @@ function array_to_file($array){
 
 // if string include "efbbbf", delete it.
 function trimUTF8BOM($data){ 
+	$data = trim($data);
    if(strlen($data) >= 3 && substr($data, 0, 3) == pack('CCC', 239, 187, 191)) {
        return substr($data, 3);
    }

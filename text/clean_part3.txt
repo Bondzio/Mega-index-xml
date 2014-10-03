@@ -136,7 +136,7 @@ Produktionsweise
 - und Produktionsmittel 374 856
 - und politische Verhältnisse 766
 - und Recht 331 332
-# Eigentum an Produktionsmitteln 
+# Eigentum an Produktionsmitteln
 Produktionsweise, kapitalistische 18 40 372 647 763 817 821 844
 - Waren- und Geldzirkulation als ihre Basis 316
 - Entwicklungsgesetz 856
@@ -190,7 +190,7 @@ Produktionszweige, -sphären 105 116 118 161 178 186 195-197 259 272 299 321 430
 - technischer Charakter 121 736
 - Expansion und Kontraktion der P. der Rohstoffe 124
 - Rohstoff wichtiges Element in allen P. 121
-# Kapitalmasse; Konkurrenz 
+# Kapitalmasse; Konkurrenz
 Produktivität (Produktivkraft) der Arbeit
 - Gesetz der steigenden P. 258
 - Bestimmungsfaktoren 257 258 629
@@ -270,7 +270,7 @@ Profit 22 123 224 399 429 469
 - und Kostpreis 40 41 45 160-162 208 225
 - und Arbeitslohn 59 120 199 205 206 295 373 508 509
 - und Kapital 16 40 45 47 48 50 51 141 150-152 155 330 332 335 343 347 362 363 410 435 795 797 854
-- und Mehrwert 19 40 41 45-48 50 51 71 73 80 140 150-154 159 161 162 167169 171 173 174 199 203 208 211 212 215 218 219 231 232 240 278 288 294 315 373 379 498 622 738 739 758 759 789 795 797 803 804 806 807 814 821-824 831-833 852-854
+- und Mehrwert 19 40 41 45-48 50 51 71 73 80 140 150-154 159 161 162 361-363 171 173 174 199 203 208 211 212 215 218 219 231 232 240 278 288 294 315 373 379 498 622 738 739 758 759 789 795 797 803 804 806 807 814 821-824 831-833 852-854
 - und Zins 213 237 239 331 333 345 349-351 360-363 366 367 371-373 378 379 413 414 428 491 507 531 578 579 601 789 798 803 806 808 810 826 854
 - und Grundrente 240 355 636 759 762 795 807 828 853
 - und Produktivität der Arbeit 80 197 217 219-221 242 244 255 256
@@ -282,8 +282,7 @@ Profit 22 123 224 399 429 469
 - und Maschinerie 80
 - und Mystifikation des Kapitalverhältnisses 40 48 803 804
 - bürgerliche politische Ökonomie über P. 10 19 42 43 169 211 301 379 837 838
-# Bank of England; Banken; Banknotenemission; Durchschnittsprofit; Extraprofit; Fabrikant; Geldkapitalisten; Kooperativfabriken der Arbeiter; Profit, agri-
-koler; Profit, industrieller; Profit, kommerzieller; Veräußerungsprofit
+# Bank of England; Banken; Banknotenemission; Durchschnittsprofit; Extraprofit; Fabrikant; Geldkapitalisten; Kooperativfabriken der Arbeiter; Profit, agrikoler; Profit, industrieller; Profit, kommerzieller; Veräußerungsprofit
 Profit, agrikoler 775 776
 - und Durchschnittsprofit 758 759
 - und industrieller Profit 640 717
@@ -353,9 +352,9 @@ Profitrate 44 176 346 359
 - und Grundrente 640-642 663 667 717
 - und Weltmarkt 358
 - bürgerliche politische Ökonomie über P. 106 109
-# Außenhandel; Durchschnittsprofitrate; Gesetz des tendenziellen Falls der Profitrate; Konkurrenz 
+# Außenhandel; Durchschnittsprofitrate; Gesetz des tendenziellen Falls der Profitrate; Konkurrenz
 Proletariat
-# Arbeiterklasse 
+# Arbeiterklasse
 Proportionalität
 - zwischen Produktionszweigen 241 253 623 624
 Prosperität 76 129 805
@@ -365,23 +364,22 @@ Prosperität 76 129 805
 - und Quantum des zirkulierenden Geldes 436-440 521
 - und Zinsfuß 351 406 423 527 528 562
 - und Lage der Lohnarbeiter 251 299 437 841
-# Zyklus, industrieller 
+# Zyklus, industrieller
 Protektionismus 123 429 486 614-616 760
 - Aufhebung, Ermäßigung der Zölle auf Rohstoffe 109
-Protestantismus 583 
+Protestantismus 583
 Provinzbanken (Landbanken) 525
 - Banknoten 514 550
 - Depositen 492-494 536
 - Lokalverkehr 397 518
 - Gold- und Notenreserve 408 470
-- und Wechselhändler 493 536 
-Provision 21 285 
+- und Wechselhändler 493 536
+Provision 21 285
 Putzmacherei 95 96
-
 Qualität
 - der Waren 180 332
 - der Rohstoffe 83 103 124 131 138 141
-- der Maschinerie 103 141 
+- der Maschinerie 103 141
 Qualität und Quantität
 - qualitativer und quantitativer Unterschied 168 355 365 366
 - und Maß 168 184 185
@@ -391,13 +389,13 @@ Rationalismus
 - und Irrationalismus 755
 Raubbau
 # Boden
-Rechengeld 764 
+Rechengeld 764
 Recht
 - als juristischer Ausdruck ökonomischer Verhältnisse 331 604
 - und Produktionsverhältnisse 331 332 752 768 769
 - und Produktionsweise 331 332
 - und Staat 331 332
-# Gesetzgebung, bürgerliche 
+# Gesetzgebung, bürgerliche
 Rechtstitel 365 368 371 465 466 734
 # Eigentumstitel
 Reichtum 260 262 263 352 405 406 586 673 788 789
@@ -411,14 +409,14 @@ Reichtum 260 262 263 352 405 406 586 673 788 789
 - imaginärer 474
 - Gegensatz zwischen Armut und R. 585
 - und Luxus 414
-# Gold und Silber 
-Religion 583 
+# Gold und Silber
+Religion 583
 Rente 622
 # Arbeitsrente; Differentialrente; Differentialrente I; Differentialrente II; Geldrente; Grundrente; Grundrente, absolute; Produktenrente
-Rententheorie 608 
+Rententheorie 608
 Rentiers 501 502 505
-- wachsende Gesellschaftsschicht 352 
-Reparaturarbeiten 81 
+- wachsende Gesellschaftsschicht 352
+Reparaturarbeiten 81
 Reproduktion 476 477 586 785 856
 - einfache 114 589 765 821
 - erweiterte 794
@@ -551,7 +549,7 @@ Rom (altes) 103 414
 - Handel 324 583 584
 - Wucher, -kapital 583-587 589
 - Geldwesen 311 584 762
-- Kaufmannskapital 325 583 584 
+- Kaufmannskapital 325 583 584
 Rumänien 770 778
 Rußland 262 464 543
 - Produktion 327 557
@@ -562,25 +560,24 @@ Rußland 262 464 543
 - Staatskredit 518
 - Rohstoffexport 131
 - Reform von 1861 10
-
 Saint-Simonismus 594
-- über Banken und Kredit 595 597 598 
+- über Banken und Kredit 595 597 598
 Schatz, -bildung 524 583 584 588
 - Formen in der kapitalistischen Produktionsweise 309 310 312-314 444 501 538 557 558
 - und Banken 408 557
 # Bank of England; Geld als Schatz; Geldhändler; Krisen, ökonomische; Metallschatz
-Schatzscheine 462 467 506 525 530 
+Schatzscheine 462 467 506 525 530
 Schecks (cheques) 314 390 394-397 447 468 515
 Schein 387 541
 - der Konkurrenz 198 825-848
 - und Wirklichkeit 33 46 47 84 85 114 155 168 188-190 235 277 279 438 465 473-475 481 565 654 695 743 802-805 815 816 819 829 842 848
 - und Wesen 46 155 168-170 190 207 222 223 306 307 329 792 793 804 805 840-844
 - und Vorstellung 207 306 307
-# Wesen und Erscheinung 
+# Wesen und Erscheinung
 Schichtarbeit
-- und Maschinerie 117 
-Schiffahrt 72 305 486 
-Schneiderei, Schneider 93 94 592 
+- und Maschinerie 117
+Schiffahrt 72 305 486
+Schneiderei, Schneider 93 94 592
 Schottland 750
 - Geld- und Bankwesen 398 440 470 519 552 555 556
 - Banknotenzirkulation 398 427 518-520
@@ -588,9 +585,9 @@ Schottland 750
 - Union Bank of Scottland 555
 - Kohlenbergwerke 751
 - Agrikultur 615
-- Flachsindustrie 129 131 
+- Flachsindustrie 129 131
 Schriftsetzer
-- Arbeitsbedingungen 94 95 
+- Arbeitsbedingungen 94 95
 Schulden 463 492 528
 - Akkumulation von Sch. 386 473
 - Auslandsschulden 482 575
@@ -598,16 +595,16 @@ Schulden 463 492 528
 - der Grundeigentümer 703 704
 # Staatsanleihen, -effekten, Staatsverschuldung
 Schuldner und Gläubiger
-# Gläubiger und Schuldner 
+# Gläubiger und Schuldner
 Schuldschein
-# Wechsel 
+# Wechsel
 Schuldtitel
-- ihre Kompensation ersetzt Geld 360 
+- ihre Kompensation ersetzt Geld 360
 Schutzzoll, -politik
-# Protektionismus 
+# Protektionismus
 Schweden
 - Banken 311
-- Bauernschaft 782 
+- Bauernschaft 782
 Schwindel 255 353 531 596
 - im Handel 400 401 403 404 412 483 484
 - bei fiktivem Kapital 247 380 401 429-431 464 490
@@ -622,12 +619,12 @@ Seidenindustrie 128-131 132 327
 - Seidenabfälle 102
 - Sterblichkeitsrate in S. 92 93
 Silber
-# Gold und Silber 
+# Gold und Silber
 Silberabfluß, -export 512 557
 - nach China , Indien 545
 - und Wechselkurs 569
 Silbervorrat
-- der Bank of England 551 552 
+- der Bank of England 551 552
 Sklaverei 177 319 762 853
 - Produktionsweise 35 318 323 374 375 584 585 587 622 752 766 784 806
 - Produktionsverhältnisse 464
@@ -638,7 +635,7 @@ Sklaverei 177 319 762 853
 - in den Vereinigten Staaten von Amerika 376 607 619
 - im alten Rom 324 584 585 587 589
 - und Handel 323-325
-# Antike; Griechenland; Rom 
+# Antike; Griechenland; Rom
 Smith, Adam 144
 - Rolle in der Geschichte der politischen Ökonomie 317 603 604 744 745
 - Widersprüche in seiner Theorie 815 816
@@ -686,7 +683,7 @@ Staat 588 592 734
 - und Gesellschaft 374 766 767
 - und Produktionsverhältnisse 766 767
 - und Recht 331 332
-- und Steuern 591 704 766 773 
+- und Steuern 591 704 766 773
 Staat, asiatischer 766
 Staat, bürgerlicher 536 647
 - Einmischung in die Produktion 429
@@ -701,18 +698,18 @@ Staatsanleihen, -effekten 394 406 441 447 467 505 523 536 784
 - Marktwert der Staatseffekten 465 498
 - Staatsgläubiger 462 473
 - Entwertung von Staatseffekten 400 466 498
-Staatsformen 766 767 
-Staatsländereien 747 
+Staatsformen 766 767
+Staatsländereien 747
 Staatsverschuldung 406 464-466 520 523 784
 - und Steuern 385 462 463 473 474 591
-- und Tilgungsfonds 385 
+- und Tilgungsfonds 385
 Stadt 774
 - in der Sklavenhaltergesellschaft 323 325
 - im Mittelalter 327 601 776
 - in der kapitalistischen Gesellschaft 101 137 320 609 610 750 751 788 856
-# Handelsstädte 
+# Handelsstädte
 Stadt und Land
-# Gegensatz zwischen Stadt und Land 
+# Gegensatz zwischen Stadt und Land
 Stadtrepubliken 591
 Stände
 - Bauernstand 782
@@ -723,7 +720,7 @@ Stagnation (Stockung, Störung) 351 440 521
 - der Akkumulation 502
 - des Geldmarkts 128 520 530 535
 - der Märkte 477
-- in der Textilindustrie 128 131 
+- in der Textilindustrie 128 131
 Statistik 77
 - industrielle 126
 - über Ex- und Import Englands 497
@@ -731,7 +728,7 @@ Statistik 77
 - über Baumwollindustrie 134
 - über Agrikultur 659
 - über Sterblichkeit 91-93
-- Statistiker 463 
+- Statistiker 463
 Steuern 181 477 535 735
 - in vorkapitalistischen Produktionsweisen 588 589 591 704 763 766 773
 - Einkommenssteuer 408
@@ -741,29 +738,29 @@ Steuern 181 477 535 735
 - und Staat 591 704 766 773
 - und bürgerlicher Staat 385 462 463 473
 - und Staatsverschuldung 385 462 463 473 474 591
-- und Ruin der Landbevölkerung 760 782 
+- und Ruin der Landbevölkerung 760 782
 Stoffwechsel 852
 - Arbeit als Bedingung des St. zwischen Mensch und Natur 790 794 795 855
 - natürlicher 101 788
 - gesellschaftlicher 277
 Streik
 - der mechanischen Weber von Lan-cashire (1861) 133
-- der Baumwollarbeiter 135 138 
-Strohflechterei 92 
+- der Baumwollarbeiter 135 138
+Strohflechterei 92
 Strumpfwarenindustrie
-# Textilindustrie 
+# Textilindustrie
 Subjekt und Objekt
 - im kapitalistischen Produktionsprozeß 48
 Substanz
-# Inhalt und Form 
+# Inhalt und Form
 Subsumtion
 - nichtfeudaler Verhältnisse unter feudale Produktionsverhältnisse 848 849
 Subsumtion der Arbeit unter das Kapital
 - formelle 213 233 327 777
-- reelle 213 327 
+- reelle 213 327
 Subsistenzmittel
-# Lebensmittel 
-Suezkanal 72 401 486 
+# Lebensmittel
+Suezkanal 72 401 486
 Surplusproduktivität, -produktivkraft
 - und zuschüssige Kapitalanlagen 711-713 715 718 719 721
 Surplusprofit
@@ -776,13 +773,12 @@ System
 - von Konsignationen 399
 - industrielles 788
 - künstliches 486 487 532
-
 Tätigkeit
-- Arbeit als menschliche T. 790 800 
+- Arbeit als menschliche T. 790 800
 Tauschwert 11 42 80 321 323 792
 - Geld als Verselbständigung des T. 319 382 511
 # Wert
-Tautologie 186 218 219 221 412 541 845 
+Tautologie 186 218 219 221 412 541 845
 Technik
 # Fortschritt, technischer
 Teilhaber (Associe) 355 362 464 683 835
@@ -790,7 +786,7 @@ Telegrafie 72 305 486 518
 Tendenz
 - des Kapitals 87 88 738
 - und Gesetz 155 162 175 229 231 856
-# Gesetze, ökonomische 
+# Gesetze, ökonomische
 Textilindustrie
 - Geschäftslage 125-131
 - Zyklen 126
@@ -804,39 +800,37 @@ Textilindustrie
 - Flachsindustrie 102 123 126 128-131 162
 - Näherinnen, Schneider (dressmaker) 93-95 135
 # Baumwollindustrie; Seidenindustrie
-Theorie und Praxis 76 104 170 171 175
-183 189 190
+Theorie und Praxis 76 104 170 171 175 183 189 190
 - Einheit von T. und P. 374 379
 - Gegensätze (Widersprüche) zwischen T. und P. 106 109 155 547 548 613 815 816
-Tilgungsfonds 385 
+Tilgungsfonds 385
 Totalität
 - der Waren 279
 - der Produktionszweige 161
 Tradition
 - ihre Rolle in vorkapitalistischen Produktionsweisen 768 769
-- überlebte 354 763 
+- überlebte 354 763
 Transport 478 479
-- Kosten 122 263 283 284 290 294 
+- Kosten 122 263 283 284 290 294
 Transportindustrie 263 283 316 486
 - Transportmittel 304 305 637
-# Eisenbahnen 
+# Eisenbahnen
 Tratte
-# Wechsel 
+# Wechsel
 Tribut 319 589 763
 - der Gesellschaft an die Grundeigentümer 613 703 742 750 752
-- Indiens an England 573 574 581 
+- Indiens an England 573 574 581
 Trinitarische Formel 789-806 Trust 123 429 486
 - Spaltungstrusts 468
 - Financial trust 468
-
-Überarbeit, -arbeitung 77 78 86 94-96 197 
+Überarbeit, -arbeitung 77 78 86 94-96 197
 Überbau
-# Basis und Überbau 
+# Basis und Überbau
 Überfluß
 - von anlagesuchendem Kapital 305 406
 - von „wirklichem“ Kapital 448
 - von industriellem Kapital 479 480 485 487 556
-# Leihkapital 
+# Leihkapital
 Überproduktion 527
 - periodischer Charakter in der kapitalistischen Gesellschaft 130 251 351 485 486 503
 - Kredit als Haupthebel der Ü. 432
@@ -889,7 +883,7 @@ Umschlag des Kapitals
 - und Geldzirkulation 296-300
 - und Brachlegung von Geld- und Warenkapital 71
 # Kaufmannskapital
-Umschlagszahl des Kapitals 75 296 297 302 303 305 306 
+Umschlagszahl des Kapitals 75 296 297 302 303 305 306
 Umschlagszeit des Kapitals 121
 - Verkürzung 71
 - Einfluß auf die Profitrate 71-76 145 146 153-156 163 307 348
@@ -899,9 +893,9 @@ Umschlagszeit des Kapitals 121
 - und Mehrwertmasse 71 73 74 76 153 303 306 307
 - und Warenpreise 305-307 348
 - und fixes und zirkulierendes Kapital 153 154
-Ungarn 856 
+Ungarn 856
 Unkosten
-# Nebenkosten der Produktion 
+# Nebenkosten der Produktion
 Unternehmen (Unternehmungen) 125 466 507
 - öffentliche 495
 - mit großem Kapitalbedarf 406
@@ -937,7 +931,6 @@ Ursache und Wirkung
 - in der Natur 643 756 757
 - in der Gesellschaft 414 849 850 854 855
 - in der Ökonomie 91 128 142 170 203 217-222 229-237 242 294 295 412 491 506 508 509 577 578 593 631 637 690 732 740 781 829 830 840 841 844 845
-
 Venedig, Venetianer 321 324 592 601
 - Kassenvereine 313
 - Kreditassoziationen 591
@@ -979,7 +972,7 @@ Verhältnisse, gesellschaftliche (soziale)
 - und Eigentum 603
 - und Produktion 766-769 793-795 854-856
 - und Produktionsweise 245 246 768 769 793 844
-# Produktionsverhältnisse 
+# Produktionsverhältnisse
 Verhältnisse, ökonomische
 - historische Form 793 794
 - der kapitalistischen Gesellschaft 144 207 353 634 635 755 793 794 796 844 845 856
@@ -987,17 +980,17 @@ Verhältnisse, ökonomische
 - und gesellschaftliche Verhältnisse 768-770 793 794 801 802 844
 - und Produktion 793-795 844
 - und Produktionsweise 144 844
-# Konkurrenz; Produktionsverhältnisse 
+# Konkurrenz; Produktionsverhältnisse
 Verhältnisse, politische 586
 - und Produktionsweise 766
 Verkauf
-# Kauf und Verkauf 
-Verkehr, -smittel 518 
+# Kauf und Verkauf
+Verkehr, -smittel 518
 Verkehrsverhältnisse (gesellschaftliche) 603
 Verleger
-- Kaufmann als V. 328 
+- Kaufmann als V. 328
 Verleiher und Borger
-# Gläubiger und Schuldner 
+# Gläubiger und Schuldner
 Verluste 207 249 846
 - positive 258
 - an Kapital 241 250 421
@@ -1007,40 +1000,40 @@ Verluste 207 249 846
 - durch Abfall 113
 Vermittlung (Mittelglieder) 17 276 306 317 516 758 759 792 813
 - vermittelte Bewegung 268 269 334 336 337 340 341 380 383
-Verpfändung 420 445 
+Verpfändung 420 445
 Versachlichung
 # Entfremdung; Fetischismus; Mystifikation des Kapitals; Verhältnisse, gesellschaftliche
 Verschleiß
-# Maschinerie; Kapital, fixes 
+# Maschinerie; Kapital, fixes
 Verschwendung 787 799
 - materieller Mittel 87
 - von Menschenkraft beim Parzelleneigentum 782
 - an Arbeitskraft 101
 - an Leben und Gesundheit der Lohnarbeiter 86-89 91-96
-- der Abfälle der Konsumtion 101 
+- der Abfälle der Konsumtion 101
 Verteilung
-# Distribution 
+# Distribution
 Verteilungsverhältnisse
-# Distributionsverhältnisse 
+# Distributionsverhältnisse
 Verwaltung
 - des zinstragenden Kapitals 393 395
-- und Aktiengesellschaften 380 
+- und Aktiengesellschaften 380
 Verwaltungslohn
 - Schwindel beim V. mit Sitzungsgebühren 380
-# Aufsichtslohn 
+# Aufsichtslohn
 Verwertung
 - des Kapitals 35 36 45 54 86 114 243 246-249 252 254 267 287 296 346 432 435 463-465 502 852 859
 - des Bankkapitals 435
 - des Kaufmannskapitals 267
 - des Grundeigentums 605 613 624 734 859
 - in den Kooperativfabriken der Arbeiter 431
-- und Produktionsausdehnung 246 247 
+- und Produktionsausdehnung 246 247
 Verwertungsprozeß, kapitalistischer 51 464
 - seine Mystifikation durch den Kostpreis 33 37 38 511
 - und Arbeitsprozeß 40
 - und Wertbildungsprozeß 36-38
 - und Kaufmannskapital 286
-# Produktionsprozeß, kapitalistischer 
+# Produktionsprozeß, kapitalistischer
 Vieh 118 782
 - als Arbeitsmittel 765
 - als Teil des Betriebskapitals 778
@@ -1053,7 +1046,7 @@ Volk, Völker 253 322 323 590 605
 - kapitalistisch entwickelte, moderne 603 744 782
 - nomadische 325
 - Entwicklung 352
-# Handelsvölker 
+# Handelsvölker
 Volksbank
 - bei Proudhon 43
 Voraussetzung und Resultat 166 174 175 302 341 347 369 586 643 793 844 849-851
@@ -1063,7 +1056,7 @@ Vorräte, Vorratsbildung 299 546 576
 - Entwertung der Rohstoffvorräte 116 443
 - Umfang der Rohstoffvorräte und Wirkung von Preiswechsel im Rohstoff 116 129
 - spekulative Vorratbildung 130 510
-- Kredit auf V. 594 
+- Kredit auf V. 594
 Vorschüsse 396 399 467 533 549
 - wechselseitige V. der Produzenten und Händler 389
 - auf persönlichen Kredit 394 420 445
@@ -1089,7 +1082,7 @@ Vorstellung
 - der Produktionsagenten 207 228 353 839 840 843
 - über zinstragendes Kapital 366 598
 - und Wirklichkeit 306 307
-- und Schein 207 306 307 
+- und Schein 207 306 307
 Vulgärökonomie 12
 - im Unterschied zur klassischen bürgerlichen politischen Ökonomie 761 762 804 805
 - apologetisches Bestreben 316 590 792 793 800 801 804 805
@@ -1104,9 +1097,8 @@ Vulgärökonomie 12
 - über Grundrente 610 755 761 764 765
 - über Reproduktion 815 817 818
 - über ökonomische Krisen 254
-# Abstinenztheorie 
+# Abstinenztheorie
 Vulgärsozialismus 13
-
 Ware 15 36-39 43 44 171 180 446
 - als gesellschaftliches Verhältnis 626 801 851 852
 - einfache 16 343 345
@@ -1117,7 +1109,7 @@ Ware 15 36-39 43 44 171 180 446
 - ihr Doppelcharakter 181 182 185 192 275 342-345 623-627 634
 - Verwohlfeilerung der W. 81 87 114 115 210 223-228 236 244 256-258 261 631 632
 - Qualität der W. 180 332
-- Wert, Preis 11 41 42 45 81 87 115 116 121 143	152 155 157 159 161 164	166 167 176 177 184 192 223 224	346 504 516 544	545 625-627 814 820 832	833 835 838 839	841-843 845
+- Wert, Preis 11 41 42 45 81 87 115 116 121 143	152 155 157 159 161 164	166 167 176 177 184 192 223 224	346 504 516 544 545 625-627 814 820 832	833 835 838 839	841-843 845
 - als Produkt des Kapitals 40 123 175 194 226 244 435 825 826 852 853
 - Bedingungen ihrer Produktion und Realisierung 186-188 192 193 240 241 625-627 802
 - Fetischcharakter 583 801 852
@@ -1152,14 +1144,14 @@ Warenkapital 37 38 298 315 417 442 499 509
 - und Geldkapital im Gegensatz zum produktiven Kapital 264
 - und Geldkapital 264 270 273 282 289 295 296 307 450 487 489 503 504
 - und Leihkapital 333 334 473 504 510 578
-- und Kaufmannskapital 263 264 268273 278 290 293 295 296 304 305
+- und Kaufmannskapital 263 264 361-363 278 290 293 295 296 304 305
 - und ökonomische Krisen 413 486 487 489 490 510 511 556
-- und Zirkulationskosten 293 294 
-Warenmakler 403 494 
+- und Zirkulationskosten 293 294
+Warenmakler 403 494
 Warenmasse (-quantum, -menge) 240 241
 - Steigerung der W. mit der kapitalistischen Produktion 216 228 304 305
 - und gesellschaftlich notwendige Arbeitszeit 186 187 623 624 628
-- und Marktwert 179 181-187 189 
+- und Marktwert 179 181-187 189
 Warenpreise 87 180 208 228 302 541 837
 - und Geldmenge 314 436-439 504 516 539 544 545 549
 - und Leihkapital 406 482 509 510
@@ -1204,7 +1196,7 @@ Wechsel 299 332 360 435 440 447 483 521 536 594
 - als Zahlungsmittel 360 389 390 393 394 476
 - Wechselhandel 311
 - Verfall- und Zahlungstag 389 393 401 402 476 529 534 568
-- Diskontierung 128 273 314 390 394397 400 401 403 404 407 409 416-421 423 439 441 442 444-446 461 462 466 467 475 481 482 506 507 512 514-516 524 525 527-529 533 552
+- Diskontierung 128 273 314 390 361-363 400 401 403 404 407 409 416-421 423 439 441 442 444-446 461 462 466 467 475 481 482 506 507 512 514-516 524 525 527-529 533 552
 - Rediskontierung 493 494
 - gezogene (Tratten) 390 400-404 418 526 533 534 546 569 570 573 574 581
 - Rimesse 581 582 602
@@ -1260,9 +1252,9 @@ Weizen
 - als Hauptnahrungsmittel 603
 - Weizenregion 655
 Weltgeld
-# Geld als Weltgeld 
+# Geld als Weltgeld
 Welt 329
-- alte und moderne 177 
+- alte und moderne 177
 Weltmarkt 132 779
 - Entstehung und Entwicklung 262 325 326 328 329 432 774
 - wirkliche Herstellung des W. 486
@@ -1441,10 +1433,8 @@ Wucherkapital 593
 - Luther über W. 338 383 384 600 601
 # Kapital, zinstragendes
 Wucherzins, -fuß 351 400 589 786
-
 Yeomanry 591 782
 - Bauern
-
 Zahlungen
 - Barzahlung, ihre Suspension 311 409 410 480 486 512 524 530 532 534 538 548 550 559 566 582
 - Verbindlichkeiten (liabilities) 530 531
@@ -1500,7 +1490,7 @@ Zins (interest) 15 259 332 336-338 528 530 786 792 803 846 855
 - in vorkapitalistischen Produktionsweisen 213 358 366 585 587 588 600-602
 - und Mehrwert 211 213 239 240 340 342 345 355 360 366-372 381 382 585 844
 - und Unternehmergewinn, Rate des Unternehmergewinns 347 349-351 353 355 363-373 378-380 382 383 413 414 416 428 491 507 725 789 795 798 803 806 808 810 826 834 844 854
-- und Profit, Durchschnittsprofit, -rate 213 237 239 331 333 345 348-351 361363 365-369 371-373 378 379 413 414 428 491 507 531 578 579 601 725 789 795 798 803 806 808 810 826 834 844 854
+- und Profit, Durchschnittsprofit, -rate 213 237 239 331 333 345 348-351 361-363 365-369 371-373 378 379 413 414 428 491 507 531 578 579 601 725 789 795 798 803 806 808 810 826 834 844 854
 - und Lohnarbeit 369 804
 - und Warenpreise 512 578 579
 - und Mystifikation des Kapitalverhältnisses 364 365 372 373 381 382 388 462-464
@@ -1590,27 +1580,27 @@ Zirkulationsprozeß, kapitalistischer 50 293 308 314 329 333 370 852
 - und Reproduktionsprozeß des Kapitals 29 246 250 268 270 274-277 282 284 285 316 336 436-438 478 813 818
 - Stockungen 266
 Zirkulationszeit
-# Umlaufszeit 
-Zivilisation 703 856 
+# Umlaufszeit
+Zivilisation 703 856
 Zölle
-# Protektionismus 
+# Protektionismus
 Zufall
 - und Notwendigkeit 187 353 354 802
-- und Gesetz 189 802 852 
+- und Gesetz 189 802 852
 Zufuhr und Nachfrage
 # Nachfrage und Zufuhr
 Zünfte, Zunftwesen 177 327-329 776
 - Hemmnis für die Entwicklung der kapitalistischen Gesellschaft 806
-# Handwerk, Handwerker 
+# Handwerk, Handwerker
 Zusammenhang
 - gesellschaftlicher 802 853
 - innerer 46 48 85 169 186 222 253 298 306 348 353 755 792 803-805
-- notwendiger 186 222 
+- notwendiger 186 222
 Zusammensetzung des Kapitals, technische 48 110 120 146 153-156 165 203 736
 - Grundlage der organischen Zusammensetzung 147
 - in verschiedenen Produktions- und Industriezweigen 147
 - und Wertzusammensetzung 147 148 742 743
-- und Profitrate 60 62 63 69 150 
+- und Profitrate 60 62 63 69 150
 Zusammensetzung des Kapitals, wertmäßige 76 152-154 204-206 209-211
 - durchschnittliche Z. eines Produktionszweiges 146
 - Ausdruck der Produktivität der Arbeit 53
@@ -1656,11 +1646,3 @@ Zyklus, industrieller 302 357 508 523
 - Periodizität 251 351 485 486 497
 - Ausdehnung seiner Dauer 285 286
 - und Durchschnittsprofit 207
-- und Kredit, -system 251 298 299 351 437 438 479 480 484-486 490 491 498 502 503 507 562-566
-- und Leihkapital 481 482 484 485 490 491 510
-- und Wertpapiere 352 465 466 498
-- und Zinsfuß 349 351 353 412 413 481 482 485 490 491 498 524 562 579
-- und Geldzirkulation 437 521 524
-- und relative Übervölkerung 251
-- und Goldab- und -zufluß 562 563 577
-# Krisen, ökonomische; Prosperität

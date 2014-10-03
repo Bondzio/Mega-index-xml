@@ -1,6 +1,6 @@
 <?php
 include './db_array/db_globRegxml.php';
-include './db_array/db_part2xml.php';
+include './db_array/db_part23xml.php';
 include './utility.php';
 
 
@@ -11,18 +11,21 @@ include './utility.php';
 
 
 
-$result =  array_merge_recursive($globRegxml, $part2xml);
+$result =  array_merge_recursive($globRegxml, $part23xml);
 // array_to_file($result);
+// pre_print_r($result);
+
 
 $volcabulary = array();
 
 for ($i=0; $i < count($result['oberBegriff']); $i++) { 
 	$volcabulary[] = trimUTF8BOM($result['oberBegriff'][$i]['oname']);
+	// $volcabulary[] = $result['oberBegriff'][$i]['oname'];
 }
 
 
 // comepare this two output, some word are 
-// pre_print_r($volcabulary);
+pre_print_r($volcabulary);
 // pre_print_r(array_unique($volcabulary));
 // https://www.diffchecker.com/e39cyuaj
 
@@ -51,7 +54,7 @@ $volcabulary_id = array(0=>'');
 		if($cha == 'ASCII'){
 			$item = utf8_encode($item);
 		}
-		echo utf8_encode($cha)." : ".$item."<br />";
+		// echo utf8_encode($cha)." : ".$item."<br />";
 	}
 unset($volcabulary_id[0]);
 // pre_print_r($volcabulary_id);

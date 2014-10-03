@@ -12,6 +12,7 @@ function pre_print_r($var){
 //improt abbyy处理后的纯文本文件
 //然后读取文件每一行为 数组。
 $keywds = file("./text/clean_part3.txt");
+preg_replace('/\n{2,}/', '\n', $keywds);
 
 /*
 //检测 是否有 数字开头的一行。
@@ -56,12 +57,19 @@ for ($i=0; $i <count($keywds) ; $i++) {
 }else{
 		$replacement = substr($matches[0],0,3)."-".substr($matches[0],3,3);
 		$clean_arr=preg_replace($pattern, $replacement, $keywds);
+		pre_print_r($clean_arr);
 		}
 };
 
-for ($i=0; $i <count($clean_arr) ; $i++) { 
-	echo trim($clean_arr[$i])."<br />";
-}
 
-//→\s?[a-zA-Z]{0,}\s?\d
+// for ($i=0; $i <count($clean_arr) ; $i++) { 
+// 	// echo $i." : ".trim($clean_arr[$i])."<br />";
+// 	$item = trim($clean_arr[$i]);
+// 	if(empty($item)){
+// 		// remove lines only have space.
+// 		unset($clean_arr[$i]);
+// 	}else{
+// 	echo trim($clean_arr[$i])."<br />";
+// 	}
+// }
 

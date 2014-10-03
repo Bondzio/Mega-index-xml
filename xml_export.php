@@ -1,7 +1,7 @@
 <?php
-// include './db_array/db_array.php';
+include './db_array/db_array.php';
 // include './db_array/db_array_clean2.php';
-include './db_array/db_array_clean3.php';
+// include './db_array/db_array_clean3.php';
 $key_char = $db['key_char'];
 $key_num = $db['key_num'];
 $hyphen_char = $db['hyphen_char'];
@@ -139,4 +139,4 @@ for ($i=0; $i < count($key_char) ; $i++) {
 }
 
 $dom->formatOutput = true;
-$dom->save('./xml/part3.xml');
+$dom->save('./xml/part23.xml');

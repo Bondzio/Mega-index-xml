@@ -20,3 +20,10 @@ use php to process raw text to xml
     ...省略
     *# Verluste*
     (注意：＃と単語の間にスペースあり)
+
+####ＰＨＰファイルの実行手順
+classify_process.php =>
+xml_export.php =>
+xml_import.php =>
+array_merge.php =>
+word_sort.php =>
