@@ -16,10 +16,19 @@ $result =  array_merge_recursive($globRegxml, $part23xml);
 // pre_print_r($result);
 
 
+
+
+// remove "„" "”"
+pre_print_r(bin2hex("„Das Kapital”"));
+pre_print_r(bin2hex(trimUTF8BOM("„Das Kapital”")));
+pre_print_r(bin2hex("„"));
+pre_print_r(bin2hex("”"));
+
 $volcabulary = array();
 
 for ($i=0; $i < count($result['oberBegriff']); $i++) { 
 	$volcabulary[] = trimUTF8BOM($result['oberBegriff'][$i]['oname']);
+	// $tmp = trimUTF8BOM($result['oberBegriff'][$i]['oname']);
 	// $volcabulary[] = $result['oberBegriff'][$i]['oname'];
 }
 
