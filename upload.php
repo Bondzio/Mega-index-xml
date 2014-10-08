@@ -11,7 +11,6 @@ if (!empty($_FILES["myFile"])) {
     }
 
     if (pathinfo($myFile["name"], PATHINFO_EXTENSION)!== "txt"){
-        // echo "<p>Please select a TXT file!, back to upload page...</p>";
         header("location:./index.php?type=0");
         exit;
     }

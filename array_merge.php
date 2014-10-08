@@ -11,18 +11,28 @@ include './utility.php';
 
 
 
-$result =  array_merge_recursive($globRegxml, $part23xml);
-// array_to_file($result);
-// pre_print_r($result);
+// $result =  array_merge_recursive($globRegxml, $part23xml);
+// // array_to_file($result);
+// // pre_print_r($result);
+
+// // $special_code = array("„", "”")
+// $string = bin2hex("„Das Kapital”");
+// $fdot = bin2hex("„");
+// $fdotlen = strlen($fdot);
+// $ldot = bin2hex("”");
+// $ldotlen = strlen($ldot);
+// if(strpos($string, $fdot) || strpos($string, $ldot)){
+// 	if(strpos($string, $fdot)){
+// 	}
+
+// }
 
 
-
-
-// remove "„" "”"
-pre_print_r(bin2hex("„Das Kapital”"));
-pre_print_r(bin2hex(trimUTF8BOM("„Das Kapital”")));
-pre_print_r(bin2hex("„"));
-pre_print_r(bin2hex("”"));
+// pre_print_r(bin2hex("„Das Kapital”"));
+// pre_print_r(bin2hex(trimUTF8BOM("„Das Kapital”")));
+// pre_print_r(bin2hex("„"));
+// pre_print_r(bin2hex("”"));
+// pre_print_r(hex2bin(bin2hex("„")));
 
 $volcabulary = array();
 
