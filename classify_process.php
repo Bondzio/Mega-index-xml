@@ -136,7 +136,7 @@ for ($i=0; $i < count($arrow_keys); $i++) {
 //pre_print_r($arrow_num);
 
 
-pre_print_r("<h3><a href='./xml_export.php'>親索引だけを表示する</a></h3>");
+pre_print_r("<p>読み込み 成功！</p><h3><a href='./xml_export.php'>親索引だけを表示する</a></h3>");
 // print all words as html
 for ($i=0; $i < count($key_char) ; $i++) { 
 	echo "<b>";
