@@ -1,7 +1,7 @@
 <?php
+include "./utility.php";
 
 /*
-
 $array_one_word ={
 	$str_one_key,
 	$array_one_key_related_pages; // some words don't have pages
@@ -18,20 +18,12 @@ $array_one_word ={
 		$array_arrow_char,
 		$array_arrow_num,
 	}
-
-
 */
-
-	function pre_print_r($var){
-		echo "<pre>";
-		print_r($var);
-		echo "</pre>";
-	}
-
-
 	// $keywds = file("./text/clean_part2.txt");
 	// $keywds = file("./text/clean_part3.txt");
-	$keywds = file("./text/clean_23.txt");
+	// $keywds = file("./text/clean_part3.txt");
+	// $keywds = file("./text/clean_23.txt");
+	$keywds = file("./tmp/tmp.txt");
 
 /*
 // check if it's right
@@ -144,7 +136,7 @@ for ($i=0; $i < count($arrow_keys); $i++) {
 //pre_print_r($arrow_num);
 
 
-
+pre_print_r("<h3><a href='./xml_export.php'>親索引だけを表示する</a></h3>");
 // print all words as html
 for ($i=0; $i < count($key_char) ; $i++) { 
 	echo "<b>";

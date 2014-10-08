@@ -1,5 +1,6 @@
 <?php
 include './db_array/db_array.php';
+include './utility.php';
 // include './db_array/db_array_clean2.php';
 // include './db_array/db_array_clean3.php';
 $key_char = $db['key_char'];
@@ -8,11 +9,7 @@ $hyphen_char = $db['hyphen_char'];
 $hyphen_num = $db['hyphen_num'];
 $arrow_char = $db['arrow_char'];
 
-function pre_print_r($var){
-		echo "<pre>";
-		print_r($var);
-		echo "</pre>";
-	}
+pre_print_r("<h3><a href='./download.php'>生成したXMLファイルをダウンロードします</a></h3>");
 
 $dom = new DomDocument('1.0', 'UTF-8');
 $globReg = $dom->appendChild($dom->createElement('globReg'));
@@ -139,4 +136,5 @@ for ($i=0; $i < count($key_char) ; $i++) {
 }
 
 $dom->formatOutput = true;
-$dom->save('./xml/part23.xml');
+// $dom->save('./xml/part23.xml');
+$dom->save('./tmp/tmp.xml');

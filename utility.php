@@ -44,3 +44,17 @@ function trimUTF8BOM($data){
    return $data;
 }
 
+function delFileUnderDir( $dirName ){ 
+ if ( $handle = opendir( "$dirName" ) ) { 
+  while ( false !== ( $item = readdir( $handle ) ) ) { 
+   if ( $item != "." && $item != ".." ) { 
+    if ( is_dir( "$dirName/$item" ) ) { 
+      delFileUnderDir( "$dirName/$item" ); 
+     } else { 
+      if( unlink( "$dirName/$item" ) ) echo "";//"已删除文件：$dirName/$item<br />n"; 
+     } 
+    } 
+   } 
+  closedir( $handle ); 
+ } 
+}
