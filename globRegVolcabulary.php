@@ -13,7 +13,7 @@ for ($i=0; $i < count($globRegxml['oberBegriff']); $i++) {
 // pre_print_r($globReg_volcabulary);
 array_to_file($globReg_volcabulary);
 // array_unique($globReg_volcabulary);
-// pre_print_r($globReg_volcabulary);
+pre_print_r($globReg_volcabulary);
 
 $mega_tohoku = file("./text/tohoku_mega_index.txt");
 $mega = array();
@@ -40,5 +40,5 @@ $globReg_volcabulary = array_values($globReg_volcabulary);
 $diff_m_g = array_diff($mega, $globReg_volcabulary); //empty
 $diff_g_m = array_diff($globReg_volcabulary, $mega);
 $diff_g_m = array_values($diff_g_m);
-pre_print_r($diff_g_m);
+// pre_print_r($diff_g_m);
 array_to_file($diff_g_m);
