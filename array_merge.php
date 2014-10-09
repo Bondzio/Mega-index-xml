@@ -11,7 +11,7 @@ include './utility.php';
 
 
 
-// $result =  array_merge_recursive($globRegxml, $part23xml);
+$result =  array_merge_recursive($globRegxml, $part23xml);
 // // array_to_file($result);
 // // pre_print_r($result);
 
@@ -48,7 +48,7 @@ pre_print_r($volcabulary);
 // pre_print_r(array_unique($volcabulary));
 // https://www.diffchecker.com/e39cyuaj
 
-$duplicate_word = array_diff_assoc($volcabulary, array_unique($volcabulary));
+$duplicate_word = array_diff($volcabulary, array_unique($volcabulary));
 // array_intersect_assoc() // array_intersect() // array_diff_assoc // array_intersect
 // pre_print_r($duplicate_word);
 array_to_file($duplicate_word);
