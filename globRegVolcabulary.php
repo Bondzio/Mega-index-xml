@@ -39,5 +39,6 @@ $globReg_volcabulary = array_values($globReg_volcabulary);
 
 $diff_m_g = array_diff($mega, $globReg_volcabulary); //empty
 $diff_g_m = array_diff($globReg_volcabulary, $mega);
+$diff_g_m = array_values($diff_g_m);
 pre_print_r($diff_g_m);
 array_to_file($diff_g_m);
