@@ -1,3 +1,4 @@
+
 <?php
 include "./utility.php";
 
@@ -22,7 +23,7 @@ $array_one_word ={
 	// $keywds = file("./text/clean_part2.txt");
 	// $keywds = file("./text/clean_part3.txt");
 	// $keywds = file("./text/clean_part3.txt");
-	// $keywds = file("./text/clean_23.txt");
+	// $keywds = file("./text/clean_index.txt");
 	$keywds = file("./tmp/tmp.txt");
 
 /*
@@ -45,7 +46,7 @@ $arrow = array();
 
 $j = 0;
 for ($i=0; $i <count($keywds) ; $i++) { 
-	if($keywds[$i][0]=="-"){
+	if($keywds[$i][0]=="-" && $keywds[$i][1]==" "){
 		$hyphen[$j-1][$i] = $keywds[$i];
 		$hyphen_keys[] = ($j-1);
 		$hyphen_keys_keys[] = $i;
