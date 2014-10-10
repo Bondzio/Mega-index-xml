@@ -4,7 +4,7 @@ include './utility.php';
 
 // pre_print_r(array_unique($volcabulary_id));
 array_unique($volcabulary_id);
-pre_print_r($volcabulary_id[9][0]);
+// pre_print_r($volcabulary_id[9][0]);
 $str = $volcabulary_id[9][0];
 
 $special_code = array("Ä", "ä", "Ö", "ö","Ü", "ü", "ß");
@@ -15,4 +15,5 @@ $special_code = array("Ä", "ä", "Ö", "ö","Ü", "ü", "ß");
 // }
 
 // array_multisort(array_map('Sortify', $volcabulary_id), $volcabulary_id);
+// pre_print_r($volcabulary_id);
 
