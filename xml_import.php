@@ -8,16 +8,16 @@ include './utility.php';
 $globRegxml = file_get_contents("./xml/globReg.xml");
 
 // $part2xml = file_get_contents("./xml/part2.xml");
-$part23xml = file_get_contents("./xml/part23.xml");
+$tmpxml = file_get_contents("./xml/tmp.xml");
 
 
 $globRegxml = xmlstr_to_array($globRegxml);
 // $part2xml = xmlstr_to_array($part2xml);
-$part23xml = xmlstr_to_array($part23xml);
+$tmpxml = xmlstr_to_array($tmpxml);
 
 array_to_file($globRegxml);
 // array_to_file($part2xml);
-array_to_file($part23xml);
+array_to_file($tmpxml);
 
 
 

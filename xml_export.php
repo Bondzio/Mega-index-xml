@@ -136,5 +136,4 @@ for ($i=0; $i < count($key_char) ; $i++) {
 }
 
 $dom->formatOutput = true;
-// $dom->save('./xml/part23.xml');
 $dom->save('./tmp/tmp.xml');

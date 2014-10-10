@@ -1,6 +1,6 @@
 <?php
 include './db_array/db_globRegxml.php';
-include './db_array/db_part23xml.php';
+include './db_array/db_tmpxml.php';
 include './utility.php';
 
 
@@ -11,7 +11,7 @@ include './utility.php';
 
 
 
-$result =  array_merge_recursive($globRegxml, $part23xml);
+$result =  array_merge_recursive($globRegxml, $tmpxml);
 // // array_to_file($result);
 // // pre_print_r($result);
 
