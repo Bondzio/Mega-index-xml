@@ -26,6 +26,7 @@ use php to process raw text to xml
     
     解決方法：<br />を語尾が数字の親索引単語の直後に入れます。
     Bankakt von 1844<br /> 408 414 509 514 535 553
+    （子索引にもこの問題があり、一緒に修正しましょう）
  　
 ####ＰＨＰファイルの実行手順
 classify_process.php =>
