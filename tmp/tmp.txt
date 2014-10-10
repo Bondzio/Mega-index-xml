@@ -2065,7 +2065,7 @@ Industrie 206 207 687
 - städtische 325 327 773
 - ländliche 328 766
 - und Handel 290 323 325 326 328 329 788
-- und Bankakt von 1844 555
+- und Bankakt von 1844<br /> 555
 # Feudalismus; Monopol
 Industrie, chemische 72
 - Alkaliproduktion 429
@@ -2793,7 +2793,7 @@ Krisen, ökonomische 198
 - und Wechsel 402 403 407-409 418 419 438 449 477 478 481 482 486 487 528 534 537 563 566 583
 - und Wechselkurs 560 582
 - und Zahlungsbilanz 512
-- und Bankakt von 1844 471 472 546 548 551 552
+- und Bankakt von 1844<br /> 471 472 546 548 551 552
 - und Banken 408 438 443 471 473 550 551 596
 - und Bank of England 400 407 443 471 472 521 522 530 537 550-552
 - und Banknoten -zirkulation 448 449 518 521 522 556 557
@@ -5161,7 +5161,7 @@ Zinsfuß, -rate 360 506
 - und Weltmarkt 349 358
 - und Menge der zirkulierenden Wechsel 562
 - und Menge der Zirkulationsmittel 411-413 424 513 523 524 537
-- und Bankakt von 1844 412 417 423 424 549-552 556
+- und Bankakt von 1844<br /> 412 417 423 424 549-552 556
 - und Aufschatzung von Banknoten 408
 - und Metallschatz (der Banken) 579
 - und Teilung der Bankreserve 424 549-551

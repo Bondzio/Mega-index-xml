@@ -3433,7 +3433,7 @@
       0 => '- ihre Geschichte',
       1 => '- Macht auf Geldmarkt, gegenüber Handel und Industrie',
       2 => '- Kapital',
-      3 => '- Profite durch Krisen und Bankakt von 1844<br />',
+      3 => '- Profite durch Krisen und Bankakt von 1844',
       4 => '- Depositen',
       5 => '- Zinsfuß',
       6 => '- Diskontpolitik',
@@ -3539,7 +3539,7 @@
       1 => '- Unmöglichkeit einer Überemission kon-vertibler Noten',
       2 => '- Profite durch B.',
       3 => '- in Krisen',
-      4 => '- und Bankakt von 1844<br />',
+      4 => '- und Bankakt von 1844',
       5 => '- und Suspension des Bankakts von',
       6 => '- und Metallschatz (der Banken)',
     ),
@@ -3828,7 +3828,7 @@
       5 => '- über Krisen',
       6 => '- Hauptvertreter (Currency-Schule)',
       7 => '- Gegner',
-      8 => '- und Bankakt von 1844<br />',
+      8 => '- und Bankakt von 1844',
       9 => '- und Geldkrise',
     ),
     180 => 
@@ -5063,7 +5063,7 @@
       3 => '- städtische',
       4 => '- ländliche',
       5 => '- und Handel',
-      6 => '- und Bankakt von',
+      6 => '- und Bankakt von 1844',
     ),
     394 => 
     array (
@@ -5838,7 +5838,7 @@
       32 => '- und Wechsel',
       33 => '- und Wechselkurs',
       34 => '- und Zahlungsbilanz',
-      35 => '- und Bankakt von',
+      35 => '- und Bankakt von 1844',
       36 => '- und Banken',
       37 => '- und Bank of England',
       38 => '- und Banknoten -zirkulation',
@@ -8449,7 +8449,7 @@
       18 => '- und Weltmarkt',
       19 => '- und Menge der zirkulierenden Wechsel',
       20 => '- und Menge der Zirkulationsmittel',
-      21 => '- und Bankakt von',
+      21 => '- und Bankakt von 1844',
       22 => '- und Aufschatzung von Banknoten',
       23 => '- und Metallschatz (der Banken)',
       24 => '- und Teilung der Bankreserve',
@@ -12354,7 +12354,7 @@
 ',
       5 => '290 323 325 326 328 329 788
 ',
-      6 => '1844 555
+      6 => '555
 ',
     ),
     394 => 
@@ -13688,7 +13688,7 @@
 ',
       34 => '512
 ',
-      35 => '1844 471 472 546 548 551 552
+      35 => '471 472 546 548 551 552
 ',
       36 => '408 438 443 471 473 550 551 596
 ',
@@ -18106,7 +18106,7 @@
 ',
       20 => '411-413 424 513 523 524 537
 ',
-      21 => '1844 412 417 423 424 549-552 556
+      21 => '412 417 423 424 549-552 556
 ',
       22 => '408
 ',
@@ -18459,7 +18459,8 @@
 ',
     105 => '# Aktienbanken; Bank of England; Bankkapital; Bankreserve, -schatz; Credit mobilier; Depositenbank; Geldhandel; Kredit; Krisen, ökonomische; Liverpool; London; Metallschatz; Provinzbanken; Saint-Simonismus; Schottland; Zentralisation
 ',
-    106 => '# Bankakt von 1844<br />; Bankakt von',
+    106 => '# Bankakt von 1844; Bankakt von 1845; Gesetzgebung, bürgerliche
+',
     108 => '# Zentralisation
 ',
     110 => '# Depositen
@@ -18632,7 +18633,8 @@
 ',
     332 => '# Gesetz des tendenziellen Falls der Profitrate; Wertgesetz
 ',
-    333 => '# Armengesetze; Bankakt von 1844<br />; Bankakt von',
+    333 => '# Armengesetze; Bankakt von 1844; Bankakt von 1845; Fabrikgesetzgebung; Korngesetze
+',
     339 => '# Kredit; Zahlungen
 ',
     340 => '# Geld als Weltgeld; Metallgeld; Wechselkurs;
@@ -19059,7 +19061,8 @@
 ',
     888 => '# Arbeitskraft; Geld; Kapital, fixes; Kauf und Verkauf; Neuwert; Preis; Revenuen; Tauschwert; Warenproduktion, einfache
 ',
-    890 => '# Engels’ Redaktion von Buch',
+    890 => '# Engels’ Redaktion von Buch 3 des „Kapitals“
+',
     891 => '# Aktien; Obligationen; Spekulation; Staatsanleihen, -effekten; Vorschüsse
 ',
     892 => '# Neuwert
@@ -19161,7 +19164,7 @@
     97 => '',
     101 => '',
     105 => '',
-    106 => '1845<br />; Gesetzgebung, bürgerliche',
+    106 => '',
     108 => '',
     110 => '',
     111 => '',
@@ -19248,7 +19251,7 @@
     325 => '',
     326 => '',
     332 => '',
-    333 => '1845<br />; Fabrikgesetzgebung; Korngesetze',
+    333 => '',
     339 => '',
     340 => '',
     341 => '',
@@ -19462,7 +19465,7 @@
     884 => '',
     886 => '',
     888 => '',
-    890 => '3 des „Kapitals“',
+    890 => '',
     891 => '',
     892 => '',
     896 => '',
