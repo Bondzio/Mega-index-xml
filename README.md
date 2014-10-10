@@ -29,9 +29,9 @@ use php to process raw text to xml
     （子索引にもこの問題があり、一緒に修正しましょう）
  　
 ####ＰＨＰファイルの実行手順
-classify_process.php =>
-xml_export.php =>
-xml_import.php =>
-array_merge.php =>
-word_sort.php =>
+	classify_process.php =>
+	xml_export.php =>
+	xml_import.php =>
+	array_merge.php =>
+	word_sort.php
 
