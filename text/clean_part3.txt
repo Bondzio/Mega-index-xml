@@ -781,7 +781,7 @@ Tauschwert 11 42 80 321 323 792
 Tautologie 186 218 219 221 412 541 845
 Technik
 # Fortschritt, technischer
-Teilhaber (Associe) 355 362 464 683 835
+Teilhaber (Associe´) 355 362 464 683 835
 Telegrafie 72 305 486 518
 Tendenz
 - des Kapitals 87 88 738
@@ -820,7 +820,8 @@ Tratte
 Tribut 319 589 763
 - der Gesellschaft an die Grundeigentümer 613 703 742 750 752
 - Indiens an England 573 574 581
-Trinitarische Formel 789-806 Trust 123 429 486
+Trinitarische Formel 789-806
+Trust 123 429 486
 - Spaltungstrusts 468
 - Financial trust 468
 Überarbeit, -arbeitung 77 78 86 94-96 197
@@ -934,7 +935,7 @@ Ursache und Wirkung
 Venedig, Venetianer 321 324 592 601
 - Kassenvereine 313
 - Kreditassoziationen 591
-Veräußerungsprofit (profit upon aliena-tion) 228 322 380 802 824
+Veräußerungsprofit (profit upon alienation) 228 322 380 802 824
 Verdinglichung
 # Versachlichung
 Vereinigte Staaten von Amerika 72 595
@@ -1246,7 +1247,8 @@ Wechselkurs 496 542 555
 - und ökonomische Krisen 560 582
 # Geldkrise
 Wechselspekulation, -reiterei 128 390 400 401 403 405 416 417 420 477 481 486 493 601 602
-- in der Krise von 1847 404 412 Wechselzirkulation 393 395-397 400-405 476-478 514-516 531 566
+- in der Krise von 1847 404 412
+Wechselzirkulation 393 395-397 400-405 476-478 514-516 531 566
 - und Banknotenzirkulation 389 390 440 441 533 534
 Weizen
 - als Hauptnahrungsmittel 603
@@ -1646,3 +1648,11 @@ Zyklus, industrieller 302 357 508 523
 - Periodizität 251 351 485 486 497
 - Ausdehnung seiner Dauer 285 286
 - und Durchschnittsprofit 207
+- und Kredit, -system 251 298 299 351 437 438 479 480 484-486 490 491 498 502 503 507 562-566
+- und Leihkapital 481 482 484 485 490 491 510
+- und Wertpapiere 352 465 466 498
+- und Zinsfuß 349 351 353 412 413 481 482 485 490 491 498 524 562 579
+- und Geldzirkulation 437 521 524
+- und relative Übervölkerung 251
+- und Goldab- und -zufluß 562 563 577
+# Krisen, ökonomische; Prosperität

@@ -550,7 +550,7 @@ Bank of England
 - ihre Geschichte 592-594
 - Macht auf Geldmarkt, gegenüber Handel und Industrie 519 535-537 596
 - Kapital 399 400 424 471 535
-- Profite durch Krisen und Bankakt von 1844 408 535 538
+- Profite durch Krisen und Bankakt von 1844<br /> 408 535 538
 - Depositen 424 470 495 498 531 535
 - Zinsfuß 353 354 423 528 537
 - Diskontpolitik 354 401 422-424 439-441 496 498 528 537 550 552 558 563 566
@@ -563,7 +563,7 @@ Bank of England
 - und Krisen 400 407 443 471 472 521 522 530 537 550-552
 # Geldzirkulation
 Bank Restriction Act 524
-Bankakt von 1844 408 414 509 514 535 553
+Bankakt von 1844<br /> 408 414 509 514 535 553
 - Fundamentalprinzip 540
 - Gegensatz zur Praxis 486 542 557
 - seine Suspension in der Krise 400 407 472 495 524 531 546 548 556 557 561
@@ -574,7 +574,7 @@ Bankakt von 1844 408 414 509 514 535 553
 - und Industrie 555
 - und gehemmte Spekulation 548 549
 - und Zinsfuß 412 417 423 424 549-552 556
-Bankakt von 1845 486 540 547
+Bankakt von 1845<br /> 486 540 547
 - und schottische Banken 542 555 556
 Banken 298
 - Entstehung und Entwicklung 310-313 393-395 492 493 498 499 563-565 583 584 591-602
@@ -603,7 +603,7 @@ Banken 298
 - und Krisen 408 438 443 471 473 550 551 596
 # Aktienbanken; Bank of England; Bankkapital; Bankreserve, -schatz; Credit mobilier; Depositenbank; Geldhandel; Kredit; Krisen, ökonomische; Liverpool; London; Metallschatz; Provinzbanken; Saint-Simonismus; Schottland; Zentralisation
 Bankgesetzgebung
-# Bankakt von 1844; Bankakt von 1845; Gesetzgebung, bürgerliche
+# Bankakt von 1844<br />; Bankakt von 1845<br />; Gesetzgebung, bürgerliche
 Bankiers (banker) 307 352 359 380 390 394 397 402 404 405 407 411 424 435 461 462 475 498 505 538 539 553 561 567 594
 - allgemeine Verwalter des Geldkapitals 393 395 492
 - als Verteiler des disponiblen Geldkapitals 395 419 481 501
@@ -649,7 +649,7 @@ Banknotenemission
 - Unmöglichkeit einer Überemission kon-vertibler Noten 534
 - Profite durch B. 535 536
 - in Krisen 552 556
-- und Bankakt von 1844 424 425 521 547 551 556 557
+- und Bankakt von 1844<br /> 424 425 521 547 551 556 557
 - und Suspension des Bankakts von 1844 471 472 524 548
 - und Metallschatz (der Banken) 535
 # Geldkrise
@@ -923,7 +923,7 @@ Currency principle (Currencytheorie)
 - über Krisen 547
 - Hauptvertreter (Currency-Schule) 409-413 544 546 547
 - Gegner 513 542-546
-- und Bankakt von 1844 412 423 540 542 546-548 551
+- und Bankakt von 1844<br /> 412 423 540 542 546-548 551
 - und Geldkrise 532
 Dampfmaschine 97 127 398 616 627 630
 - Verbesserungen an der D. 97-100
@@ -932,7 +932,8 @@ Dasein 264 334 335 347 382 499 511 565 583 737 738 763 768 799 800 837
 - Daseinsweise, Existenzweise 329 372 612 613
 Darstellung 15 17 47 79 114 212 232 250 279 349 626 628 651 805
 Definition
-- Engels über D. bei Marx 16 Depositen 390 397 402 471 472 504 550 554 560
+- Engels über D. bei Marx 16
+Depositen 390 397 402 471 472 504 550 554 560
 - als Grundlage für Bankkredit 394-396 467 468 484 496 505
 - Form des Leihkapitals 394 406 424 484 492-494 496 500-503 523
 - als unbeschäftigtes Kapital 394 406 493 496 498
@@ -1219,7 +1220,8 @@ Erkenntnis
 - wissenschaftliche 758
 - und Erfahrung 104 840 841 844 847
 - und Klasseninteresse 759-762
-- Wesen und Erscheinung Ernte 643 656 657
+- Wesen und Erscheinung
+Ernte 643 656 657
 - Erträge 121
 - Aussichten 547
 - Mißernten und ihre Folgen 406 407 483 509 616
@@ -1293,8 +1295,10 @@ Fabrikant 91 93 129 132-135 138 139 235 307 377 393 420 430 481 483 484 526 528 
 - Widerstand gegen Fabrikgesetzgebung 89
 - Widerstand gegen Zehnstundengesetz 109
 - gegen Auswanderung 136 140
-- und Regulierung der Produktion 123 Fabrikate 129 399 484 526 545
-- Preis 110 128 140 Fabrikberichte 89 101 125
+- und Regulierung der Produktion 123
+Fabrikate 129 399 484 526 545
+- Preis 110 128 140
+Fabrikberichte 89 101 125
 Fabrikdistrikte (-bezirke) 129 130 377 525 571
 Fabriken 78 79 89 100 126-128 131 140 483 757
 - Indigofabriken 407 483
@@ -1609,7 +1613,8 @@ Gemeinde 177
 - Ausgaben 779
 Gemeineigentum
 - am Boden 326 778 779
-- Aneignung durch Grundeigentümer 782 Gemeinwesen (naturwüchsige) 318 319 321 374 622 704 849
+- Aneignung durch Grundeigentümer 782
+Gemeinwesen (naturwüchsige) 318 319 321 374 622 704 849
 - Mehrarbeit in G. 766
 - Austausch zwischen G. 177 310
 - ihre Auflösung 323-326
@@ -1759,7 +1764,7 @@ Gesetzgebung, bürgerliche 614
 - über Arbeitszeit 616
 - über Arbeitsschutzmaßnahmen 89 90
 - und Wucher, Wucherkapital 590 592 763
-# Armengesetze; Bankakt von 1844; Bankakt von 1845; Fabrikgesetzgebung; Korngesetze
+# Armengesetze; Bankakt von 1844<br />; Bankakt von 1845<br />; Fabrikgesetzgebung; Korngesetze
 Gewalt
 - und Ökonomie 475 760 761
 Gewinn 12 44 45 47 117
