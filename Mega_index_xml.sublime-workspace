@@ -1,0 +1,796 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aron",
+				"arrow_num"
+			],
+			[
+				"di",
+				"diff_m_g"
+			],
+			[
+				"go",
+				"globReg_volcabulary"
+			],
+			[
+				"glob",
+				"globReg_volcabulary"
+			],
+			[
+				"ober",
+				"oberBegriff"
+			],
+			[
+				"html",
+				"htmlspecialchars_decode"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Ponderous/Desktop/Math.md",
+			"settings":
+			{
+				"buffer_size": 7710,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tmp/tmp.xml",
+			"settings":
+			{
+				"buffer_size": 8516784,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/php.sublime-build",
+	"command_palette":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+			[
+				"gitub",
+				"GitHub: Update Gist"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			],
+			[
+				"sub uplo",
+				"Sublimall: Upload"
+			],
+			[
+				"sub upl",
+				"Sublimall: Upload"
+			],
+			[
+				"Sublimall up",
+				"Sublimall: Upload"
+			],
+			[
+				"git public",
+				"GitHub: Public Gist from Selection"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"packinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"pins",
+				"Package Control: Install Package"
+			],
+			[
+				"pkin",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"packinstal	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pack repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"colo insta",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pac ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"pac add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 615.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"cd .",
+			"cd ./",
+			"cd ..",
+			"dir()",
+			"help()",
+			"help",
+			"dir",
+			"python",
+			"help()",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Mega-index-xml"
+	],
+	"file_history":
+	[
+		"/C/Users/Ponderous/Downloads/sample.txt",
+		"/C/Users/Ponderous/Desktop/pdf (1).md",
+		"/C/Users/Ponderous/Desktop/pdf (1).todo",
+		"/C/Users/Ponderous/Downloads/1spgxE (1).js",
+		"/C/Users/Ponderous/Downloads/1spgxE.js",
+		"/C/Users/Ponderous/Desktop/Alg.md",
+		"/C/Users/Ponderous/Desktop/node_edge.py",
+		"/C/Users/Ponderous/AppData/Local/Temp/Temp1_DesBooklets-SF.zip/IMPORTANT LICENSE INFO.txt",
+		"/D/Lecture/Tuts+/PHP Object Oriented Programming Fundamentals/readme.md",
+		"/C/Users/Ponderous/Desktop/tmp.md",
+		"/C/xampp/htdocs/Mega-index-xml/array_merge.php",
+		"/C/Users/Ponderous/Desktop/tmmp.md",
+		"/C/Users/Ponderous/Desktop/test.todo",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Ponderous/Desktop/Package Control Messages.todo",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/xampp/htdocs/Mega-index-xml/download.php",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/Sublimall/Sublimall.sublime-settings",
+		"/C/Users/Ponderous/Documents/My Tableau Repository/Logs/log.txt",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/User/Sublimall.sublime-settings",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/Mega-index-xml/utility.php",
+		"/C/xampp/htdocs/Mega-index-xml/globRegVolcabulary.php",
+		"/C/xampp/htdocs/Mega-index-xml/classify_process.php",
+		"/C/xampp/htdocs/Mega-index-xml/word_sort.php",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/C/Users/Ponderous/Desktop/test.md",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/xampp/htdocs/Mega-index-xml/xml_import.php",
+		"/C/xampp/htdocs/Mega-index-xml/xml_export.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_array/db_duplicate_word.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_array/test.php",
+		"/C/xampp/htdocs/Mega-index-xml/text/clean_index.txt",
+		"/C/xampp/htdocs/Mega-index-xml/text/clean_part1.txt",
+		"/C/Users/Ponderous/Downloads/tmp.xml",
+		"/C/xampp/htdocs/Mega-index-xml/test.php",
+		"/C/Users/Ponderous/Downloads/tmp (3).xml",
+		"/C/Users/Ponderous/Downloads/tmp (2).xml",
+		"/C/xampp/htdocs/Mega-index-xml/xml/globReg.xml",
+		"/C/xampp/htdocs/Mega-index-xml/xmlstr_to_array.php",
+		"/C/xampp/htdocs/Mega-index-xml/clean_process.php",
+		"/C/xampp/htdocs/Mega-index-xml/final_to_xml.php",
+		"/C/xampp/htdocs/Mega-index-xml/simple_html_dom.php",
+		"/C/xampp/htdocs/Mega-index-xml/xmldownload.php",
+		"/C/xampp/htdocs/Mega-index-xml/upload.php",
+		"/C/xampp/htdocs/Mega-index-xml/text/clean_part3.txt",
+		"/C/xampp/htdocs/Mega-index-xml/text/clean_23.txt",
+		"/C/Users/Ponderous/Downloads/clean_part3-2014-10-10.txt",
+		"/C/xampp/htdocs/Mega-index-xml/text/clean_part2.txt",
+		"/C/xampp/htdocs/Mega-index-xml/db_array/db_globRegxml.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_array/db_globReg_volcabulary.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_array/db_diff_g_m.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_array/db__GET.php",
+		"/C/Users/Ponderous/Desktop/x.php",
+		"/C/xampp/htdocs/Mega-index-xml/text/tohoku_mega_index.txt",
+		"/C/xampp/htdocs/Mega-index-xml/db_array/db_volcabulary_id.php",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Ponderous/Downloads/feedly.opml",
+		"/C/xampp/htdocs/Mega-index-xml/tmp/tmp.xml",
+		"/C/xampp/htdocs/Mega-index-xml/index.php",
+		"/C/xampp/htdocs/Mega-index-xml/upload.html",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/phpMyAdmin/libraries/config.default.php",
+		"/C/Users/Ponderous/algs4/hello/Stopwatch.java",
+		"/C/Users/Ponderous/Desktop/sample.java",
+		"/C/Users/Ponderous/Desktop/Ex_Files_Java_EssT2/Exercise Files/05_SyntaxAndFlow/MethodOverloading/src/Main.java",
+		"/C/Users/Ponderous/Desktop/Ex_Files_Java_EssT2/Exercise Files/05_SyntaxAndFlow/Switch/src/SwitchWithInts.java",
+		"/C/Users/Ponderous/algs4/hello/HelloWorld.java",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/xampp/htdocs/Mega-index-xml/xml/test_final.xml",
+		"/C/Users/Ponderous/Downloads/3C5BBB345B534B6C8FBA119F3DEEA6BC.doentry",
+		"/C/Users/Ponderous/Downloads/HHWQ.txt",
+		"/C/Users/Ponderous/Desktop/userdict.00000.txt",
+		"/D/Desktop/s/aaaa.txt",
+		"/C/Users/Ponderous/Google 云端硬盘/谷歌拼音before_delete_http_dis.dis",
+		"/C/Users/Ponderous/Desktop/谷歌拼音before_delete_http_dis.dis.txt",
+		"/C/Users/Ponderous/Downloads/LexiconRoaming.dat",
+		"/C/Users/Ponderous/Desktop/google_pinyin_backup.txt",
+		"/C/Users/Ponderous/Downloads/3EF08A912F474554A3ED4E5B65248F2C.doentry",
+		"/C/xampp/htdocs/Mega-index-xml/xml/part2.xml",
+		"/C/xampp/htdocs/Mega-index-xml/xml2arr_dom.php",
+		"/C/xampp/htdocs/Mega-index-xml/test_final.xml",
+		"/C/xampp/htdocs/Mega-index-xml/XML2Array.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_part2xml.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_globRegxml.php",
+		"/C/xampp/htdocs/Mega-index-xml/globReg.xml",
+		"/C/xampp/htdocs/Mega-index-xml/db_volcabulary_id.php",
+		"/C/xampp/htdocs/Mega-index-xml/part2.xml",
+		"/C/xampp/htdocs/Mega-index-xml/test.xml",
+		"/C/xampp/htdocs/Mega-index-xml/db_result.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_globReg.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_part2.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_.php",
+		"/C/Users/Ponderous/Documents/GitHub/vimrc/_vimrc",
+		"/C/xampp/htdocs/test/py/ent.py",
+		"/C/xampp/htdocs/test/classify_process.php",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/User/php.sublime-build",
+		"/C/xampp/htdocs/test/simple_html_dom.php",
+		"/C/xampp/htdocs/test/arrow",
+		"/C/xampp/htdocs/test/db_array.php",
+		"/C/xampp/htdocs/test/test.php",
+		"/C/Users/Ponderous/Downloads/globReg.xml",
+		"/C/xampp/htdocs/test/part2.xml",
+		"/C/xampp/htdocs/test/aaaaaa.xml",
+		"/C/xampp/htdocs/test/prefs.xml",
+		"/C/xampp/htdocs/test/aaaaaaa.xml",
+		"/C/xampp/htdocs/test/aaaaxmltest.xml",
+		"/C/xampp/htdocs/htdocs/sync/index.php",
+		"/C/xampp/htdocs/htdocs/smarty/index.php",
+		"/C/xampp/htdocs/htdocs/daskap_php/chapter.php",
+		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Akkumulation des Kapitals",
+			"multiply",
+			"1",
+			"password",
+			"- ",
+			"Demo",
+			"    - ",
+			"Capacity",
+			"    - ",
+			"    -",
+			"Why we don’t use Sign-and-Magnitu",
+			"Why we don’t use Sign-and-Magnitude",
+			"use",
+			"pre_",
+			"test",
+			"arrow",
+			"das kapital",
+			"Bankakt von 184",
+			"Bankakt von 1844",
+			"das kapital",
+			"Bankakt von 1844",
+			"Bankakt von 184",
+			"Bankakt von 18",
+			"Bankakt von 1844",
+			"Bankakt von 184",
+			"von 1844",
+			"t von 1844<br />",
+			"Bankakt von 1844",
+			"Bankakt von",
+			"# Mensch",
+			"Industrie",
+			"ndustrie 206 207 687",
+			"Industrie",
+			"Industrie 206 207 687 ",
+			"Bankakt von 184",
+			"Bankakt von 1844",
+			"&lt;",
+			"das kapital",
+			"entry",
+			"Band 1(Buch 1)",
+			"Das Kapital",
+			"„Das Kapital“",
+			"„Das Kapital“, Buch",
+			"„Das Kapital“, Buch 1",
+			"das kapital",
+			"das kapital bunch",
+			"&lt;br /&gt;",
+			"Bankakt von 1845",
+			"1944",
+			"1884",
+			"pre_print_r(\"<p>読み込み 成功！</p><h3><a href='./xml_export.php'>親索引だけを表示する</a></h3>\");\n// print all words as html\nfor ($i=0; $i < count($key_char) ; $i++) { \n	echo \"<b>\";\n	echo $key_char[$i].\" \".$key_num[$i];\n	echo \"</b><br />\";\n	if(isset($hyphen_char[$i])){\n		for ($j=0; $j < count($hyphen_char[$i]); $j++) { \n			echo $hyphen_char[$i][$j].\" \".$hyphen_num[$i][$j].\"<br />\";\n			}\n		};\n	if(isset($arrow_char[$i])){\n			echo $arrow_char[$i].\" \".$arrow_num[$i].\"<br />\";\n		};\n}\n\n",
+			" }",
+			"pos",
+			"Bankakt von",
+			"Bankakt von 18",
+			"Bankakt von 1845",
+			"Bankakt von 184",
+			"Bankakt von 1844",
+			"Bankakt von 1845",
+			"Bankakt von 184",
+			"und Bankakt von",
+			"und Bankakt von 18",
+			"und Bankakt von 1845",
+			"und Bankakt von 184",
+			"pos",
+			"hyphen_key",
+			"<br />",
+			"br",
+			"Bankgesetzgebung",
+			"<br />",
+			"-",
+			"Geschaftszweige",
+			"−Geschäftszweige",
+			"tmp",
+			"part23",
+			"part",
+			"part23",
+			"part23.xml",
+			"part23",
+			"clean_23",
+			"23",
+			"Wechselzirkulation",
+			"aliena-tion",
+			"Trust",
+			"„Das Kapital“, Buch",
+			"# Außenhandel; Europa; Feudalismus; Freihandel; Geldhandel; Kolonialhandel; Schwindel",
+			"Wesen und Erscheinung",
+			"Engels über D. bei Marx 16",
+			"Depositen",
+			"Bankakt von 1845",
+			"Bankakt von 1844",
+			"key_char",
+			"$key_char",
+			"Bankakt von",
+			"Little-Endia",
+			"Little-Endian (Intel chi",
+			"Little-Endian (Intel chip)",
+			"verschleiss des Geldes",
+			"Übereinfuhr",
+			"Österreich",
+			"Äquivalentform, allgemeine (Äquivalent, allgemeines)",
+			"Ägypten",
+			"gypten",
+			"Ägypten",
+			"globReg_volcabulary",
+			"das kap",
+			"result",
+			"„*”",
+			"<oname>„*”",
+			"<oberBegriff>„*”",
+			"„Das Kapital”",
+			"string",
+			"type",
+			"pre_",
+			"pre_print",
+			"?",
+			"/",
+			"?",
+			":",
+			"?",
+			":",
+			"SELECT url FROM xml WHERE url='http://www.febe.jp/podcast/1/rss/w3Uv2bbGiHQA.xml' AND itemPath='//enclosure'\n\nselect href from html where url=\"http://duokan.com\" and compat=\"html5\" and xpath='//*[@id=\"page-duokan-com\"]/div/div[3]/div[1]/div/ul/li[1]/' where itemPath='a';",
+			"123456",
+			"password",
+			"geogero",
+			"24",
+			"wuliao",
+			"test_fianl.xml"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Bankakt von 1844<br />",
+			"tmp",
+			"clean_index",
+			"Bankakt von 1845<br />",
+			"Bankakt von 1844<br />",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Ponderous/Desktop/Math.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								7710
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tmp/tmp.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8516784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121201,
+								121201
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 122786.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Mega_index_xml.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 45.0,
+		"selected_items":
+		[
+		],
+		"width": 1119.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
