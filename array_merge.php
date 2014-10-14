@@ -27,8 +27,15 @@ $duplicate_word = array_values($duplicate_word);
 array_unshift($duplicate_word, "");
 unset($duplicate_word[0]);
 
+$identical_word = array_diff($volcabulary_id, $duplicate_word);
+$identical_word = array_values($identical_word);
+array_unshift($identical_word, '');
+unset($identical_word[0]);
+
+// pre_print_r($identical_word);
 array_to_file($duplicate_word);
 array_to_file($volcabulary_id);
+array_to_file($identical_word);
 
 pre_print_r("<h3>ソートした合成の単語リスト（重複なし）</h3>");
 pre_print_r($volcabulary_id);
