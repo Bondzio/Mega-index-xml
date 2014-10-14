@@ -82,6 +82,22 @@
 				"buffer_size": 7710,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2042,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "classify_process.php",
+			"settings":
+			{
+				"buffer_size": 2942,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "Packages/User/php.sublime-build",
@@ -275,17 +291,19 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/Mega-index-xml/xmldownload.php",
+		"/C/xampp/htdocs/Mega-index-xml/array_merge.php",
+		"/C/xampp/htdocs/Mega-index-xml/word_sort.php",
+		"/C/xampp/htdocs/Mega-index-xml/db_array/db_diff_g_m.php",
 		"/C/Users/Ponderous/Desktop/test.lua",
 		"/C/ProgramData/Google/Google Pinyin 2/Extensions/base.lua",
 		"/C/Program Files (x86)/Google/Google Pinyin 2/readme_cn.txt",
 		"/C/Users/Ponderous/Desktop/Google_Pinyin.txt",
 		"/C/Users/Ponderous/Desktop/a.txt",
 		"/C/Users/Ponderous/Downloads/kunlun.v2.eudx.txt",
-		"/C/xampp/htdocs/Mega-index-xml/array_merge.php",
 		"/C/xampp/htdocs/Mega-index-xml/globRegVolcabulary.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_duplicate_word.php",
 		"/C/xampp/htdocs/Mega-index-xml/index.php",
-		"/C/xampp/htdocs/Mega-index-xml/word_sort.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_globReg_o.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_tmp_o.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_tmpxml.php",
@@ -331,7 +349,6 @@
 		"/C/xampp/htdocs/Mega-index-xml/clean_process.php",
 		"/C/xampp/htdocs/Mega-index-xml/final_to_xml.php",
 		"/C/xampp/htdocs/Mega-index-xml/simple_html_dom.php",
-		"/C/xampp/htdocs/Mega-index-xml/xmldownload.php",
 		"/C/xampp/htdocs/Mega-index-xml/upload.php",
 		"/C/xampp/htdocs/Mega-index-xml/text/clean_part3.txt",
 		"/C/xampp/htdocs/Mega-index-xml/text/clean_23.txt",
@@ -339,7 +356,6 @@
 		"/C/xampp/htdocs/Mega-index-xml/text/clean_part2.txt",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_globRegxml.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_globReg_volcabulary.php",
-		"/C/xampp/htdocs/Mega-index-xml/db_array/db_diff_g_m.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db__GET.php",
 		"/C/Users/Ponderous/Desktop/x.php",
 		"/C/xampp/htdocs/Mega-index-xml/text/tohoku_mega_index.txt",
@@ -401,7 +417,7 @@
 	],
 	"find":
 	{
-		"height": 47.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
@@ -566,7 +582,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -611,11 +627,6 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -626,16 +637,6 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -645,15 +646,209 @@
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1605,
+								1605
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"parser": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"target": "browser",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1308.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "classify_process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2576.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -661,7 +856,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 46.0
 	},
 	"input":
 	{
@@ -701,7 +896,7 @@
 	"project": "Mega_index_xml.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
