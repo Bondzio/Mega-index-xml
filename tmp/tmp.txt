@@ -650,7 +650,7 @@ Banknotenemission
 - Profite durch B. 535 536
 - in Krisen 552 556
 - und Bankakt von 1844<br /> 424 425 521 547 551 556 557
-- und Suspension des Bankakts von 1844 471 472 524 548
+- und Suspension des Bankakts von 1844<br /> 471 472 524 548
 - und Metallschatz (der Banken) 535
 # Geldkrise
 Banknotenzirkulation 446
@@ -1135,7 +1135,7 @@ Eisenbahnen 72 131 132 305 482 486 581 704
 - Amortisation des angelegten Kapitals 572 573
 - Eisenbahnlieferungen nach Indien 562 568-570
 - Eisenbahnspekulation, -schwindel 128 353 398 399 402 404 412 413 483 569
-- Eisenbahnkrise von 1845 402
+- Eisenbahnkrise von 1845<br /> 402
 - amerikanische 474
 - und Aktiengesellschaften 237 259 402 468
 - und Ersparnis an Zirkulationsmitteln 518
@@ -2020,7 +2020,7 @@ Holland 325
 - Handel 321 324 326 580 592
 Holländisch-Ostindische Kompanie 300 301 322
 Hungersnot 489
-- europäische von 1847 655
+- europäische von 1847<br /> 655
 - im Römischen Reich 589
 - und Mißernte 407
 Hypothek 447 462
@@ -2767,11 +2767,11 @@ Krisen, ökonomische 198
 - Vorkrise 560
 - Nachkrise 547
 - internationale 485 486 488 512
-- Krise von 1825 540 548-550 560
-- Krise von 1836/1837 439 540 547 549 551 560
-- Krise von 1847 128 351 399-409 412 413 443 482 483 489 522 531 532 245-247 556 559-561 583
-- Krise von 1857 125 126 400 413 430 481 488 548-550 557 560
-- Krise von 1867 377 486
+- Krise von 1825<br /> 540 548-550 560
+- Krise von 1836/1837<br /> 439 540 547 549 551 560
+- Krise von 1847<br /> 128 351 399-409 412 413 443 482 483 489 522 531 532 245-247 556 559-561 583
+- Krise von 1857<br /> 125 126 400 413 430 481 488 548-550 557 560
+- Krise von 1867<br /> 377 486
 - und Disproportionalität der kapitalistischen Produktion 253 480
 - und Widerspruch zwischen Produktion und Konsumtion 253 254 480
 - und Konkurrenz 222 248-254
@@ -3910,7 +3910,7 @@ Profit 22 123 224 399 429 469
 - und Kostpreis 40 41 45 160-162 208 225
 - und Arbeitslohn 59 120 199 205 206 295 373 508 509
 - und Kapital 16 40 45 47 48 50 51 141 150-152 155 330 332 335 343 347 362 363 410 435 795 797 854
-- und Mehrwert 19 40 41 45-48 50 51 71 73 80 140 150-154 159 161 162 361-363 171 173 174 199 203 208 211 212 215 218 219 231 232 240 278 288 294 315 373 379 498 622 738 739 758 759 789 795 797 803 804 806 807 814 821-824 831-833 852-854
+- und Mehrwert 19 40 41 45-48 50 51 71 73 80 140 150-154 159 161 162 167-169 171 173 174 199 203 208 211 212 215 218 219 231 232 240 278 288 294 315 373 379 498 622 738 739 758 759 789 795 797 803 804 806 807 814 821-824 831-833 852-854
 - und Zins 213 237 239 331 333 345 349-351 360-363 366 367 371-373 378 379 413 414 428 491 507 531 578 579 601 789 798 803 806 808 810 826 854
 - und Grundrente 240 355 636 759 762 795 807 828 853
 - und Produktivität der Arbeit 80 197 217 219-221 242 244 255 256
@@ -4133,7 +4133,7 @@ Revolution, proletarische
 - und Aufhebung des Privateigentums an Produktionsmitteln 752
 Revolution, soziale 260 752
 - und Widerspruch (Konflikt) zwischen Produktivkräften und Produktionsverhältnissen 855 856
-Revolution von 1848/1849 400 583
+Revolution von 1848/1849<br /> 400 583
 Ricardo, David 11
 - Rolle in der Geschichte der politischen Ökonomie 255 256 317
 - seine Forschungsmethode 245 815
@@ -4199,7 +4199,7 @@ Rußland 262 464 543
 - Bauern 10 704
 - Staatskredit 518
 - Rohstoffexport 131
-- Reform von 1861 10
+- Reform von 1861<br /> 10
 Saint-Simonismus 594
 - über Banken und Kredit 595 597 598
 Schatz, -bildung 524 583 584 588
@@ -4857,7 +4857,7 @@ Wechsel 299 332 360 435 440 447 483 521 536 594
 - und Kredit 515
 - und Banknoten 390 395 407 408 439 442 533 534
 - und ökonomische Krisen 402 403 407-409 418 419 438 449 477 478 481 482 486 487 528 534 537 563 566 583
-- Diskont, -rate
+# Diskont, -rate
 Wechselbanken 310-312
 Wechselgeschäft 312 587 601
 - eine der Grundlagen des modernen Geldhandels 310 311
@@ -4887,7 +4887,7 @@ Wechselkurs 496 542 555
 - und ökonomische Krisen 560 582
 # Geldkrise
 Wechselspekulation, -reiterei 128 390 400 401 403 405 416 417 420 477 481 486 493 601 602
-- in der Krise von 1847 404 412
+- in der Krise von 1847<br /> 404 412
 Wechselzirkulation 393 395-397 400-405 476-478 514-516 531 566
 - und Banknotenzirkulation 389 390 440 441 533 534
 Weizen
@@ -5076,7 +5076,7 @@ Wucherkapital 593
 # Kapital, zinstragendes
 Wucherzins, -fuß 351 400 589 786
 Yeomanry 591 782
-- Bauern
+# Bauern
 Zahlungen
 - Barzahlung, ihre Suspension 311 409 410 480 486 512 524 530 532 534 538 548 550 559 566 582
 - Verbindlichkeiten (liabilities) 530 531
@@ -5207,7 +5207,7 @@ Zirkulationsmittel (Umlaufsmittel, currency) 444 503 533
 - Verminderung 297 427 437 438 440 504 514-519 521 523 544 548
 - Vermehrung 437 438 440 498 520 521 523 529 530 544
 - ihre Menge und Zinsfuß 411-413 424 513 523 524 537
-- ihre Menge in der Krise von 1847 521 522 524 530
+- ihre Menge in der Krise von 1847<br /> 521 522 524 530
 - Ökonomisierung 515
 - und Goldab- und -zufluß 520 524 557
 - und Kreditsystem, -wesen 438 440 449 514-517 521
