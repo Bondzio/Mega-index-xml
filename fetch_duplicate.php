@@ -49,6 +49,7 @@ function add_unterBegriff_key($arr){
 
 $tmp_dupli_arr = add_unterBegriff_key($tmp_dupli_arr);
 $glob_dupli_arr = add_unterBegriff_key($glob_dupli_arr);
+// pre_print_r($tmp_dupli_arr);
 
 
 
@@ -73,25 +74,28 @@ function fetch_uname($arr){
 					$keyName = $arr[$i]['oname'];
 					$container[$keyName]['unterBegriff'][] = $arr[$i]['unterBegriff'][$j]['uname'];
 				}
-			}elseif(array_key_exists('link', $arr[$i])){
+			};
+			if(array_key_exists('link', $arr[$i])){
 					$keyName = $arr[$i]['oname'];
 						if(array_key_exists(0, $arr[$i]['link'])){
 							for ($k=0; $k < count($arr[$i]['link']); $k++) { 
+								if(!array_key_exists('@content', $arr[$i]['link'][$k])){
+									pre_print_r($arr[$i]['link']);
+								}
 								$container[$keyName]['link'][] = $arr[$i]['link'][$k]['@content'];
+								// pre_print_r($arr[$i]['link'][$k]);
 							}
 						}else{
 								$container[$keyName]['link'][] = $arr[$i]['link']['@content'];
 							}
-				}else{
-					pre_print_r("some thing is wrong $i");
-				}
-			}
+				}	
+						}
 		return $container;
 	}
 
 $a = fetch_uname($tmp_dupli_arr);
-$b = fetch_uname($glob_dupli_arr);
-$c = array_merge_recursive($a,$b);
+// $b = fetch_uname($glob_dupli_arr);
+// $c = array_merge_recursive($a,$b);
 
 // pre_print_r($c);
 // pre_print_r($d);
@@ -107,5 +111,5 @@ function unique_uname_link($arr){
 	}
 
 
-$vol_list = unique_uname_link($c);
-pre_print_r($vol_list);
+// $vol_list = unique_uname_link($c);
+// pre_print_r($vol_list);
