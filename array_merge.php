@@ -14,8 +14,8 @@ for ($i=0; $i < count($tmpxml['oberBegriff']); $i++) {
 	$tmp_o[] = trimUTF8BOM($tmpxml['oberBegriff'][$i]['oname']);
 }
 
-// array_to_file($globReg_o);
-// array_to_file($tmp_o);
+array_to_file($globReg_o);
+array_to_file($tmp_o);
 
 $merge_arr = array_merge($globReg_o,$tmp_o);
 $volcabulary_id = array_unique($merge_arr);

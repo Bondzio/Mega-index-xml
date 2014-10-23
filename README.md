@@ -76,6 +76,9 @@ use php to process raw text to xml
         子索引をチェクする必要があります。
         - 子索引が同じ部分があれば、
             同じ部分を一回マイナスして合成する。
+            - oname id はすでにduplicate_word.phpには定義されている。
+            - uname id はonameのunameを全部ソートして、親索引のＩＤの後ろに番号を付ける。
+
         - なければ、直接合成すればいい。
             子索引のソートの問題もあり。
             entry タグの問題もあり。
