@@ -68,48 +68,42 @@ function check_if_oname($arr1, $arr2){
 
 function fetch_uname($arr){
 	$container = array();
-		for ($i=0; $i < count($arr); $i++) { 
-			if(array_key_exists('unterBegriff', $arr[$i])){
-				for ($j=0; $j < count($arr[$i]['unterBegriff']); $j++) { 
-					$keyName = $arr[$i]['oname'];
-					$container[$keyName]['unterBegriff'][] = $arr[$i]['unterBegriff'][$j]['uname'];
-				}
-			};
-			if(array_key_exists('link', $arr[$i])){
-					$keyName = $arr[$i]['oname'];
-						if(array_key_exists(0, $arr[$i]['link'])){
-							for ($k=0; $k < count($arr[$i]['link']); $k++) { 
-								if(!array_key_exists('@content', $arr[$i]['link'][$k])){
-									pre_print_r($arr[$i]['link']);
-								}
-								$container[$keyName]['link'][] = $arr[$i]['link'][$k]['@content'];
-								// pre_print_r($arr[$i]['link'][$k]);
-							}
-						}else{
-								$container[$keyName]['link'][] = $arr[$i]['link']['@content'];
-							}
-				}	
-						}
+	for ($i=0; $i < count($arr); $i++) { 
+		if(array_key_exists('unterBegriff', $arr[$i])){
+			for ($j=0; $j < count($arr[$i]['unterBegriff']); $j++) { 
+				$keyName = $arr[$i]['oname'];
+				$container[$keyName]['unterBegriff'][] = $arr[$i]['unterBegriff'][$j]['uname'];
+			}};
+
+		if(array_key_exists('link', $arr[$i])){
+			$keyName = $arr[$i]['oname'];
+			if(array_key_exists(0, $arr[$i]['link'])){
+				for ($k=0; $k < count($arr[$i]['link']); $k++) { 
+					if(!array_key_exists('@content', $arr[$i]['link'][$k])){
+						pre_print_r($arr[$i]['link']); }
+					$container[$keyName]['link'][] = $arr[$i]['link'][$k]['@content'];
+					// pre_print_r($arr[$i]['link'][$k]);
+				} }else{
+					$container[$keyName]['link'][] = $arr[$i]['link']['@content']; }
+			} }
 		return $container;
 	}
 
 $a = fetch_uname($tmp_dupli_arr);
-// $b = fetch_uname($glob_dupli_arr);
-// $c = array_merge_recursive($a,$b);
+$b = fetch_uname($glob_dupli_arr);
+$c = array_merge_recursive($a,$b);
 
 // pre_print_r($c);
-// pre_print_r($d);
 
 function unique_uname_link($arr){
 	$container=array();
 	foreach ($arr as $key => $child) {
 		foreach ($child as $child_key => $child_arr) {
 			$container[$key][$child_key] = array_unique($child_arr);
-		}
-		}
+		}}
 		return $container;
 	}
 
 
-// $vol_list = unique_uname_link($c);
-// pre_print_r($vol_list);
+$vol_list = unique_uname_link($c);
+pre_print_r($vol_list);

@@ -180,6 +180,8 @@ for ($i=0; $i < count($key_char) ; $i++) {
 // add link to the key
   if(array_key_exists($i, $arrow_char)){
     $arrow_string = substr(trim($arrow_char[$i]), 2);
+    $arrow_string = rtrim($arrow_string, ";");
+    // handle those arrow word ended with ';';
     $arrow_arr = explode(";", $arrow_string);
       foreach ($arrow_arr as $each_arrow_arr) {
         $link = $ober->appendChild($dom->createElement('link',trim($each_arrow_arr)));

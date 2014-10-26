@@ -59,12 +59,12 @@ foreach ($hyphen as $value){foreach ($value as $child) { $temp[] = $child; } };
 // pre_print_r($hyphen_char);
 // pre_print_r($hyphen_num);
 
-
 $arrow_num = array();// the numbers related to the key are all stored here;
 //$arrow_num always null;
 $arrow_char = array();// all the key was stored here;
 for ($i=0; $i < count($arrow_keys); $i++) { 
 	$subject = $arrow[$arrow_keys[$i]][$arrow_keys_keys[$i]];
+	// pre_print_r(trim($subject));
 		$arrow_char[$arrow_keys[$i]] = strip_tags($subject);
 		$arrow_num[$arrow_keys[$i]] = ""; 
 	}
