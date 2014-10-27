@@ -32,14 +32,27 @@ $identical_word = array_values($identical_word);
 array_unshift($identical_word, '');
 unset($identical_word[0]);
 
+sort($volcabulary_id);
 // pre_print_r($identical_word);
 array_to_file($duplicate_word);
 array_to_file($volcabulary_id);
 array_to_file($identical_word);
 
-pre_print_r("<h3>ソートした合成の単語リスト（重複なし）</h3>");
+// pre_print_r("<h3>ソートした合成の単語リスト（重複なし）</h3>");
 pre_print_r($volcabulary_id);
-// pre_print_r($duplicate_word);
+
+
+exit;
+for ($i=1; $i < (count($volcabulary_id)+1); $i++) { 
+	// $tmp = mb_strtolower($volcabulary_id[$i], 'UTF-8');
+	$tmp = strtolower($volcabulary_id[$i]);
+	$word_arr[$tmp[0]][] = $volcabulary_id[$i];
+}
+
+foreach ($word_arr as $child) {
+	sort($child);
+}
+pre_print_r($word_arr);
 
 // count($merge_arr)-count(array_unique($globReg_o,$tmp_o)) == count($dupl_arr);
 
