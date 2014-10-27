@@ -1649,7 +1649,7 @@ Gesamtprodukt, gesellschaftliches 162 173
 - Verteilung 12 317 795-797 821 842 847-850
 - zur Konsumtion bestimmter Teil 500
 # Produktenwert
--Geschäftszweige 102 327 363
+- Geschäftszweige 102 327 363
 - Warenpreise 437
 - Kapitalminimum 259 661 687
 - Durchschnittskapital 661

@@ -350,7 +350,7 @@
   array (
     0 => 
     array (
-      5 => 'Gesamtprodukt, gesellschaftliches',
+      13 => 'Gesamtprodukt, gesellschaftliches',
     ),
   ),
   'Gesellschaft' => 
