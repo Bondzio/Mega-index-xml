@@ -2,12 +2,13 @@
 include './db_array/db_globRegxml.php';
 include './db_array/db_tmpxml.php';
 include './db_array/db_duplicate_word.php';
+include './db_array/db_volcabulary_id.php';
 require_once('./utility.php');
 
 //$tmpxml;
 //$globRegxml;
 
-function is_duplicate($target_arr,$dupli_word_list){
+function get_duplicate($target_arr,$dupli_word_list){
 	$duplicate_array = array();
 
 	for ($i=0; $i < count($target_arr['oberBegriff']); $i++) { 
@@ -21,8 +22,8 @@ function is_duplicate($target_arr,$dupli_word_list){
 
 
 
-$glob_dupli_arr = is_duplicate($globRegxml,$duplicate_word);
-$tmp_dupli_arr = is_duplicate($tmpxml,$duplicate_word);
+$glob_dupli_arr = get_duplicate($globRegxml,$duplicate_word);
+$tmp_dupli_arr = get_duplicate($tmpxml,$duplicate_word);
 
 // oname id is defined by $duplicate_word.php, [id] => A0010
 // uname id is defined by , [id] => A0010_001
@@ -41,7 +42,8 @@ function add_unterBegriff_key($arr){
 			$arr[$i]['unterBegriff'][0] = $tmp_value;
 		}}else{
 			// [43] => Array ([oname] => Existenz [link] => Array ([@content] => Dasein [@attributes] => Array ([target] => )
-			// pre_print_r('words do not has unter');
+			// pre_print_r('word only has links, do not has unter');
+			// pre_print_r($arr[$i]);
 		}
 	}
 	return $arr;
@@ -64,6 +66,7 @@ function check_if_oname($arr1, $arr2){
 }
 
 
+// should be 0~199
 // pre_print_r(check_if_oname($tmp_dupli_arr,$glob_dupli_arr));
 
 function fetch_uname($arr){
@@ -80,7 +83,8 @@ function fetch_uname($arr){
 			if(array_key_exists(0, $arr[$i]['link'])){
 				for ($k=0; $k < count($arr[$i]['link']); $k++) { 
 					if(!array_key_exists('@content', $arr[$i]['link'][$k])){
-						pre_print_r($arr[$i]['link']); }
+						pre_print_r($arr[$i]['link']); 
+						}
 					$container[$keyName]['link'][] = $arr[$i]['link'][$k]['@content'];
 					// pre_print_r($arr[$i]['link'][$k]);
 				} }else{
@@ -93,7 +97,41 @@ $a = fetch_uname($tmp_dupli_arr);
 $b = fetch_uname($glob_dupli_arr);
 $c = array_merge_recursive($a,$b);
 
-// pre_print_r($c);
+function get_duplicates( $array ) {
+    return array_unique( array_diff_assoc( $array, array_unique( $array ) ) );
+}
+
+$u_duplicate = array();
+foreach ($c as $key => $value) {
+	foreach ($value as $sub_child) {
+		$u_duplicate[$key][] = get_duplicates($sub_child);
+	}
+}
+
+
+// unset those words has empty uname and link
+// value[0] is uname
+// value[1] is link
+foreach ($u_duplicate as $key => $value) {
+	if(empty($value[0])){
+		unset($u_duplicate[$key][0]);
+	}
+	if(empty($value[1])){
+		unset($u_duplicate[$key][1]);
+	}
+}
+
+
+// pre_print_r(count($u_duplicate));
+// pre_print_r($u_duplicate);
+array_to_file($u_duplicate);
+
+
+for ($i=1; $i < count($u_duplicate); $i++) { 
+	if(empty($u_duplicate[$i])){
+		unset($u_duplicate[$i]);
+	}
+}
 
 function unique_uname_link($arr){
 	$container=array();
@@ -105,5 +143,24 @@ function unique_uname_link($arr){
 	}
 
 
-$vol_list = unique_uname_link($c);
-pre_print_r($vol_list);
+$duplicate_uname_volcabulary_list = unique_uname_link($c);
+// pre_print_r($duplicate_uname_volcabulary_list);
+array_to_file($duplicate_uname_volcabulary_list);
+$o_u_id = $volcabulary_id;
+
+// insert those $duplicate_uname_volcabulary_list to $volcabulary_id;
+// exit;
+
+foreach ($duplicate_uname_volcabulary_list as $key => $value) {
+	for ($i=1; $i < count($o_u_id); $i++) { 
+		if($key == $o_u_id[$i]){
+			$o_u_id[$i] = $value;
+			// pre_print_r($value);
+		}
+	}
+}
+
+// pre_print_r(count($o_u_id));
+// should equ 1473 (equ to count of $volcabulary_id);
+pre_print_r($o_u_id);
+// array_to_file($o_u_id);

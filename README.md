@@ -78,6 +78,7 @@ use php to process raw text to xml
             同じ部分を一回マイナスして合成する。
             - oname id はすでにduplicate_word.phpには定義されている。
             - uname id はonameのunameを全部ソートして、親索引のＩＤの後ろに番号を付ける。
+                - merge and sort page numbers of uname
 
         - なければ、直接合成すればいい。
             子索引のソートの問題もあり。
