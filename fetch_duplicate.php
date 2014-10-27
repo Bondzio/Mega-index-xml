@@ -127,7 +127,7 @@ foreach ($u_duplicate as $key => $value) {
 array_to_file($u_duplicate);
 
 
-for ($i=1; $i < count($u_duplicate); $i++) { 
+for ($i=0; $i < count($u_duplicate); $i++) { 
 	if(empty($u_duplicate[$i])){
 		unset($u_duplicate[$i]);
 	}
@@ -152,7 +152,7 @@ $o_u_id = $volcabulary_id;
 // exit;
 
 foreach ($duplicate_uname_volcabulary_list as $key => $value) {
-	for ($i=1; $i < count($o_u_id); $i++) { 
+	for ($i=0; $i < count($o_u_id); $i++) { 
 		if($key == $o_u_id[$i]){
 			$o_u_id[$i] = $value;
 			// pre_print_r($value);
