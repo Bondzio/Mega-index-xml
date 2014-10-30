@@ -39,23 +39,32 @@ array_to_file($volcabulary_id);
 array_to_file($identical_word);
 
 // pre_print_r("<h3>ソートした合成の単語リスト（重複なし）</h3>");
-pre_print_r($volcabulary_id);
+// pre_print_r($volcabulary_id);
 
 
-exit;
-for ($i=1; $i < (count($volcabulary_id)+1); $i++) { 
+// exit;
+for ($i=0; $i < count($volcabulary_id); $i++) { 
 	// $tmp = mb_strtolower($volcabulary_id[$i], 'UTF-8');
 	$tmp = strtolower($volcabulary_id[$i]);
-	$word_arr[$tmp[0]][] = $volcabulary_id[$i];
+	if(bin2hex($tmp[0]) == 'c3'){
+			$word_arr['umlaut'][] = $volcabulary_id[$i];
+		}elseif(bin2hex($tmp[0])== 'e2'){
+			// put  „Das Kapital“ to k-array
+			$word_arr['k'][] = $volcabulary_id[$i];
+		}else{
+			$word_arr[$tmp[0]][] = $volcabulary_id[$i];
+	}
 }
 
 foreach ($word_arr as $child) {
-	sort($child);
+	natcasesort($child);
 }
+
 pre_print_r($word_arr);
+array_to_file($word_arr);
+
 
 // count($merge_arr)-count(array_unique($globReg_o,$tmp_o)) == count($dupl_arr);
-
 // something is wrong here
 // $result =  array_merge_recursive($globRegxml, $tmpxml);
 // array_to_file($result);

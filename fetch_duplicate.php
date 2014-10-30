@@ -152,15 +152,19 @@ $o_u_id = $volcabulary_id;
 // exit;
 
 foreach ($duplicate_uname_volcabulary_list as $key => $value) {
+	if(array_key_exists('unterBegriff', $value)){
+		natcasesort($value['unterBegriff']); }
+
+	if(array_key_exists('link', $value)){
+		natcasesort($value['link']); }
+		
 	for ($i=0; $i < count($o_u_id); $i++) { 
 		if($key == $o_u_id[$i]){
 			$o_u_id[$i] = $value;
-			// pre_print_r($value);
 		}
 	}
 }
 
 // pre_print_r(count($o_u_id));
-// should equ 1473 (equ to count of $volcabulary_id);
 pre_print_r($o_u_id);
 // array_to_file($o_u_id);
