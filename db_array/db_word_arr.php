@@ -148,6 +148,9 @@
     144 => 'Autorität',
     145 => 'Außenhandel (auswärtiger Handel)',
     146 => 'avances',
+    147 => 'Ägypten',
+    148 => 'Äquivalentenaustausch',
+    149 => 'Äquivalentform, allgemeine (Äquivalent, allgemeines)',
   ),
   'b' => 
   array (
@@ -803,7 +806,6 @@
     165 => '„Das Kapital“, Buch 2',
     166 => '„Das Kapital“, Buch 3',
     167 => '„Das Kapital“, Buch 4',
-    168 => '„Das Kapital”',
   ),
   'l' => 
   array (
@@ -986,6 +988,10 @@
     9 => 'Organisation',
     10 => 'Orissa',
     11 => 'Ostindische Kompanie',
+    12 => 'Ökonomie',
+    13 => 'Ökonomie (Ersparung)',
+    14 => 'Ökonomie und Politik',
+    15 => 'Österreich',
   ),
   'p' => 
   array (
@@ -1334,6 +1340,14 @@
     22 => 'Urgesellschaft (ursprüngliches Gemeinwesen)',
     23 => 'Urkommunismus',
     24 => 'Ursache und Wirkung',
+    25 => 'Überarbeit, -arbeitung',
+    26 => 'Überbau',
+    27 => 'Übereinfuhr',
+    28 => 'Überfluß',
+    29 => 'Überproduktion',
+    30 => 'Übervölkerung, relative',
+    31 => 'Übervölkerung, relative (Surpluspopulation)',
+    32 => 'Überzufuhr',
   ),
   'v' => 
   array (
@@ -1530,23 +1544,5 @@
     56 => 'Zölle',
     57 => 'Zünfte, Zunftwesen',
     58 => 'Zürich',
-  ),
-  'umlaut' => 
-  array (
-    0 => 'Ägypten',
-    1 => 'Äquivalentenaustausch',
-    2 => 'Äquivalentform, allgemeine (Äquivalent, allgemeines)',
-    3 => 'Ökonomie',
-    4 => 'Ökonomie (Ersparung)',
-    5 => 'Ökonomie und Politik',
-    6 => 'Österreich',
-    7 => 'Überarbeit, -arbeitung',
-    8 => 'Überbau',
-    9 => 'Übereinfuhr',
-    10 => 'Überfluß',
-    11 => 'Überproduktion',
-    12 => 'Übervölkerung, relative',
-    13 => 'Übervölkerung, relative (Surpluspopulation)',
-    14 => 'Überzufuhr',
   ),
 );

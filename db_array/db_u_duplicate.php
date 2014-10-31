@@ -498,6 +498,9 @@
   'Kapital, zirkulierendes' => 
   array (
   ),
+  '„Das Kapital“' => 
+  array (
+  ),
   'Kapitalanlage' => 
   array (
     0 => 

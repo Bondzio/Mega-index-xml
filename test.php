@@ -6,6 +6,10 @@ include './utility.php';
 // pre_print_r($result);
 
 
+
+
+
+
 $a = array (
       'oname' => 'Ägypten',
       'unterBegriff' => 
@@ -95,7 +99,7 @@ $a = array (
 
 
     $c = array_merge_recursive($a,$b);
-    pre_print_r($c);
+    // pre_print_r($c);
 
 
     if($c['oname'][0] == $c['oname'][1]){

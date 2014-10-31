@@ -2075,6 +2075,36 @@
       1 => 'Kapital, flüssiges',
     ),
   ),
+  '„Das Kapital“' => 
+  array (
+    'unterBegriff' => 
+    array (
+      0 => 'Marx’ System, Theorie',
+      1 => 'Marx’ Definitionsmethode',
+      2 => 'Band 1(Buch 1)',
+      3 => 'Buch 1 (Zur Kritik der politischen Ökonomie von 1859)',
+      4 => 'Buch 2',
+      5 => 'Buch 2 (Manuskript I)',
+      6 => 'Buch 2 (Manuskript II)',
+      7 => 'Buch 2 (Manuskript III)',
+      8 => 'Buch 2 (Manuskript IV)',
+      9 => 'Buch 2 (Manuskript V)',
+      10 => 'Buch 2 (Manuskript VI)',
+      11 => 'Buch 2 (Manuskript VII)',
+      12 => 'Buch 2 (Manuskript VIII)',
+      13 => 'Buch 2 (Hinweisungen auf Manuskript I bis IV)',
+      14 => 'Buch 3',
+      15 => 'Buch 3 (Manuskript 1864-1865)',
+      16 => 'Buch 3 (Heft von 1875)',
+      17 => 'Buch 4',
+      18 => 'Manuskript (1861-1863)',
+      19 => 'Theorien über den Mehrwert',
+      20 => 'Engels\' Redaktion am Zweiten Buch',
+      21 => 'Engels\' Redaktion am dritten Buch',
+      22 => 'Dührings Rezension des ersten Bandes',
+      23 => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+    ),
+  ),
   'Kapitalanlage' => 
   array (
     'unterBegriff' => 
@@ -2764,7 +2794,7 @@
       8 => 'Jahresrate des Mehrwerts',
       9 => 'Mehrwertrate (Rate des Mehrwerts)',
       10 => 'Physiokraten',
-      11 => '„Das Kapital”',
+      11 => '„Das Kapital“',
       13 => 'Ricardo, David',
       14 => 'Smith, Adam',
     ),

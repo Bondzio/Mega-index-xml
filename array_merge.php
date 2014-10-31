@@ -14,8 +14,8 @@ for ($i=0; $i < count($tmpxml['oberBegriff']); $i++) {
 	$tmp_o[] = trimUTF8BOM($tmpxml['oberBegriff'][$i]['oname']);
 }
 
-array_to_file($globReg_o);
-array_to_file($tmp_o);
+// array_to_file($globReg_o);
+// array_to_file($tmp_o);
 
 $merge_arr = array_merge($globReg_o,$tmp_o);
 $volcabulary_id = array_unique($merge_arr);
@@ -47,7 +47,23 @@ for ($i=0; $i < count($volcabulary_id); $i++) {
 	// $tmp = mb_strtolower($volcabulary_id[$i], 'UTF-8');
 	$tmp = strtolower($volcabulary_id[$i]);
 	if(bin2hex($tmp[0]) == 'c3'){
-			$word_arr['umlaut'][] = $volcabulary_id[$i];
+		$t = substr(bin2hex($tmp), 0,4);
+
+		switch ($t) {
+			case 'c384':
+			$word_arr['a'][] = $volcabulary_id[$i];
+				break;
+			case 'c396':
+			$word_arr['o'][] = $volcabulary_id[$i];
+				break;
+			case 'c39c':
+			$word_arr['u'][] = $volcabulary_id[$i];
+				break;
+			default:
+				pre_print_r($volcabulary_id[$i]);
+				break;
+		}
+
 		}elseif(bin2hex($tmp[0])== 'e2'){
 			// put  „Das Kapital“ to k-array
 			$word_arr['k'][] = $volcabulary_id[$i];
@@ -60,9 +76,9 @@ foreach ($word_arr as $child) {
 	natcasesort($child);
 }
 
-pre_print_r($word_arr);
+// pre_print_r($word_arr);
 array_to_file($word_arr);
-
+header("Location: ./insert_id.php");
 
 // count($merge_arr)-count(array_unique($globReg_o,$tmp_o)) == count($dupl_arr);
 // something is wrong here

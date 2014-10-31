@@ -1470,5 +1470,4 @@
   1468 => '„Das Kapital“, Buch 2',
   1469 => '„Das Kapital“, Buch 3',
   1470 => '„Das Kapital“, Buch 4',
-  1471 => '„Das Kapital”',
 );

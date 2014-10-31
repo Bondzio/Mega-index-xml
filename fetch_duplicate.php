@@ -3,6 +3,7 @@ include './db_array/db_globRegxml.php';
 include './db_array/db_tmpxml.php';
 include './db_array/db_duplicate_word.php';
 include './db_array/db_volcabulary_id.php';
+include './db_array/db_word_id.php';
 require_once('./utility.php');
 
 //$tmpxml;
@@ -146,25 +147,33 @@ function unique_uname_link($arr){
 $duplicate_uname_volcabulary_list = unique_uname_link($c);
 // pre_print_r($duplicate_uname_volcabulary_list);
 array_to_file($duplicate_uname_volcabulary_list);
-$o_u_id = $volcabulary_id;
+$o_u_id = $word_id;
 
 // insert those $duplicate_uname_volcabulary_list to $volcabulary_id;
 // exit;
 
 foreach ($duplicate_uname_volcabulary_list as $key => $value) {
 	if(array_key_exists('unterBegriff', $value)){
-		natcasesort($value['unterBegriff']); }
+		natcasesort($value['unterBegriff']); 
+		$value['unterBegriff'] = array_values($value['unterBegriff']);
+	}
 
 	if(array_key_exists('link', $value)){
-		natcasesort($value['link']); }
-		
-	for ($i=0; $i < count($o_u_id); $i++) { 
-		if($key == $o_u_id[$i]){
-			$o_u_id[$i] = $value;
+		natcasesort($value['link']); 
+		$value['link'] = array_values($value['link']);
+	}
+
+	foreach ($o_u_id as $k => $v) {
+		if($key == $o_u_id[$k]){
+			$o_u_id[$k] = $value;
+			$o_u_id[$k]['oname'] = $key;
 		}
 	}
 }
 
 // pre_print_r(count($o_u_id));
+pre_print_r("<p>xxx</p><h3><a href='./import_from_2.php'>Next</a></h3>");
 pre_print_r($o_u_id);
-// array_to_file($o_u_id);
+array_to_file($o_u_id);
+// $tmp = $k.sprintf("_%03d",$j);
+
