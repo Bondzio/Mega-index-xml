@@ -145,6 +145,7 @@ function unique_uname_link($arr){
 
 
 $duplicate_uname_volcabulary_list = unique_uname_link($c);
+// pre_print_r(count($duplicate_uname_volcabulary_list));
 // pre_print_r($duplicate_uname_volcabulary_list);
 array_to_file($duplicate_uname_volcabulary_list);
 $o_u_id = $word_id;
