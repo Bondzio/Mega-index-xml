@@ -1,0 +1,104 @@
+Akkumulation des Kapitals
+	-> Revenuen
+Arbeit
+	-> Agrikulturarbeit
+Arbeit
+	-> Produktivität der Arbeit
+Arbeit
+	-> Subsumtion derArbeit unterdas Kapital
+Arbeit
+	-> Zwangsarbeit
+Arbeit
+	-> Überarbeit
+Arbeitskraft
+	-> Ausbeutung
+Arbeitslohn
+	-> Agrikulturarbeiter
+Arbeitslohn
+	-> Aufsichtslohn
+Asien
+	-> Indien, Wechselkurs
+Banknoten
+	-> Metallschatz
+Baumwolle
+	-> Abfälle
+Edelmetalle
+	-> Goldab- und -zufluß
+Feudalismus
+	-> Ausbeutung
+Feudalismus
+	-> Hörige
+Geldhändler
+	-> Bankiers
+Gesellschaft
+	-> Urgesellschaft
+Grundrente
+	-> Produktenrente
+Import (Einfuhr)
+	-> Goldab-und -zufluß
+Kapital, fixes
+	-> Erneuerungskosten
+Kapital, konstantes
+	-> Ausbeutung
+Kaufmann
+	-> Bankrott
+Kaufmann
+	-> Zusatzkapital
+Klassen
+	-> Grundeigentümer
+Konkurrenz
+	-> Durchschnittsprofitrate
+Konzentration
+	-> Gestz des tendenziellen Falls der Profitrate
+Kosten
+	-> Erneuerungskosten
+Landarbeiter
+	-> Agrikulturarbeiter
+Lohnarbeiter
+	-> Agrikulturarbeiter
+Markt
+	-> Handel
+Mehrwert
+	-> Ausbeutung
+Mehrwert
+	-> Distribution
+Mehrwert
+	-> Kauf- mannskapital
+Metallgeld
+	-> Gold- ab- und -zufluß
+Naturalwirtschaft
+	-> Kleinproduktion
+Preis
+	-> Agrikulturprodukte
+Produkt
+	-> Agrikulturprodukte
+Produktion
+	-> Abfälle
+Produktion
+	-> Kleinproduktion
+Produktionspreis
+	-> Agrikulturprodukte
+Profit
+	-> Extraprofit
+Profit
+	-> Profit, kommerzieller
+Profit
+	-> Veräußerungsprofit
+Profitrate
+	-> Außenhandel
+Profitrate
+	-> Durchschnittsprofitrate
+Rente
+	-> Produktenrente
+Unkosten
+	-> Nebenkosten der Produktion
+Verteilung
+	-> Distribution
+Vulgärökonomie
+	-> Abstinenztheorie
+Weltmarkt
+	-> Außenhandel
+Wert
+	-> Revenuen
+Zirkulationskosten
+	-> Buchführung
