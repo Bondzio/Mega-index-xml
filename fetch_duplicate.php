@@ -109,10 +109,10 @@ foreach ($c as $key => $value) {
 	}
 }
 
-
 // unset those words has empty uname and link
 // value[0] is uname
 // value[1] is link
+
 foreach ($u_duplicate as $key => $value) {
 	if(empty($value[0])){
 		unset($u_duplicate[$key][0]);
@@ -121,7 +121,6 @@ foreach ($u_duplicate as $key => $value) {
 		unset($u_duplicate[$key][1]);
 	}
 }
-
 
 // pre_print_r(count($u_duplicate));
 // pre_print_r($u_duplicate);
@@ -174,7 +173,7 @@ foreach ($duplicate_uname_volcabulary_list as $key => $value) {
 
 // pre_print_r(count($o_u_id));
 pre_print_r("<p>xxx</p><h3><a href='./import_from_2.php'>Next</a></h3>");
-pre_print_r($o_u_id);
+// pre_print_r($o_u_id);
 array_to_file($o_u_id);
 // $tmp = $k.sprintf("_%03d",$j);
 
