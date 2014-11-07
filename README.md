@@ -80,6 +80,10 @@ use php to process raw text to xml
             - uname id はonameのunameを全部ソートして、親索引のＩＤの後ろに番号を付ける。
                 - merge and sort page numbers of uname
 
+
+        db_o_u_idの中は重複しない親索引のarrayである。
+        
+
         - なければ、直接合成すればいい。
             子索引のソートの問題もあり。
             entry タグの問題もあり。

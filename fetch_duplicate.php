@@ -173,7 +173,7 @@ foreach ($duplicate_uname_volcabulary_list as $key => $value) {
 
 // pre_print_r(count($o_u_id));
 pre_print_r("<p>xxx</p><h3><a href='./import_from_2.php'>Next</a></h3>");
-// pre_print_r($o_u_id);
+pre_print_r($o_u_id);
 array_to_file($o_u_id);
 // $tmp = $k.sprintf("_%03d",$j);
 

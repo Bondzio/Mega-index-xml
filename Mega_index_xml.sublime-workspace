@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"mer",
+				"merged_duplicate_arr"
+			],
+			[
+				"array_key",
+				"array_keys"
+			],
+			[
+				"me",
+				"merged_duplicate_arr"
+			],
+			[
+				"arrak",
+				"array_key_exists"
+			],
+			[
 				"tmp",
 				"tmp_uname"
 			],
@@ -166,10 +182,6 @@
 			[
 				"html",
 				"htmlspecialchars_decode"
-			],
-			[
-				"array_key",
-				"array_key_exists"
 			]
 		]
 	},
@@ -179,18 +191,23 @@
 			"file": "fetch_duplicate.php",
 			"settings":
 			{
-				"buffer_size": 4911,
+				"buffer_size": 4910,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<?php\ninclude './db_array/db_globRegxml.php';\ninclude './db_array/db_tmpxml.php';\ninclude './db_array/db_o_u_id.php';\ninclude './db_array/db_word_id.php';\ninclude './db_array/db_duplicate_word.php';\ninclude './db_array/db_duplicate_uname_volcabulary_list.php';\nrequire_once('./utility.php');\n\n\n// pre_print_r($word_id);;\n// pre_print_r($duplicate_uname_volcabulary_list);\n\n// put both oname and uname duplicated items to $o_u_duplicate_list\n$o_u_duplicate_list = array();\nforeach ($o_u_id as $key => $value) {\n	if(is_array($value)){\n		$o_u_duplicate_list[$key] = $value;\n		unset($o_u_id[$key]);\n	}\n}\n\n// pre_print_r($o_u_duplicate_list);\n$o_u_duplicate_list_id = array();\nforeach ($o_u_duplicate_list as $key => $value) {\n	$o_u_duplicate_list_id[$key]['oname'] = $o_u_duplicate_list[$key]['oname'];\n	if(array_key_exists('unterBegriff', $value)){\n		foreach ($value['unterBegriff'] as $k => $v) {\n			$num = sprintf(\"_%03d\",($k+1));\n			$tmp = $key.$num;\n			$o_u_duplicate_list_id[$key]['unterBegriff'][$tmp] = $v;\n		}\n	}\n\n	if(array_key_exists('link', $value)){\n		foreach ($value['link'] as $k => $v) {\n			$num = array_search($v, $word_id);\n			if($num){\n				$o_u_duplicate_list_id[$key]['link'][$num] = $v;\n			}else{\n				// cannot find ober for link words;\n				$o_u_duplicate_list_id[$key]['link'][$num] = $v;\n				// pre_print_r('<b>');\n				// pre_print_r($value['oname']);\n				// pre_print_r('</b>');\n				// pre_print_r(\"	-> $v\");\n			}\n		}\n	}\n}\n\n\n// pre_print_r($o_u_duplicate_list_id);\n\n\n\n// pre_print_r($duplicate_word);\n$duplicate_arr = array();\n$o_arr = $globRegxml['oberBegriff'];\n// pre_print_r($o_u_id);\nforeach ($o_arr as $ober) {\n	$oname = trimUTF8BOM($ober['oname']);\n	if(!in_array($oname, $duplicate_word)){\n		$tmp = array_search($oname, $word_id);\n		$o_u_id[$tmp] = $ober;\n	}else{\n		$tmp = array_search($oname, $word_id);\n		$duplicate_arr[$tmp][] = $ober;\n	}\n}\n\n$o_arr = $tmpxml['oberBegriff'];\nforeach ($o_arr as $ober) {\n	$oname = trimUTF8BOM($ober['oname']);\n	if(!in_array($oname, $duplicate_word)){\n		$tmp = array_search($oname, $word_id);\n		$o_u_id[$tmp] = $ober;\n	}else{\n		$tmp = array_search($oname, $word_id);\n		$duplicate_arr[$tmp][] = $ober;\n	}\n}\n\n// pre_print_r($o_u_id['A0003']); // unduplicated obers\n// Next to reset id for each array;\n\n// pre_print_r($duplicate_arr['A0148']); // duplicatd obers\n// pre_print_r($duplicate_arr['A0125'][0]); // duplicatd obers\n// pre_print_r($duplicate_arr['A0125'][1]); // duplicatd obers\n// pre_print_r($duplicate_arr); // duplicatd obers\narray_to_file($duplicate_arr);\n\nforeach ($duplicate_arr as $key => $value) {\n	$tmp_uname = $duplicate_arr[$key][0];\n	if(array_key_exists('uname', $tmp_uname['unterBegriff'])){\n		// pre_print_r($tmp_uname['unterBegriff']['uname']);\n	}\n	foreach ($tmp_uname as $k => $v) {\n	}\n\n\n	// $glb_oname = $duplicate_arr[$key][1]['oname'];\n	// pre_print_r($tmp_uname);\n}\n",
-			"file": "import_from_2.php",
-			"file_size": 2955,
-			"file_write_time": 130592975861893125,
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 2854,
+				"buffer_size": 2270,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "import_from_2.php",
+			"settings":
+			{
+				"buffer_size": 3337,
 				"line_ending": "Windows"
 			}
 		}
@@ -386,6 +403,17 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Ponderous/AppData/Local/Temp/11 - 1 - Dynamic Memory Allocation_ (07_54).txt",
+		"/C/Users/Ponderous/Desktop/Math.md",
+		"/C/Users/Ponderous/Desktop/grammar.todo",
+		"/D/Desktop/BitLocker Recovery Key 5D54CAB7-768B-46D7-83BD-457C0F8A844F.txt",
+		"/C/Users/Ponderous/AppData/Local/Temp/Temp1_a008601@gmail.com-takeout.zip/a008601@gmail.com-takeout/阅读器/liked.json",
+		"/C/Users/Ponderous/AppData/Local/Temp/Temp1_a008601@gmail.com-takeout.zip/a008601@gmail.com-takeout/阅读器/subscriptions.xml",
+		"/D/Before_2013_04_13/alchemytagger/alchemytagger/AlchemyAPI.php",
+		"/C/Users/Ponderous/Desktop/a.php",
+		"/C/xampp/htdocs/a.php",
+		"/C/Users/Ponderous/Desktop/tmp.xml",
+		"/C/xampp/htdocs/Mega-index-xml/get_unduplicate_arr.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_duplicate_arr.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_word_id.php",
 		"/C/xampp/htdocs/Mega-index-xml/download.php",
@@ -412,8 +440,6 @@
 		"/C/xampp/htdocs/Mega-index-xml/find_alphabet.php",
 		"/C/xampp/htdocs/Mega-index-xml/README.md",
 		"/C/xampp/htdocs/Mega-index-xml/tmp/tmp.xml",
-		"/C/Users/Ponderous/Desktop/tmp.xml",
-		"/C/Users/Ponderous/Desktop/Math.md",
 		"/C/xampp/htdocs/Mega-index-xml/xmldownload.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_array/db_diff_g_m.php",
 		"/C/Users/Ponderous/Desktop/test.lua",
@@ -504,16 +530,7 @@
 		"/C/xampp/htdocs/Mega-index-xml/test.xml",
 		"/C/xampp/htdocs/Mega-index-xml/db_result.php",
 		"/C/xampp/htdocs/Mega-index-xml/db_globReg.php",
-		"/C/xampp/htdocs/Mega-index-xml/db_part2.php",
-		"/C/xampp/htdocs/Mega-index-xml/db_.php",
-		"/C/Users/Ponderous/Documents/GitHub/vimrc/_vimrc",
-		"/C/xampp/htdocs/test/py/ent.py",
-		"/C/xampp/htdocs/test/classify_process.php",
-		"/C/Users/Ponderous/AppData/Roaming/Sublime Text 3/Packages/User/php.sublime-build",
-		"/C/xampp/htdocs/test/simple_html_dom.php",
-		"/C/xampp/htdocs/test/arrow",
-		"/C/xampp/htdocs/test/db_array.php",
-		"/C/xampp/htdocs/test/test.php"
+		"/C/xampp/htdocs/Mega-index-xml/db_part2.php"
 	],
 	"find":
 	{
@@ -531,6 +548,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"\"",
+			":",
+			"duplicate_arr",
+			"duplicat_arr",
+			"$o_u_id",
+			"duplicate_arr ",
+			"duplicate_arr",
+			"duplicate_arr ",
+			"duplicate_word",
+			"duplicate_arr",
+			"u_duplicate",
+			"pre_print_r",
 			"Akkumulation des Kapitals",
 			"Überarbeit",
 			"Subsumtion der Arbeit unterdas Kapital",
@@ -646,19 +675,7 @@
 			"Bankakt von 1844",
 			"Bankakt von 1845",
 			"Bankakt von 184",
-			"und Bankakt von",
-			"und Bankakt von 18",
-			"und Bankakt von 1845",
-			"und Bankakt von 184",
-			"pos",
-			"hyphen_key",
-			"<br />",
-			"br",
-			"Bankgesetzgebung",
-			"<br />",
-			"-",
-			"Geschaftszweige",
-			"−Geschäftszweige"
+			"und Bankakt von"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -666,6 +683,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\" \"",
+			"\"",
+			"\" \"",
+			"",
 			"Bankakt von 1844<br />",
 			"tmp",
 			"clean_index",
@@ -673,7 +694,7 @@
 			"Bankakt von 1844<br />",
 			""
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -682,7 +703,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -691,15 +712,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4911,
+						"buffer_size": 4910,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4851,
-								4851
+								4755,
+								4755
 							]
 						],
 						"settings":
@@ -707,26 +728,99 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
+								"bh_round_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2012,
+								2012
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -737,21 +831,21 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -761,33 +855,49 @@
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4123.0,
+						"translation.y": 1690.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "import_from_2.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2854,
+						"buffer_size": 3337,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2730,
-								2730
+								3104,
+								3104
 							]
 						],
 						"settings":
@@ -795,26 +905,11 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -825,11 +920,36 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -839,23 +959,13 @@
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
+								"bh_single_quote_content"
 							],
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2040.0,
+						"translation.y": 2376.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -906,7 +1016,7 @@
 	"project": "Mega_index_xml.sublime-project",
 	"replace":
 	{
-		"height": 68.0
+		"height": 82.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -944,7 +1054,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 340.0,
 	"status_bar_visible": true,
 	"template_settings":
