@@ -11,6 +11,7 @@ $o_arr = $globRegxml['oberBegriff'];
 foreach ($o_arr as $ober) {
 	$oname = trimUTF8BOM($ober['oname']);
 	if(!in_array($oname, $duplicate_word)){
+		//return key of found value;
 		$tmp = array_search($oname, $word_id);
 		$o_u_id[$tmp] = $ober;
 	}else{
@@ -18,6 +19,7 @@ foreach ($o_arr as $ober) {
 		$duplicate_arr[$tmp][] = $ober;
 	}
 }
+
 
 $o_arr = $tmpxml['oberBegriff'];
 foreach ($o_arr as $ober) {
@@ -32,9 +34,9 @@ foreach ($o_arr as $ober) {
 }
 
 
+// all the unduplicate words array are put in $o_u_id;
 array_to_file($o_u_id);
 array_to_file($duplicate_arr);
-// all the unduplicate words array are put in $o_u_id;
 // pre_print_r($o_u_id['A0003']); // unduplicated obers
 // Next to reset id for each array;
 pre_print_r("<p></p><h3><a href='./import_from_2.php'>Next</a></h3>");

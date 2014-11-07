@@ -155,7 +155,7 @@
       5 => 'Lohnarbeit',
       6 => 'Nebenarbeit',
       7 => 'Produktivität (Produktivkraft) der Arbeit',
-      8 => 'Subsumtion derArbeit unterdas Kapital',
+      8 => 'Subsumtion der Arbeit unterdas Kapital',
       9 => 'Überarbeit',
       10 => 'Zwangsarbeit',
       11 => 'Deplazierung von Arbeit und Kapital',
@@ -2370,7 +2370,7 @@
     'link' => 
     array (
       0 => 'Akkumulation des Kapitals',
-      1 => 'Gestz des tendenziellen Falls der Profitrate',
+      1 => 'Gestez des tendenziellen Falls der Profitrate',
       2 => 'Zentralisation',
     ),
   ),
@@ -2788,7 +2788,7 @@
       2 => 'Distribution',
       3 => 'Extramehrwert',
       4 => 'Grundrente',
-      5 => 'Kauf- mannskapital',
+      5 => 'Kaufmannskapital',
       6 => 'Profit',
       7 => 'Zins',
       8 => 'Jahresrate des Mehrwerts',
@@ -2826,7 +2826,7 @@
     array (
       0 => 'Geldzirkulation',
       1 => 'Gold und Silber',
-      2 => 'Gold- ab- und -zufluß',
+      2 => 'Goldab- und -zufluß',
       3 => 'Münzen',
     ),
   ),

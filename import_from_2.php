@@ -33,6 +33,7 @@ foreach ($o_u_duplicate_list as $key => $value) {
 	}
 
 	if(array_key_exists('link', $value)){
+		pre_print_r($value['link']);
 		foreach ($value['link'] as $k => $v) {
 			$num = array_search($v, $word_id);
 			if($num){
@@ -52,6 +53,7 @@ foreach ($o_u_duplicate_list as $key => $value) {
 
 // both id of uname and links are inserted.
 // pre_print_r($o_u_duplicate_list_id);
+exit;
 // pre_print_r($u_duplicate);
 
 // pre_print_r($duplicate_word);
