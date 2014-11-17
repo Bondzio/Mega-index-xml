@@ -224,7 +224,7 @@ Arbeit
 - und Mensch, Individuum 790 791 794 796 850 855
 - und Gesellschaft 186187 620-623 789792 855 856
 - und Bedürfnisse 176 186-188 192 623 624 767 769-771 794 795 821 848 849
-# Agrikulturarbeit; Arbeitsprozeß; Frauenarbeit; Fronarbeit; Kinderarbeit; Lohnarbeit; Nebenarbeit; Produktivität (Produktivkraft) der Arbeit; Subsumtion derArbeit unterdas Kapital; Überarbeit; Zwangsarbeit
+# Agrikulturarbeit; Arbeitsprozeß; Frauenarbeit; Fronarbeit; Kinderarbeit; Lohnarbeit; Nebenarbeit; Produktivität (Produktivkraft) der Arbeit; Subsumtion der Arbeit unterdas Kapital; Überarbeit; Zwangsarbeit
 Arbeit, abstrakte und konkrete 817
 - Doppelcharakter der warenproduzierenden A. 798 809 810 818
 - a. A. (wertbildende, gleiche, allgemeine) 35 371 725 809 810
@@ -2045,7 +2045,7 @@ Import (Einfuhr) 497
 - und Export 487 517 527 541 542 558 560 575
 - und Wechselgeschäfte 407
 - und ökonomische Krisen 405 573 574
-# Baumwolle; Baumwollindustrie; Goldab-und -zufluß; Korn
+# Baumwolle; Baumwollindustrie; Goldab- und -zufluß; Korn
 Indien 72 399 405
 - Produktionsweise 213 326 762
 - indisches Gemeinwesen 326 704 762 766 849
@@ -3117,7 +3117,7 @@ Mehrwert 15 16 21-23 324 325 328 336 447 474 598 634 760 778 817
 - und Arbeitsintensität 78 217 229 231 232
 - und Qualität der Rohstoffe 83
 - klassische bürgerliche politische Ökonomie über M. 169 805
-# Arbeitstag; Ausbeutung; Distribution; Extramehrwert;	Grundrente;	Kauf- mannskapital; Profit; Zins
+# Arbeitstag; Ausbeutung; Distribution; Extramehrwert;	Grundrente;	Kaufmannskapital; Profit; Zins
 Mehrwert, absoluter 86 236 251 
 - und Verlängerung des Arbeitstages 77 229 231
 - und relativer M. 243 244
@@ -3190,7 +3190,7 @@ Metallgeld 433-436 487 492 495 504 511 512 570 573
 - Wegfall bei Zahlungen 396 426 496
 - als Zahlungsmittel in der Krise 530
 - als Weltgeld 310 442 530
-# Geldzirkulation; Gold und Silber; Gold- ab- und -zufluß; Münzen
+# Geldzirkulation; Gold und Silber; Goldab- und -zufluß; Münzen
 Metallschatz (der Banken) 471 563
 - Funktionen 444
 - als Angelpunkt der Bank 564

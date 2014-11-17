@@ -18387,7 +18387,7 @@
 ',
     43 => '# Eigentum; Griechenland; Rom
 ',
-    45 => '# Agrikulturarbeit; Arbeitsprozeß; Frauenarbeit; Fronarbeit; Kinderarbeit; Lohnarbeit; Nebenarbeit; Produktivität (Produktivkraft) der Arbeit; Subsumtion derArbeit unterdas Kapital; Überarbeit; Zwangsarbeit
+    45 => '# Agrikulturarbeit; Arbeitsprozeß; Frauenarbeit; Fronarbeit; Kinderarbeit; Lohnarbeit; Nebenarbeit; Produktivität (Produktivkraft) der Arbeit; Subsumtion der Arbeit unterdas Kapital; Überarbeit; Zwangsarbeit
 ',
     49 => '# Arbeitszeit, gesellschaftlich notwendige
 ',
@@ -18653,7 +18653,7 @@
 ',
     379 => '# Logisches und Historisches 
 ',
-    389 => '# Baumwolle; Baumwollindustrie; Goldab-und -zufluß; Korn
+    389 => '# Baumwolle; Baumwollindustrie; Goldab- und -zufluß; Korn
 ',
     390 => '# Silberabfluß, -export
 ',
@@ -18803,7 +18803,7 @@
 ',
     566 => '# Mittelalter
 ',
-    567 => '# Arbeitstag; Ausbeutung; Distribution; Extramehrwert;	Grundrente;	Kauf- mannskapital; Profit; Zins
+    567 => '# Arbeitstag; Ausbeutung; Distribution; Extramehrwert;	Grundrente;	Kaufmannskapital; Profit; Zins
 ',
     571 => '# Arbeitstag
 ',
@@ -18811,7 +18811,7 @@
 ',
     574 => '# Bodenfruchtbarkeit
 ',
-    578 => '# Geldzirkulation; Gold und Silber; Gold- ab- und -zufluß; Münzen
+    578 => '# Geldzirkulation; Gold und Silber; Goldab- und -zufluß; Münzen
 ',
     579 => '# Bank of England; Goldschatz
 ',
