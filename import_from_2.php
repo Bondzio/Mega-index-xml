@@ -7,8 +7,20 @@ include './db_array/db_u_duplicate.php';
 include './db_array/db_duplicate_arr.php';
 require_once('./utility.php');
 
+// generate word_id for link. remove "," or "(" in ober.
+$pattern = "/(.*?)(,\s|\s\()(.*)/"; 
+$word_id_for_link = array();
+foreach ($word_id as $key => $value) {
+	preg_match($pattern, $value, $matches);
+	if(!empty($matches)){
+	$word_id_for_link[$key] = $matches[1];
+	}
+}
 
-// pre_print_r($word_id);;
+// pre_print_r($word_id_for_link);
+// exit;
+
+
 // pre_print_r($duplicate_uname_volcabulary_list);
 
 // put both oname and uname duplicated items to $o_u_duplicate_list
@@ -39,7 +51,31 @@ foreach ($o_u_duplicate_list as $key => $value) {
 				$o_u_duplicate_list_id[$key]['link'][$num] = $v;
 			}else{
 				// cannot find ober for link words;
-				$o_u_duplicate_list_id[$key]['link'][$num] = $v;
+
+				// preg words like "Profit, kommerzieller" and "Indien, Wechselkurs";
+
+				$num = array_search($v, $word_id_for_link);
+				if(!empty($num)){
+					$o_u_duplicate_list_id[$key]['link'][$num] = $v;
+				}else{
+					$v_tmp = 0;
+					preg_match($pattern, $v, $match);
+					if(!empty($match)) {$v_tmp = $match[1]; }
+						
+					if($v_tmp!==0){
+						$num = array_search($v_tmp, $word_id);
+						$o_u_duplicate_list_id[$key]['link'][$num] = $v;
+					}else{
+						// cannot find word id for this link;
+						echo "<b>";
+						pre_print_r($key);
+						pre_print_r($value['oname']);
+						echo "</b>";
+						pre_print_r($v);
+
+					}
+				}
+
 				// pre_print_r('<b>');
 				// pre_print_r($value['oname']);
 				// pre_print_r('</b>');
@@ -49,6 +85,7 @@ foreach ($o_u_duplicate_list as $key => $value) {
 	}
 }
 
+exit;
 
 // both id of uname and links are inserted.
 // pre_print_r($o_u_duplicate_list_id);
