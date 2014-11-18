@@ -32,6 +32,7 @@ foreach ($o_arr as $ober) {
 }
 
 
+// split both globReg & tmpxml to duplicate($o_u_id) & unduplicated($duplicate_arr);
 array_to_file($o_u_id);
 array_to_file($duplicate_arr);
 // all the unduplicate words array are put in $o_u_id;
