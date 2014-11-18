@@ -122,16 +122,15 @@ foreach ($u_duplicate as $key => $value) {
 	}
 }
 
-// pre_print_r(count($u_duplicate));
+// pre_print_r(count($u_duplicate)); // 201
 // pre_print_r($u_duplicate);
 array_to_file($u_duplicate);
 
-
-for ($i=0; $i < count($u_duplicate); $i++) { 
-	if(empty($u_duplicate[$i])){
-		unset($u_duplicate[$i]);
-	}
-}
+// foreach ($u_duplicate as $key => $value) {
+// 	if(empty($u_duplicate[$key])){
+// 		unset($u_duplicate[$key]);
+// 	}
+// }
 
 function unique_uname_link($arr){
 	$container=array();
@@ -172,7 +171,7 @@ foreach ($duplicate_uname_volcabulary_list as $key => $value) {
 }
 
 // pre_print_r(count($o_u_id));
-pre_print_r("<p>xxx</p><h3><a href='./import_from_2.php'>Next</a></h3>");
+pre_print_r("<p><h3>id for ober & duplicated unter</h3></p><h3><a href='./import_from_2.php'>Next</a></h3>");
 pre_print_r($o_u_id);
 array_to_file($o_u_id);
 // $tmp = $k.sprintf("_%03d",$j);
