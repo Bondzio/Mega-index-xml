@@ -127,6 +127,7 @@ foreach ($duplicate_arr as $key => $value) {
 
 // change 3 entry as 1 entry arr, add all entries to one;
 foreach ($duplicate_arr as $key => $value) {
+
 	if(array_key_exists('unterBegriff', $value[0])){
 		$unter_arr = $value[0]['unterBegriff'];
 		foreach ($unter_arr as $k => $v) {
@@ -152,14 +153,17 @@ foreach ($duplicate_arr as $key => $value) {
 						unset($duplicate_arr[$key][0]['unterBegriff'][$k]['group'][$k_group]);
 				}
 			}else{
-				$tmp = $v;
-				// pre_print_r($tmp['group']['entry']);
-				unset($duplicate_arr[$key][0]['unterBegriff']['group']['entry']);
-				$duplicate_arr[$key][0]['unterBegriff'][0]['group']['entry'] = array(0 => $tmp['group']['entry']);
+			// if(array_key_exists(0, $v['group'])){
+				$tmp = array(0 => $v['group']['entry']);
+				// pre_print_r($v['group']['entry']);
+				// pre_print_r(count($duplicate_arr[$key][1]['unterBegriff']));
+				foreach ($duplicate_arr[$key][0]['unterBegriff'] as $k_tmp => $v_tmp) {
+					unset($duplicate_arr[$key][0]['unterBegriff'][$k_tmp]['group']['entry']);
+					$duplicate_arr[$key][0]['unterBegriff'][$k_tmp]['group']['entry'] = $tmp;
+				}
 			}
 		}
 	}
-
 
 // copy code from upper, change 0 to 1;
 	if(array_key_exists('unterBegriff', $value[1])){
@@ -184,17 +188,23 @@ foreach ($duplicate_arr as $key => $value) {
 						unset($duplicate_arr[$key][1]['unterBegriff'][$k]['group'][$k_group]);
 				}
 			}else{
-				$tmp = $v;
-				unset($duplicate_arr[$key][1]['unterBegriff']['group']['entry']);
-				$duplicate_arr[$key][1]['unterBegriff'][0]['group']['entry'] = array(0 => $tmp['group']['entry']);
+				// if(array_key_exists(0, $v['group'])){
+				$tmp = array(0 => $v['group']['entry']);
+				// pre_print_r($v['group']['entry']);
+				// pre_print_r(count($duplicate_arr[$key][1]['unterBegriff']));
+				foreach ($duplicate_arr[$key][1]['unterBegriff'] as $k_tmp => $v_tmp) {
+					unset($duplicate_arr[$key][1]['unterBegriff'][$k_tmp]['group']['entry']);
+					$duplicate_arr[$key][1]['unterBegriff'][$k_tmp]['group']['entry'] = $tmp;
+				}
 			}
 		}
 	}
 }
 
 
-pre_print_r($duplicate_arr);
-exit;
+// pre_print_r($duplicate_arr);
+// pre_print_r($o_u_duplicate_list_id);
+// exit;
 
 foreach ($o_u_duplicate_list_id as $key => $value) {
 	$oname = $o_u_duplicate_list_id[$key]['oname'];
@@ -202,101 +212,83 @@ foreach ($o_u_duplicate_list_id as $key => $value) {
 	if(array_key_exists('unterBegriff', $value)){
 		$unter_arr = $o_u_duplicate_list_id[$key]['unterBegriff'];
 		foreach ($unter_arr as $k => $v) {
-			// pre_print_r($k.$v);
+			// pre_print_r($k.' => '.$v);
 			$o_u_duplicate_list_id[$key]['unterBegriff'][$k] = array('uname' => $v);
 
+			// $u_duplicate contains all both ober&unter duplicate arrs;
 			if(array_key_exists(0, $u_duplicate[$oname])){
 			if(in_array($v, $u_duplicate[$oname][0])){
-				// pre_print_r($k.$v);
+				// pre_print_r($k.' => '.$v);
 				// pre_print_r($duplicate_arr[$key]);
 				// foreach array 0 and array 1;
-				// pre_print_r($duplicate_arr[$key][1]);
-
 				foreach ($duplicate_arr[$key] as $tmp_glob) {
-					// pre_print_r($tmp_glob['unterBegriff']);
+					if(array_key_exists('unterBegriff', $tmp_glob)){
 					foreach ($tmp_glob['unterBegriff'] as $unter_k => $unter_v) {
-						// pre_print_r($unter_v['uname']);
-						// pre_print_r($v);
 						if($unter_v['uname'] == $v){
-							// pre_print_r($unter_v['uname']);
-						}
-
-
-
-						// if(array_key_exists('uname', $unter_v)){
-
-						// }else{
-						// 	pre_print_r($unter_v);
-						// }
-
+							foreach ($unter_v['group']['entry'] as $un_key => $un_value) {
+								$o_u_duplicate_list_id[$key]['unterBegriff'][$k]['entry'][] = $un_value;
+								}
+							}						
 						}
 					}
-				}
-				// exit;
-				}
-			}
-
-
-		}
-	}
-
-
-// pre_print_r($o_u_duplicate_list_id);
-exit;
-$merged_duplicate_arr = array_fill_keys(array_keys($duplicate_arr),array());
-
-foreach ($duplicate_arr as $key => $value) {
-	$tmp_uname = $duplicate_arr[$key][0];
-
-	if(array_key_exists('unterBegriff', $tmp_uname)){
-		if(array_key_exists('uname', $tmp_uname['unterBegriff'])){
-			$needle = $tmp_uname['unterBegriff']['uname'];
-
-			if(array_key_exists(0, $u_duplicate[$tmp_uname['oname']])){
-				if(in_array($needle, $u_duplicate[$tmp_uname['oname']][0])){
-					// pre_print_r($key." : ".$needle);
-					// pre_print_r($u_duplicate[$needle]);
-					// pre_print_r($needle);
-					// duplicated uname;
-					// do something here to merge two uname array;
-					// pre_print_r($tmp_uname['unterBegriff']);
-
-					$merged_duplicate_arr[$key]['oname'] = $tmp_uname['oname'];
-					// $merged_duplicate_arr[$key]['unterBegriff'] = 
-
-
-
-				}else{
-					// since not in array of duplcated uname,
-					// no need to merge, just insert to array.
+					// else{
+					// 	// those arr without unterBegriff;
+					// 	pre_print_r($tmp_glob);
+					// }
 				}
 			}else{
-				// pre_print_r($tmp_uname['oname']);
-			}
-		}else{
-			// pre_print_r($tmp_uname);
-			foreach ($tmp_uname['unterBegriff'] as $k => $v) {
-				if(array_key_exists(0, $u_duplicate[$tmp_uname['oname']])){
-					if(in_array($v['uname'], $u_duplicate[$tmp_uname['oname']][0])){
-						// pre_print_r($v['uname']);
-						// duplicated uname;
-						// do something here to merge two uname array;
-						}else{
-							// duplicated uname;
-							// do something here to merge two uname array;
+					// if(in_array($v, $u_duplicate[$oname][0])){
+					// since $v is not in $u_duplicate[$oname][0], so this is not ober&unter duplicated word;
+					// pre_print_r($oname." => ".$v);
+					foreach ($duplicate_arr[$key] as $tmp_glob) {
+						if(array_key_exists('unterBegriff', $tmp_glob)){
+						foreach ($tmp_glob['unterBegriff'] as $unter_k => $unter_v) {
+							if($unter_v['uname'] == $v){
+								foreach ($unter_v['group']['entry'] as $un_key => $un_value) {
+									$o_u_duplicate_list_id[$key]['unterBegriff'][$k]['entry'][] = $un_value;
+									}
+								}						
+							}
 						}
+						// else{
+						// 	// those arr without unterBegriff;
+						// 	pre_print_r($tmp_glob);
+						// }
 					}
 				}
+
+				}else{
+					// if(array_key_exists(0, $u_duplicate[$oname])){
+					// since $u_duplicate[$oname][0] is not exist, so this is not ober&unter duplicated word;
+					// $u_duplicate[$oname] may is empty, or only contains links array, which key is 1;
+					// pre_print_r($oname." => ".$v);
+					foreach ($duplicate_arr[$key] as $tmp_glob) {
+						if(array_key_exists('unterBegriff', $tmp_glob)){
+						foreach ($tmp_glob['unterBegriff'] as $unter_k => $unter_v) {
+							if($unter_v['uname'] == $v){
+								foreach ($unter_v['group']['entry'] as $un_key => $un_value) {
+									$o_u_duplicate_list_id[$key]['unterBegriff'][$k]['entry'][] = $un_value;
+									}
+								}						
+							}
+						}
+						// else{
+						// 	// those arr without unterBegriff;
+						// 	pre_print_r($tmp_glob);
+						// }
+					}
+
+				}
+			}
+
+
 		}
-	}else{
-		// don't have uname;
-		// only has links are duplicated
-		// pre_print_r($tmp_uname);
 	}
 
-	// $glb_oname = $duplicate_arr[$key][1]['oname'];
-	// pre_print_r($tmp_uname);
-}
 
+// pre_print_r($unterBegriff_tmp_glob);
+// pre_print_r($o_u_duplicate_list_id);
+// $o_u_duplicate_list_id includes all the info of both ober&unter are duplicated words;
+// pre_print_r(count($o_u_duplicate_list_id));  //201
+exit;
 
-pre_print_r($merged_duplicate_arr);
