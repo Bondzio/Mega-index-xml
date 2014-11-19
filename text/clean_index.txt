@@ -56,7 +56,7 @@ Agrikultur (Ackerbau) 316
 - und Viehzucht 661
 - und relative Überproduktion 657
 - und Jahreszeiten 121
-# Boden; Feudalismus; Fortschritt; Grundeigentum; Kapital, fixes; Kapitalanlage; Produktionsverhältnisse,    kapitalistische; Produktionsweise, kapitalistische; Statistik; Viehzucht; Warenproduktion, kapitalistische
+# Boden; Feudalismus; Fortschritt; Grundeigentum; Kapital, fixes; Kapitalanlage; Produktionsverhältnisse, kapitalistische; Produktionsweise, kapitalistische; Statistik; Viehzucht; Warenproduktion, kapitalistische
 Agrikulturarbeit (Ackerbauarbeit) 760
 - Produktion der Nahrungsmittel erste Bedingung aller Produktion 622 623
 - naturwüchsige Produktivität 620 622 744 758 761 791
@@ -1487,7 +1487,7 @@ Geld als Weltgeld 312 461 482
 - und Geldmenge 530
 - und Geld als Schatz 442-444 530 559 588
 - und Handelskapital 324
-# Geldhandel; Gold und Silber; Goldab-und -zufluß
+# Geldhandel; Gold und Silber; Goldab- und -zufluß
 Geldakkomodation 399 407 437 438 441 442 444 447 448 450 548 569 577 579
 Geldhandel 318
 - Geschichte 310-313 591 592
@@ -2018,7 +2018,7 @@ Holland 325
 - Musterland der ökonomischen Entwicklung im 17. Jh. 592
 - Geld- und Bankwesen 311 312 592
 - Handel 321 324 326 580 592
-Holländisch-Ostindische Kompanie 300 301 322
+Holländisch-Ostindische Kompagnie 300 301 322
 Hungersnot 489
 - europäische von 1847<br /> 655
 - im Römischen Reich 589
@@ -2521,7 +2521,7 @@ Kommunismus (als ökonomische Gesellschaftsformation) 620
 # Produktion, assoziierte
 Kommunismus, naturwüchsiger 325 326 806 849
 Kompagnien
-# Holländisch-Ostindische	Kompagnie; Ostindische Kompagnie
+# Holländisch-Ostindische Kompagnie; Ostindische Kompagnie
 Kompensation 144 360
 - Kompensationsgründe der Kapitalisten beim Durchschnittsprofit 207 208 373
 - der Abnahme der Naturkraft 744
@@ -3256,7 +3256,7 @@ Monopolisierung von Naturkräften 630 632 633 749
 - und Konkurrenz 123 194 196 234 235 429
 - und Expropriation 429
 - und Staatseinmischung 429
-# Kartell; Trust
+# Kartelle; Trust
 Monopolpreis 824
 - und Wertgesetz 834
 - und Grundrente 735 739-742 745 245-247 776 780 785 807 828 834
@@ -3384,7 +3384,7 @@ Obligationen 530 570
 Ökonomie und Politik 326 511 586 587 614 766 767
 Opiumhandel 545
 Opiumkrieg 398
-Ostindische Kompanie 380 530 533 569 570 573 593
+Ostindische Kompagnie 380 530 533 569 570 573 593
 Pacht
 - Pachtzins, Pachtgeld und Rente 245-247 611-615 617 621 659 733-735 750 779 785 844 846
 - Dauer 608 615 659 660 688 729 730 732 754 774
