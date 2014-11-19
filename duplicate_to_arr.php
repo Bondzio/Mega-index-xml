@@ -17,6 +17,7 @@ foreach ($word_id as $key => $value) {
 	}
 }
 
+array_to_file($word_id_for_link);
 // pre_print_r($word_id_for_link);
 // exit;
 
@@ -287,8 +288,9 @@ foreach ($o_u_duplicate_list_id as $key => $value) {
 
 
 // pre_print_r($unterBegriff_tmp_glob);
-// pre_print_r($o_u_duplicate_list_id);
-// $o_u_duplicate_list_id includes all the info of both ober&unter are duplicated words;
 // pre_print_r(count($o_u_duplicate_list_id));  //201
-exit;
+pre_print_r("<p><h3>Merge ober&unter-duplicated words</h3></p><h3><a href='./unduplicate_to_arr.php'>Next</a></h3>");
+// pre_print_r($o_u_duplicate_list_id);
+array_to_file($o_u_duplicate_list_id);
+// $o_u_duplicate_list_id includes all the info of both ober&unter are duplicated words;
 
