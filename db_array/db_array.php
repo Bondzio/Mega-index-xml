@@ -383,7 +383,7 @@
     379 => 'Historisches und Logisches',
     380 => 'Hörige, Hörigkeit',
     381 => 'Holland',
-    382 => 'Holländisch-Ostindische Kompanie',
+    382 => 'Holländisch-Ostindische Kompagnie',
     383 => 'Hungersnot',
     384 => 'Hypothek',
     385 => 'Hypothese',
@@ -626,7 +626,7 @@
     622 => 'Ökonomie und Politik',
     623 => 'Opiumhandel',
     624 => 'Opiumkrieg',
-    625 => 'Ostindische Kompanie',
+    625 => 'Ostindische Kompagnie',
     626 => 'Pacht',
     627 => 'Pächter',
     628 => 'Panamaschwindel',
@@ -18353,7 +18353,7 @@
 ',
     8 => '# Austausch
 ',
-    9 => '# Boden; Feudalismus; Fortschritt; Grundeigentum; Kapital, fixes; Kapitalanlage; Produktionsverhältnisse,    kapitalistische; Produktionsweise, kapitalistische; Statistik; Viehzucht; Warenproduktion, kapitalistische
+    9 => '# Boden; Feudalismus; Fortschritt; Grundeigentum; Kapital, fixes; Kapitalanlage; Produktionsverhältnisse, kapitalistische; Produktionsweise, kapitalistische; Statistik; Viehzucht; Warenproduktion, kapitalistische
 ',
     13 => '# Bedarf; Grundrente; Grundrente, absolute; Markt
 ',
@@ -18577,7 +18577,7 @@
 ',
     288 => '# Gold und Silber
 ',
-    289 => '# Geldhandel; Gold und Silber; Goldab-und -zufluß
+    289 => '# Geldhandel; Gold und Silber; Goldab- und -zufluß
 ',
     291 => '# Banken
 ',
@@ -18729,7 +18729,7 @@
 ',
     471 => '# Produktion, assoziierte
 ',
-    473 => '# Holländisch-Ostindische	Kompagnie; Ostindische Kompagnie
+    473 => '# Holländisch-Ostindische Kompagnie; Ostindische Kompagnie
 ',
     476 => '# Durchschnittsprofit; Durchschnittsprofitrate
 ',
@@ -18819,7 +18819,7 @@
 ',
     586 => '# Bauern; Feudalismus; Kaufmann
 ',
-    592 => '# Kartell; Trust
+    592 => '# Kartelle; Trust
 ',
     597 => '# Entfremdung; Fetischismus; Zins
 ',
