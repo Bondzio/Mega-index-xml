@@ -7,6 +7,8 @@ include './db_array/db_u_duplicate.php';
 include './db_array/db_duplicate_arr.php';
 require_once('./utility.php');
 
+
+
 // generate word_id for link. remove "," or "(" in ober.
 $pattern = "/(.*?)(,\s|\s\()(.*)/"; 
 $word_id_for_link = array();
@@ -87,6 +89,8 @@ foreach ($o_u_duplicate_list as $key => $value) {
 }
 
 
+
+
 // both id of uname and links are inserted.
 // pre_print_r($u_duplicate);
 // pre_print_r($o_u_duplicate_list_id);
@@ -125,7 +129,6 @@ foreach ($duplicate_arr as $key => $value) {
 	}
 }
 
-
 // change 3 entry as 1 entry arr, add all entries to one;
 foreach ($duplicate_arr as $key => $value) {
 
@@ -155,8 +158,13 @@ foreach ($duplicate_arr as $key => $value) {
 				}
 			}else{
 			// if(array_key_exists(0, $v['group'])){
-				$tmp = array(0 => $v['group']['entry']);
-				// pre_print_r($v['group']['entry']);
+				if(array_key_exists(0, $v['group']['entry'])){
+					$tmp = $v['group']['entry'];
+				}else{
+					$tmp = array( 0 => $v['group']['entry']);
+				}
+
+				// pre_print_r($tmp);
 				// pre_print_r(count($duplicate_arr[$key][1]['unterBegriff']));
 				foreach ($duplicate_arr[$key][0]['unterBegriff'] as $k_tmp => $v_tmp) {
 					unset($duplicate_arr[$key][0]['unterBegriff'][$k_tmp]['group']['entry']);
@@ -190,7 +198,12 @@ foreach ($duplicate_arr as $key => $value) {
 				}
 			}else{
 				// if(array_key_exists(0, $v['group'])){
-				$tmp = array(0 => $v['group']['entry']);
+				if(array_key_exists(0, $v['group']['entry'])){
+					$tmp = $v['group']['entry'];
+				}else{
+					$tmp = array( 0 => $v['group']['entry']);
+				}
+				// $tmp = array(0 => $v['group']['entry']);
 				// pre_print_r($v['group']['entry']);
 				// pre_print_r(count($duplicate_arr[$key][1]['unterBegriff']));
 				foreach ($duplicate_arr[$key][1]['unterBegriff'] as $k_tmp => $v_tmp) {
@@ -226,6 +239,7 @@ foreach ($o_u_duplicate_list_id as $key => $value) {
 					if(array_key_exists('unterBegriff', $tmp_glob)){
 					foreach ($tmp_glob['unterBegriff'] as $unter_k => $unter_v) {
 						if($unter_v['uname'] == $v){
+							// pre_print_r(array_keys($unter_v['group']['entry']));
 							foreach ($unter_v['group']['entry'] as $un_key => $un_value) {
 								$o_u_duplicate_list_id[$key]['unterBegriff'][$k]['entry'][] = $un_value;
 								}
@@ -291,6 +305,7 @@ foreach ($o_u_duplicate_list_id as $key => $value) {
 // pre_print_r(count($o_u_duplicate_list_id));  //201
 pre_print_r("<p><h3>Merge ober&unter-duplicated words</h3></p><h3><a href='./unduplicate_to_arr.php'>Next</a></h3>");
 // pre_print_r($o_u_duplicate_list_id);
+pre_print_r($o_u_duplicate_list_id['A0103']);
 array_to_file($o_u_duplicate_list_id);
 // $o_u_duplicate_list_id includes all the info of both ober&unter are duplicated words;
 
