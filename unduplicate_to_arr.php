@@ -51,7 +51,12 @@ foreach ($unduplicate_arr as $key => $value) {
 					// pre_print_r($v['group']['entry']);
 					// pre_print_r(count($unduplicate_arr[$key][1]['unterBegriff']));
 
-					$tmp = array(0 => $v['group']['entry']);
+						if(array_key_exists(0, $v['group']['entry'])){
+							$tmp = $v['group']['entry'];
+						}else{
+							$tmp = array( 0 => $v['group']['entry']);
+						}	
+
 					foreach ($unduplicate_arr[$key]['unterBegriff'] as $k_tmp => $v_tmp) {
 						unset($unduplicate_arr[$key]['unterBegriff'][$k_tmp]['group']['entry']);
 						$unduplicate_arr[$key]['unterBegriff'][$k_tmp]['entry'] = $tmp;
