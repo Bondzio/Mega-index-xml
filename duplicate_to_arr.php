@@ -305,7 +305,6 @@ foreach ($o_u_duplicate_list_id as $key => $value) {
 // pre_print_r(count($o_u_duplicate_list_id));  //201
 pre_print_r("<p><h3>Merge ober&unter-duplicated words</h3></p><h3><a href='./unduplicate_to_arr.php'>Next</a></h3>");
 // pre_print_r($o_u_duplicate_list_id);
-pre_print_r($o_u_duplicate_list_id['A0103']);
 array_to_file($o_u_duplicate_list_id);
 // $o_u_duplicate_list_id includes all the info of both ober&unter are duplicated words;
 

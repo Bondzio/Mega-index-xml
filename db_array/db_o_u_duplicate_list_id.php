@@ -1764,66 +1764,63 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Akkumulationsrate',
+            'book' => '11',
+            'startPage' => '822',
+            'endPage' => 
             array (
-              'name' => 'Akkumulationsrate',
-              'book' => '11',
-              'startPage' => '822',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Accumulationsrate',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '27',
+            'endLine' => 
             array (
-              'name' => 'Akkumulationsrate',
-              'book' => '12',
-              'startPage' => '480',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '19',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Akkumulationsrate',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Accumulationsrate',
+            'endTerm' => 
             array (
-              'name' => 'Akkumulationsrate',
-              'book' => '13',
-              'startPage' => '483',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '10',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Akkumula-tionsrate',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Akkumulationsrate',
+            'book' => '12',
+            'startPage' => '480',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '19',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Akkumulationsrate',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Akkumulationsrate',
+            'book' => '13',
+            'startPage' => '483',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '10',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Akkumula-tionsrate',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Akkumulationsrate',
             'book' => '15',
@@ -1844,7 +1841,7 @@
             array (
             ),
           ),
-          2 => 
+          4 => 
           array (
             'name' => 'Akkumulationsrate',
             'book' => '15',
@@ -10780,41 +10777,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => '777',
-              'startLine' => '33',
-              'endLine' => '37',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
-            1 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => '442',
-              'startLine' => '21',
-              'endLine' => '24',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
-            2 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => '445',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => '777',
+            'startLine' => '33',
+            'endLine' => '37',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
           ),
           1 => 
+          array (
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => '442',
+            'startLine' => '21',
+            'endLine' => '24',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => '445',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
+          ),
+          3 => 
           array (
             'name' => 'p. A. als Mehrwert setzende A.',
             'book' => '15',
@@ -10872,39 +10866,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => '777',
-              'startLine' => '33',
-              'endLine' => '37',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
-            1 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => '442',
-              'startLine' => '21',
-              'endLine' => '24',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
-            2 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => '445',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => '777',
+            'startLine' => '33',
+            'endLine' => '37',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
+          ),
+          1 => 
+          array (
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => '442',
+            'startLine' => '21',
+            'endLine' => '24',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => '445',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
           ),
         ),
       ),
@@ -10915,39 +10906,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => '777',
-              'startLine' => '33',
-              'endLine' => '37',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
-            1 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => '442',
-              'startLine' => '21',
-              'endLine' => '24',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
-            2 => 
-            array (
-              'name' => 'Sklavenarbeit als p. A.',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => '445',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Aber',
-              'endTerm' => 'bei',
-            ),
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => '777',
+            'startLine' => '33',
+            'endLine' => '37',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
+          ),
+          1 => 
+          array (
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => '442',
+            'startLine' => '21',
+            'endLine' => '24',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavenarbeit als p. A.',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => '445',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Aber',
+            'endTerm' => 'bei',
           ),
         ),
       ),
@@ -11347,39 +11335,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11474,39 +11459,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11517,39 +11499,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11560,39 +11539,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11631,39 +11607,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11674,39 +11647,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11717,39 +11687,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11760,39 +11727,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11831,39 +11795,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -11874,39 +11835,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '11',
-              'startPage' => '742',
-              'endPage' => '742',
-              'startLine' => '34',
-              'endLine' => '38',
-              'startTerm' => 'Es',
-              'endTerm' => 'Crise.',
-            ),
-            1 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '12',
-              'startPage' => '374',
-              'endPage' => '374',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
-            2 => 
-            array (
-              'name' => 'und ökonomische Krise',
-              'book' => '13',
-              'startPage' => '382',
-              'endPage' => '382',
-              'startLine' => '18',
-              'endLine' => '21',
-              'startTerm' => 'Es',
-              'endTerm' => 'Krise',
-            ),
+            'name' => 'und ökonomische Krise',
+            'book' => '11',
+            'startPage' => '742',
+            'endPage' => '742',
+            'startLine' => '34',
+            'endLine' => '38',
+            'startTerm' => 'Es',
+            'endTerm' => 'Crise.',
+          ),
+          1 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '12',
+            'startPage' => '374',
+            'endPage' => '374',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
+          ),
+          2 => 
+          array (
+            'name' => 'und ökonomische Krise',
+            'book' => '13',
+            'startPage' => '382',
+            'endPage' => '382',
+            'startLine' => '18',
+            'endLine' => '21',
+            'startTerm' => 'Es',
+            'endTerm' => 'Krise',
           ),
         ),
       ),
@@ -19445,28 +19403,25 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'als Mittel für Verwertungsprozeß',
-              'book' => '12',
-              'startPage' => '123',
-              'endPage' => '123',
-              'startLine' => '31',
-              'endLine' => '32',
-              'startTerm' => 'Wie',
-              'endTerm' => 'erscheint',
-            ),
-            1 => 
-            array (
-              'name' => 'als Mittel für Verwertungsprozeß',
-              'book' => '13',
-              'startPage' => '142',
-              'endPage' => '142',
-              'startLine' => '7',
-              'endLine' => '8',
-              'startTerm' => 'Wie',
-              'endTerm' => 'erscheint',
-            ),
+            'name' => 'als Mittel für Verwertungsprozeß',
+            'book' => '12',
+            'startPage' => '123',
+            'endPage' => '123',
+            'startLine' => '31',
+            'endLine' => '32',
+            'startTerm' => 'Wie',
+            'endTerm' => 'erscheint',
+          ),
+          1 => 
+          array (
+            'name' => 'als Mittel für Verwertungsprozeß',
+            'book' => '13',
+            'startPage' => '142',
+            'endPage' => '142',
+            'startLine' => '7',
+            'endLine' => '8',
+            'startTerm' => 'Wie',
+            'endTerm' => 'erscheint',
           ),
         ),
       ),
@@ -19615,28 +19570,25 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'als Mittel für Verwertungsprozeß',
-              'book' => '12',
-              'startPage' => '123',
-              'endPage' => '123',
-              'startLine' => '31',
-              'endLine' => '32',
-              'startTerm' => 'Wie',
-              'endTerm' => 'erscheint',
-            ),
-            1 => 
-            array (
-              'name' => 'als Mittel für Verwertungsprozeß',
-              'book' => '13',
-              'startPage' => '142',
-              'endPage' => '142',
-              'startLine' => '7',
-              'endLine' => '8',
-              'startTerm' => 'Wie',
-              'endTerm' => 'erscheint',
-            ),
+            'name' => 'als Mittel für Verwertungsprozeß',
+            'book' => '12',
+            'startPage' => '123',
+            'endPage' => '123',
+            'startLine' => '31',
+            'endLine' => '32',
+            'startTerm' => 'Wie',
+            'endTerm' => 'erscheint',
+          ),
+          1 => 
+          array (
+            'name' => 'als Mittel für Verwertungsprozeß',
+            'book' => '13',
+            'startPage' => '142',
+            'endPage' => '142',
+            'startLine' => '7',
+            'endLine' => '8',
+            'startTerm' => 'Wie',
+            'endTerm' => 'erscheint',
           ),
         ),
       ),
@@ -19748,28 +19700,25 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'als Mittel für Verwertungsprozeß',
-              'book' => '12',
-              'startPage' => '123',
-              'endPage' => '123',
-              'startLine' => '31',
-              'endLine' => '32',
-              'startTerm' => 'Wie',
-              'endTerm' => 'erscheint',
-            ),
-            1 => 
-            array (
-              'name' => 'als Mittel für Verwertungsprozeß',
-              'book' => '13',
-              'startPage' => '142',
-              'endPage' => '142',
-              'startLine' => '7',
-              'endLine' => '8',
-              'startTerm' => 'Wie',
-              'endTerm' => 'erscheint',
-            ),
+            'name' => 'als Mittel für Verwertungsprozeß',
+            'book' => '12',
+            'startPage' => '123',
+            'endPage' => '123',
+            'startLine' => '31',
+            'endLine' => '32',
+            'startTerm' => 'Wie',
+            'endTerm' => 'erscheint',
+          ),
+          1 => 
+          array (
+            'name' => 'als Mittel für Verwertungsprozeß',
+            'book' => '13',
+            'startPage' => '142',
+            'endPage' => '142',
+            'startLine' => '7',
+            'endLine' => '8',
+            'startTerm' => 'Wie',
+            'endTerm' => 'erscheint',
           ),
         ),
       ),
@@ -21974,84 +21923,81 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Aktienwesen',
+            'book' => '11',
+            'startPage' => '346',
+            'endPage' => 
             array (
-              'name' => 'Aktienwesen',
-              'book' => '11',
-              'startPage' => '346',
-              'endPage' => 
+            ),
+            'startLine' => '39',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Aktienwesen',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Aktienwesen',
+            'book' => '12',
+            'startPage' => '320',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '33',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => '39',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Aktienwesen',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            1 => 
+            'endLine' => 
             array (
-              'name' => 'Aktienwesen',
-              'book' => '12',
-              'startPage' => '320',
-              'endPage' => 
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Aktiengesell-schaften',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '33',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Aktiengesell-schaften',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endTerm' => 
             array (
-              'name' => 'Aktienwesen',
-              'book' => '13',
-              'startPage' => '332',
-              'endPage' => 
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Aktienwesen',
+            'book' => '13',
+            'startPage' => '332',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '1',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => 
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Aktiengesell-schaften',
+              '@attributes' => 
               array (
-                '@content' => '1',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Aktiengesell-schaften',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -22269,39 +22215,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '646',
-              'startLine' => '34',
-              'endLine' => '39',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '7',
-              'endLine' => '14',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '12',
-              'endLine' => '19',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '646',
+            'startLine' => '34',
+            'endLine' => '39',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '7',
+            'endLine' => '14',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '12',
+            'endLine' => '19',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
           ),
         ),
       ),
@@ -22312,39 +22255,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '646',
-              'startLine' => '34',
-              'endLine' => '39',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '7',
-              'endLine' => '14',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '12',
-              'endLine' => '19',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '646',
+            'startLine' => '34',
+            'endLine' => '39',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '7',
+            'endLine' => '14',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '12',
+            'endLine' => '19',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
           ),
         ),
       ),
@@ -22691,39 +22631,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '646',
-              'startLine' => '34',
-              'endLine' => '39',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '7',
-              'endLine' => '14',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '12',
-              'endLine' => '19',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '646',
+            'startLine' => '34',
+            'endLine' => '39',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '7',
+            'endLine' => '14',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '12',
+            'endLine' => '19',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
           ),
         ),
       ),
@@ -22818,39 +22755,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '646',
-              'startLine' => '34',
-              'endLine' => '39',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '7',
-              'endLine' => '14',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '12',
-              'endLine' => '19',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '646',
+            'startLine' => '34',
+            'endLine' => '39',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '7',
+            'endLine' => '14',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '12',
+            'endLine' => '19',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
           ),
         ),
       ),
@@ -22861,39 +22795,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '646',
-              'startLine' => '34',
-              'endLine' => '39',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '7',
-              'endLine' => '14',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '12',
-              'endLine' => '19',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '646',
+            'startLine' => '34',
+            'endLine' => '39',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '7',
+            'endLine' => '14',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '12',
+            'endLine' => '19',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
           ),
         ),
       ),
@@ -22932,39 +22863,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '646',
-              'startLine' => '34',
-              'endLine' => '39',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '7',
-              'endLine' => '14',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verselbständigung des Werts',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '12',
-              'endLine' => '19',
-              'startTerm' => 'Wenn',
-              'endTerm' => 'vergleicht',
-            ),
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '646',
+            'startLine' => '34',
+            'endLine' => '39',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '7',
+            'endLine' => '14',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verselbständigung des Werts',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '12',
+            'endLine' => '19',
+            'startTerm' => 'Wenn',
+            'endTerm' => 'vergleicht',
           ),
         ),
       ),
@@ -26102,39 +26030,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '11',
-              'startPage' => '612',
-              'endPage' => '612',
-              'startLine' => '40',
-              'endLine' => '44',
-              'startTerm' => 'Die',
-              'endTerm' => 'haben.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '52',
-              'startLine' => '36',
-              'endLine' => '1',
-              'startTerm' => 'Der',
-              'endTerm' => 'haben',
-            ),
-            2 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '13',
-              'startPage' => '71',
-              'endPage' => '71',
-              'startLine' => '13',
-              'endLine' => '19',
-              'startTerm' => 'Der',
-              'endTerm' => 'haben',
-            ),
+            'name' => 'und Produktion',
+            'book' => '11',
+            'startPage' => '612',
+            'endPage' => '612',
+            'startLine' => '40',
+            'endLine' => '44',
+            'startTerm' => 'Die',
+            'endTerm' => 'haben.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Produktion',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '52',
+            'startLine' => '36',
+            'endLine' => '1',
+            'startTerm' => 'Der',
+            'endTerm' => 'haben',
+          ),
+          2 => 
+          array (
+            'name' => 'und Produktion',
+            'book' => '13',
+            'startPage' => '71',
+            'endPage' => '71',
+            'startLine' => '13',
+            'endLine' => '19',
+            'startTerm' => 'Der',
+            'endTerm' => 'haben',
           ),
         ),
       ),
@@ -26285,39 +26210,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '11',
-              'startPage' => '612',
-              'endPage' => '612',
-              'startLine' => '40',
-              'endLine' => '44',
-              'startTerm' => 'Die',
-              'endTerm' => 'haben.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '52',
-              'startLine' => '36',
-              'endLine' => '1',
-              'startTerm' => 'Der',
-              'endTerm' => 'haben',
-            ),
-            2 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '13',
-              'startPage' => '71',
-              'endPage' => '71',
-              'startLine' => '13',
-              'endLine' => '19',
-              'startTerm' => 'Der',
-              'endTerm' => 'haben',
-            ),
+            'name' => 'und Produktion',
+            'book' => '11',
+            'startPage' => '612',
+            'endPage' => '612',
+            'startLine' => '40',
+            'endLine' => '44',
+            'startTerm' => 'Die',
+            'endTerm' => 'haben.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Produktion',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '52',
+            'startLine' => '36',
+            'endLine' => '1',
+            'startTerm' => 'Der',
+            'endTerm' => 'haben',
+          ),
+          2 => 
+          array (
+            'name' => 'und Produktion',
+            'book' => '13',
+            'startPage' => '71',
+            'endPage' => '71',
+            'startLine' => '13',
+            'endLine' => '19',
+            'startTerm' => 'Der',
+            'endTerm' => 'haben',
           ),
         ),
       ),
@@ -26356,39 +26278,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '11',
-              'startPage' => '612',
-              'endPage' => '612',
-              'startLine' => '40',
-              'endLine' => '44',
-              'startTerm' => 'Die',
-              'endTerm' => 'haben.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '52',
-              'startLine' => '36',
-              'endLine' => '1',
-              'startTerm' => 'Der',
-              'endTerm' => 'haben',
-            ),
-            2 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '13',
-              'startPage' => '71',
-              'endPage' => '71',
-              'startLine' => '13',
-              'endLine' => '19',
-              'startTerm' => 'Der',
-              'endTerm' => 'haben',
-            ),
+            'name' => 'und Produktion',
+            'book' => '11',
+            'startPage' => '612',
+            'endPage' => '612',
+            'startLine' => '40',
+            'endLine' => '44',
+            'startTerm' => 'Die',
+            'endTerm' => 'haben.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Produktion',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '52',
+            'startLine' => '36',
+            'endLine' => '1',
+            'startTerm' => 'Der',
+            'endTerm' => 'haben',
+          ),
+          2 => 
+          array (
+            'name' => 'und Produktion',
+            'book' => '13',
+            'startPage' => '71',
+            'endPage' => '71',
+            'startLine' => '13',
+            'endLine' => '19',
+            'startTerm' => 'Der',
+            'endTerm' => 'haben',
           ),
         ),
       ),
@@ -26616,39 +26535,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '11',
-              'startPage' => '612',
-              'endPage' => '612',
-              'startLine' => '40',
-              'endLine' => '44',
-              'startTerm' => 'Die',
-              'endTerm' => 'haben.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '52',
-              'startLine' => '36',
-              'endLine' => '1',
-              'startTerm' => 'Der',
-              'endTerm' => 'haben',
-            ),
-            2 => 
-            array (
-              'name' => 'und Produktion',
-              'book' => '13',
-              'startPage' => '71',
-              'endPage' => '71',
-              'startLine' => '13',
-              'endLine' => '19',
-              'startTerm' => 'Der',
-              'endTerm' => 'haben',
-            ),
+            'name' => 'und Produktion',
+            'book' => '11',
+            'startPage' => '612',
+            'endPage' => '612',
+            'startLine' => '40',
+            'endLine' => '44',
+            'startTerm' => 'Die',
+            'endTerm' => 'haben.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Produktion',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '52',
+            'startLine' => '36',
+            'endLine' => '1',
+            'startTerm' => 'Der',
+            'endTerm' => 'haben',
+          ),
+          2 => 
+          array (
+            'name' => 'und Produktion',
+            'book' => '13',
+            'startPage' => '71',
+            'endPage' => '71',
+            'startLine' => '13',
+            'endLine' => '19',
+            'startTerm' => 'Der',
+            'endTerm' => 'haben',
           ),
         ),
       ),
@@ -29325,59 +29241,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Bradford',
+            'book' => '11',
+            'startPage' => '212',
+            'endPage' => 
             array (
-              'name' => 'Bradford',
-              'book' => '11',
-              'startPage' => '212',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '12',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Bradford',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '12',
+            'endLine' => 
             array (
-              'name' => 'Bradford',
-              'book' => '12',
-              'startPage' => '217',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '18',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Bradford',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Bradford',
+            'endTerm' => 
             array (
-              'name' => 'Bradford',
-              'book' => '13',
-              'startPage' => '234',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '21',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Bradford',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Bradford',
+            'book' => '12',
+            'startPage' => '217',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '18',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Bradford',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Bradford',
+            'book' => '13',
+            'startPage' => '234',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '21',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Bradford',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Bradford',
             'book' => '15',
@@ -29398,7 +29311,7 @@
             array (
             ),
           ),
-          2 => 
+          4 => 
           array (
             'name' => 'Bradford',
             'book' => '15',
@@ -31359,41 +31272,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und kapitalistische Produktionsweise',
-              'book' => '11',
-              'startPage' => '333',
-              'endPage' => '333',
-              'startLine' => '18',
-              'endLine' => '27',
-              'startTerm' => 'Sondern',
-              'endTerm' => 'Geld.',
-            ),
-            1 => 
-            array (
-              'name' => 'und kapitalistische Produktionsweise',
-              'book' => '12',
-              'startPage' => '305',
-              'endPage' => '306',
-              'startLine' => '40',
-              'endLine' => '9',
-              'startTerm' => 'Sondern',
-              'endTerm' => 'Geld',
-            ),
-            2 => 
-            array (
-              'name' => 'und kapitalistische Produktionsweise',
-              'book' => '13',
-              'startPage' => '319',
-              'endPage' => '319',
-              'startLine' => '7',
-              'endLine' => '16',
-              'startTerm' => 'Sondern',
-              'endTerm' => 'Geld',
-            ),
+            'name' => 'und kapitalistische Produktionsweise',
+            'book' => '11',
+            'startPage' => '333',
+            'endPage' => '333',
+            'startLine' => '18',
+            'endLine' => '27',
+            'startTerm' => 'Sondern',
+            'endTerm' => 'Geld.',
           ),
           1 => 
+          array (
+            'name' => 'und kapitalistische Produktionsweise',
+            'book' => '12',
+            'startPage' => '305',
+            'endPage' => '306',
+            'startLine' => '40',
+            'endLine' => '9',
+            'startTerm' => 'Sondern',
+            'endTerm' => 'Geld',
+          ),
+          2 => 
+          array (
+            'name' => 'und kapitalistische Produktionsweise',
+            'book' => '13',
+            'startPage' => '319',
+            'endPage' => '319',
+            'startLine' => '7',
+            'endLine' => '16',
+            'startTerm' => 'Sondern',
+            'endTerm' => 'Geld',
+          ),
+          3 => 
           array (
             'name' => 'für Luxusartikel',
             'book' => '15',
@@ -31528,39 +31438,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und kapitalistische Produktionsweise',
-              'book' => '11',
-              'startPage' => '333',
-              'endPage' => '333',
-              'startLine' => '18',
-              'endLine' => '27',
-              'startTerm' => 'Sondern',
-              'endTerm' => 'Geld.',
-            ),
-            1 => 
-            array (
-              'name' => 'und kapitalistische Produktionsweise',
-              'book' => '12',
-              'startPage' => '305',
-              'endPage' => '306',
-              'startLine' => '40',
-              'endLine' => '9',
-              'startTerm' => 'Sondern',
-              'endTerm' => 'Geld',
-            ),
-            2 => 
-            array (
-              'name' => 'und kapitalistische Produktionsweise',
-              'book' => '13',
-              'startPage' => '319',
-              'endPage' => '319',
-              'startLine' => '7',
-              'endLine' => '16',
-              'startTerm' => 'Sondern',
-              'endTerm' => 'Geld',
-            ),
+            'name' => 'und kapitalistische Produktionsweise',
+            'book' => '11',
+            'startPage' => '333',
+            'endPage' => '333',
+            'startLine' => '18',
+            'endLine' => '27',
+            'startTerm' => 'Sondern',
+            'endTerm' => 'Geld.',
+          ),
+          1 => 
+          array (
+            'name' => 'und kapitalistische Produktionsweise',
+            'book' => '12',
+            'startPage' => '305',
+            'endPage' => '306',
+            'startLine' => '40',
+            'endLine' => '9',
+            'startTerm' => 'Sondern',
+            'endTerm' => 'Geld',
+          ),
+          2 => 
+          array (
+            'name' => 'und kapitalistische Produktionsweise',
+            'book' => '13',
+            'startPage' => '319',
+            'endPage' => '319',
+            'startLine' => '7',
+            'endLine' => '16',
+            'startTerm' => 'Sondern',
+            'endTerm' => 'Geld',
           ),
         ),
       ),
@@ -31654,39 +31561,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '11',
-              'startPage' => '192',
-              'endPage' => '193',
-              'startLine' => '40',
-              'endLine' => '6',
-              'startTerm' => 'seit',
-              'endTerm' => 'etc.',
-            ),
-            1 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '12',
-              'startPage' => '205',
-              'endPage' => '205',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
-            2 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '13',
-              'startPage' => '222',
-              'endPage' => '222',
-              'startLine' => '12',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
+            'name' => 'Paddling',
+            'book' => '11',
+            'startPage' => '192',
+            'endPage' => '193',
+            'startLine' => '40',
+            'endLine' => '6',
+            'startTerm' => 'seit',
+            'endTerm' => 'etc.',
+          ),
+          1 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '12',
+            'startPage' => '205',
+            'endPage' => '205',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
+          ),
+          2 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '13',
+            'startPage' => '222',
+            'endPage' => '222',
+            'startLine' => '12',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
           ),
         ),
       ),
@@ -31753,41 +31657,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '11',
-              'startPage' => '192',
-              'endPage' => '193',
-              'startLine' => '40',
-              'endLine' => '6',
-              'startTerm' => 'seit',
-              'endTerm' => 'etc.',
-            ),
-            1 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '12',
-              'startPage' => '205',
-              'endPage' => '205',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
-            2 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '13',
-              'startPage' => '222',
-              'endPage' => '222',
-              'startLine' => '12',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
+            'name' => 'Paddling',
+            'book' => '11',
+            'startPage' => '192',
+            'endPage' => '193',
+            'startLine' => '40',
+            'endLine' => '6',
+            'startTerm' => 'seit',
+            'endTerm' => 'etc.',
           ),
           1 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '12',
+            'startPage' => '205',
+            'endPage' => '205',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
+          ),
+          2 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '13',
+            'startPage' => '222',
+            'endPage' => '222',
+            'startLine' => '12',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
+          ),
+          3 => 
           array (
             'name' => 'Verfahren zur Eisen- und Stahlbereitung',
             'book' => '15',
@@ -31817,39 +31718,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '11',
-              'startPage' => '192',
-              'endPage' => '193',
-              'startLine' => '40',
-              'endLine' => '6',
-              'startTerm' => 'seit',
-              'endTerm' => 'etc.',
-            ),
-            1 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '12',
-              'startPage' => '205',
-              'endPage' => '205',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
-            2 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '13',
-              'startPage' => '222',
-              'endPage' => '222',
-              'startLine' => '12',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
+            'name' => 'Paddling',
+            'book' => '11',
+            'startPage' => '192',
+            'endPage' => '193',
+            'startLine' => '40',
+            'endLine' => '6',
+            'startTerm' => 'seit',
+            'endTerm' => 'etc.',
+          ),
+          1 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '12',
+            'startPage' => '205',
+            'endPage' => '205',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
+          ),
+          2 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '13',
+            'startPage' => '222',
+            'endPage' => '222',
+            'startLine' => '12',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
           ),
         ),
       ),
@@ -31860,39 +31758,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '11',
-              'startPage' => '192',
-              'endPage' => '193',
-              'startLine' => '40',
-              'endLine' => '6',
-              'startTerm' => 'seit',
-              'endTerm' => 'etc.',
-            ),
-            1 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '12',
-              'startPage' => '205',
-              'endPage' => '205',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
-            2 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '13',
-              'startPage' => '222',
-              'endPage' => '222',
-              'startLine' => '12',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
+            'name' => 'Paddling',
+            'book' => '11',
+            'startPage' => '192',
+            'endPage' => '193',
+            'startLine' => '40',
+            'endLine' => '6',
+            'startTerm' => 'seit',
+            'endTerm' => 'etc.',
+          ),
+          1 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '12',
+            'startPage' => '205',
+            'endPage' => '205',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
+          ),
+          2 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '13',
+            'startPage' => '222',
+            'endPage' => '222',
+            'startLine' => '12',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
           ),
         ),
       ),
@@ -31903,39 +31798,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '11',
-              'startPage' => '192',
-              'endPage' => '193',
-              'startLine' => '40',
-              'endLine' => '6',
-              'startTerm' => 'seit',
-              'endTerm' => 'etc.',
-            ),
-            1 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '12',
-              'startPage' => '205',
-              'endPage' => '205',
-              'startLine' => '14',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
-            2 => 
-            array (
-              'name' => 'Paddling',
-              'book' => '13',
-              'startPage' => '222',
-              'endPage' => '222',
-              'startLine' => '12',
-              'endLine' => '17',
-              'startTerm' => 'von',
-              'endTerm' => 'vergrößert',
-            ),
+            'name' => 'Paddling',
+            'book' => '11',
+            'startPage' => '192',
+            'endPage' => '193',
+            'startLine' => '40',
+            'endLine' => '6',
+            'startTerm' => 'seit',
+            'endTerm' => 'etc.',
+          ),
+          1 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '12',
+            'startPage' => '205',
+            'endPage' => '205',
+            'startLine' => '14',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
+          ),
+          2 => 
+          array (
+            'name' => 'Paddling',
+            'book' => '13',
+            'startPage' => '222',
+            'endPage' => '222',
+            'startLine' => '12',
+            'endLine' => '17',
+            'startTerm' => 'von',
+            'endTerm' => 'vergrößert',
           ),
         ),
       ),
@@ -33318,56 +33210,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Existenzfonds',
+            'book' => '11',
+            'startPage' => '438',
+            'endPage' => 
             array (
-              'name' => 'Existenzfonds',
-              'book' => '11',
-              'startPage' => '438',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '39',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Existenzfonds',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '39',
+            'endLine' => 
             array (
-              'name' => 'Existenzfonds',
-              'book' => '12',
-              'startPage' => '447',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '5',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Existenzfonds',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Existenzfonds',
+            'endTerm' => 
             array (
-              'name' => 'Existenzfonds',
-              'book' => '13',
-              'startPage' => '450',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '8',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Existenzfonds',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Existenzfonds',
+            'book' => '12',
+            'startPage' => '447',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '5',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Existenzfonds',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Existenzfonds',
+            'book' => '13',
+            'startPage' => '450',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '8',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Existenzfonds',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -35107,59 +34996,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'patriarchalische',
+            'book' => '11',
+            'startPage' => '154',
+            'endPage' => 
             array (
-              'name' => 'patriarchalische',
-              'book' => '11',
-              'startPage' => '154',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'patriarchalischen Familie',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '1',
+            'endLine' => 
             array (
-              'name' => 'patriarchalische',
-              'book' => '12',
-              'startPage' => '170',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '22',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'patriarchalischen Familie',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'patriarchalischen Familie',
+            'endTerm' => 
             array (
-              'name' => 'patriarchalische',
-              'book' => '13',
-              'startPage' => '187',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'patriarchalischen Familie',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'patriarchalische',
+            'book' => '12',
+            'startPage' => '170',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '22',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'patriarchalischen Familie',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'patriarchalische',
+            'book' => '13',
+            'startPage' => '187',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'patriarchalischen Familie',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Familie',
             'book' => '15',
@@ -35180,7 +35066,7 @@
             array (
             ),
           ),
-          2 => 
+          4 => 
           array (
             'name' => 'Familie',
             'book' => '15',
@@ -35201,7 +35087,7 @@
             array (
             ),
           ),
-          3 => 
+          5 => 
           array (
             'name' => 'Familie',
             'book' => '15',
@@ -35222,7 +35108,7 @@
             array (
             ),
           ),
-          4 => 
+          6 => 
           array (
             'name' => 'Familie',
             'book' => '15',
@@ -35364,56 +35250,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'patriarchalische',
+            'book' => '11',
+            'startPage' => '154',
+            'endPage' => 
             array (
-              'name' => 'patriarchalische',
-              'book' => '11',
-              'startPage' => '154',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'patriarchalischen Familie',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '1',
+            'endLine' => 
             array (
-              'name' => 'patriarchalische',
-              'book' => '12',
-              'startPage' => '170',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '22',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'patriarchalischen Familie',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'patriarchalischen Familie',
+            'endTerm' => 
             array (
-              'name' => 'patriarchalische',
-              'book' => '13',
-              'startPage' => '187',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'patriarchalischen Familie',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'patriarchalische',
+            'book' => '12',
+            'startPage' => '170',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '22',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'patriarchalischen Familie',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'patriarchalische',
+            'book' => '13',
+            'startPage' => '187',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'patriarchalischen Familie',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -37498,56 +37381,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'wissenschaftlicher',
+            'book' => '11',
+            'startPage' => '345',
+            'endPage' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '11',
-              'startPage' => '345',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '1',
+            'endLine' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '12',
-              'startPage' => '318',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '38',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '13',
-              'startPage' => '330',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '6',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'wissenschaftlicher',
+            'book' => '12',
+            'startPage' => '318',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '38',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'wissenschaftlicher',
+            'book' => '13',
+            'startPage' => '330',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '6',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -37869,56 +37749,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'wissenschaftlicher',
+            'book' => '11',
+            'startPage' => '345',
+            'endPage' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '11',
-              'startPage' => '345',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '1',
+            'endLine' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '12',
-              'startPage' => '318',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '38',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '13',
-              'startPage' => '330',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '6',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'wissenschaftlicher',
+            'book' => '12',
+            'startPage' => '318',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '38',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'wissenschaftlicher',
+            'book' => '13',
+            'startPage' => '330',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '6',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -37930,56 +37807,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'wissenschaftlicher',
+            'book' => '11',
+            'startPage' => '345',
+            'endPage' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '11',
-              'startPage' => '345',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '1',
+            'endLine' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '12',
-              'startPage' => '318',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '38',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '13',
-              'startPage' => '330',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '6',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'wissenschaftlicher',
+            'book' => '12',
+            'startPage' => '318',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '38',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'wissenschaftlicher',
+            'book' => '13',
+            'startPage' => '330',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '6',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -38047,59 +37921,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'wissenschaftlicher',
+            'book' => '11',
+            'startPage' => '345',
+            'endPage' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '11',
-              'startPage' => '345',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '1',
+            'endLine' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '12',
-              'startPage' => '318',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '38',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
             array (
-              'name' => 'wissenschaftlicher',
-              'book' => '13',
-              'startPage' => '330',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '6',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'wissenschaftlichen Fortschritten',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'wissenschaftlicher',
+            'book' => '12',
+            'startPage' => '318',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '38',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'wissenschaftlicher',
+            'book' => '13',
+            'startPage' => '330',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '6',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'wissenschaftlichen Fortschritten',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'und Rückschritt',
             'book' => '15',
@@ -40937,59 +40808,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Geldhändler',
+            'book' => '11',
+            'startPage' => '805',
+            'endPage' => 
             array (
-              'name' => 'Geldhändler',
-              'book' => '11',
-              'startPage' => '805',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '10',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Geldhändler',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '10',
+            'endLine' => 
             array (
-              'name' => 'Geldhändler',
-              'book' => '12',
-              'startPage' => '466',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '14',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Geldhändler',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Geldhändler',
+            'endTerm' => 
             array (
-              'name' => 'Geldhändler',
-              'book' => '13',
-              'startPage' => '469',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '6',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Geldhändler',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Geldhändler',
+            'book' => '12',
+            'startPage' => '466',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '14',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Geldhändler',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Geldhändler',
+            'book' => '13',
+            'startPage' => '469',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '6',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Geldhändler',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'ihre Schatzbildung',
             'book' => '15',
@@ -41295,39 +41163,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41338,39 +41203,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41381,39 +41243,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41424,39 +41283,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41467,39 +41323,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41538,39 +41391,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41609,39 +41459,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41652,39 +41499,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41695,39 +41539,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41738,39 +41579,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41781,39 +41619,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41908,39 +41743,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41951,39 +41783,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -41994,41 +41823,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
           ),
           1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          3 => 
           array (
             'name' => 'und Kredit',
             'book' => '15',
@@ -42058,39 +41884,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42101,39 +41924,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42200,39 +42020,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42271,39 +42088,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42314,39 +42128,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42386,39 +42197,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42429,39 +42237,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42500,39 +42305,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42543,39 +42345,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -42774,39 +42573,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '11',
-              'startPage' => '794',
-              'endPage' => '794',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens).',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '12',
-              'startPage' => '455',
-              'endPage' => '455',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Konzentration in Banken',
-              'book' => '13',
-              'startPage' => '458',
-              'endPage' => '458',
-              'startLine' => '16',
-              'endLine' => '20',
-              'startTerm' => 'Man',
-              'endTerm' => 'Wachsens',
-            ),
+            'name' => 'seine Konzentration in Banken',
+            'book' => '11',
+            'startPage' => '794',
+            'endPage' => '794',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens).',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '12',
+            'startPage' => '455',
+            'endPage' => '455',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Konzentration in Banken',
+            'book' => '13',
+            'startPage' => '458',
+            'endPage' => '458',
+            'startLine' => '16',
+            'endLine' => '20',
+            'startTerm' => 'Man',
+            'endTerm' => 'Wachsens',
           ),
         ),
       ),
@@ -43282,84 +43078,81 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Arbeitergemeinden',
+            'book' => '11',
+            'startPage' => '722',
+            'endPage' => 
             array (
-              'name' => 'Arbeitergemeinden',
-              'book' => '11',
-              'startPage' => '722',
-              'endPage' => 
+            ),
+            'startLine' => '40',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Arbeitergemeinden',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Arbeitergemeinden',
+            'book' => '12',
+            'startPage' => '348',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '39',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => '40',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Arbeitergemeinden',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            1 => 
+            'endLine' => 
             array (
-              'name' => 'Arbeitergemeinden',
-              'book' => '12',
-              'startPage' => '348',
-              'endPage' => 
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Arbeiterge-meinden',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '39',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Arbeiterge-meinden',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endTerm' => 
             array (
-              'name' => 'Arbeitergemeinden',
-              'book' => '13',
-              'startPage' => '359',
-              'endPage' => 
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Arbeitergemeinden',
+            'book' => '13',
+            'startPage' => '359',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '32',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => 
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Arbeiter-gemeinden',
+              '@attributes' => 
               array (
-                '@content' => '32',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Arbeiter-gemeinden',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -43455,87 +43248,84 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Arbeitergemeinden',
+            'book' => '11',
+            'startPage' => '722',
+            'endPage' => 
             array (
-              'name' => 'Arbeitergemeinden',
-              'book' => '11',
-              'startPage' => '722',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '40',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Arbeitergemeinden',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '40',
+            'endLine' => 
             array (
-              'name' => 'Arbeitergemeinden',
-              'book' => '12',
-              'startPage' => '348',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '39',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Arbeiterge-meinden',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Arbeitergemeinden',
+            'endTerm' => 
             array (
-              'name' => 'Arbeitergemeinden',
-              'book' => '13',
-              'startPage' => '359',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '32',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Arbeiter-gemeinden',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Arbeitergemeinden',
+            'book' => '12',
+            'startPage' => '348',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '39',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Arbeiterge-meinden',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Arbeitergemeinden',
+            'book' => '13',
+            'startPage' => '359',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '32',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Arbeiter-gemeinden',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Ausgaben',
             'book' => '15',
@@ -43770,39 +43560,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '11',
-              'startPage' => '632',
-              'endPage' => '632',
-              'startLine' => '36',
-              'endLine' => '39',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen.',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '12',
-              'startPage' => '68',
-              'endPage' => '68',
-              'startLine' => '25',
-              'endLine' => '29',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '13',
-              'startPage' => '87',
-              'endPage' => '87',
-              'startLine' => '33',
-              'endLine' => '37',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
+            'name' => 'seine Verteilung',
+            'book' => '11',
+            'startPage' => '632',
+            'endPage' => '632',
+            'startLine' => '36',
+            'endLine' => '39',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen.',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '12',
+            'startPage' => '68',
+            'endPage' => '68',
+            'startLine' => '25',
+            'endLine' => '29',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '13',
+            'startPage' => '87',
+            'endPage' => '87',
+            'startLine' => '33',
+            'endLine' => '37',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
           ),
         ),
       ),
@@ -43841,41 +43628,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '11',
-              'startPage' => '632',
-              'endPage' => '632',
-              'startLine' => '36',
-              'endLine' => '39',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen.',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '12',
-              'startPage' => '68',
-              'endPage' => '68',
-              'startLine' => '25',
-              'endLine' => '29',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '13',
-              'startPage' => '87',
-              'endPage' => '87',
-              'startLine' => '33',
-              'endLine' => '37',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
+            'name' => 'seine Verteilung',
+            'book' => '11',
+            'startPage' => '632',
+            'endPage' => '632',
+            'startLine' => '36',
+            'endLine' => '39',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen.',
           ),
           1 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '12',
+            'startPage' => '68',
+            'endPage' => '68',
+            'startLine' => '25',
+            'endLine' => '29',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '13',
+            'startPage' => '87',
+            'endPage' => '87',
+            'startLine' => '33',
+            'endLine' => '37',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
+          ),
+          3 => 
           array (
             'name' => 'und Arbeitslohn für Dirigenten',
             'book' => '15',
@@ -44147,39 +43931,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '11',
-              'startPage' => '632',
-              'endPage' => '632',
-              'startLine' => '36',
-              'endLine' => '39',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen.',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '12',
-              'startPage' => '68',
-              'endPage' => '68',
-              'startLine' => '25',
-              'endLine' => '29',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '13',
-              'startPage' => '87',
-              'endPage' => '87',
-              'startLine' => '33',
-              'endLine' => '37',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
+            'name' => 'seine Verteilung',
+            'book' => '11',
+            'startPage' => '632',
+            'endPage' => '632',
+            'startLine' => '36',
+            'endLine' => '39',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen.',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '12',
+            'startPage' => '68',
+            'endPage' => '68',
+            'startLine' => '25',
+            'endLine' => '29',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '13',
+            'startPage' => '87',
+            'endPage' => '87',
+            'startLine' => '33',
+            'endLine' => '37',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
           ),
         ),
       ),
@@ -44190,39 +43971,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '11',
-              'startPage' => '632',
-              'endPage' => '632',
-              'startLine' => '36',
-              'endLine' => '39',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen.',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '12',
-              'startPage' => '68',
-              'endPage' => '68',
-              'startLine' => '25',
-              'endLine' => '29',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '13',
-              'startPage' => '87',
-              'endPage' => '87',
-              'startLine' => '33',
-              'endLine' => '37',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
+            'name' => 'seine Verteilung',
+            'book' => '11',
+            'startPage' => '632',
+            'endPage' => '632',
+            'startLine' => '36',
+            'endLine' => '39',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen.',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '12',
+            'startPage' => '68',
+            'endPage' => '68',
+            'startLine' => '25',
+            'endLine' => '29',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '13',
+            'startPage' => '87',
+            'endPage' => '87',
+            'startLine' => '33',
+            'endLine' => '37',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
           ),
         ),
       ),
@@ -44284,39 +44062,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '11',
-              'startPage' => '632',
-              'endPage' => '632',
-              'startLine' => '36',
-              'endLine' => '39',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen.',
-            ),
-            1 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '12',
-              'startPage' => '68',
-              'endPage' => '68',
-              'startLine' => '25',
-              'endLine' => '29',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
-            2 => 
-            array (
-              'name' => 'seine Verteilung',
-              'book' => '13',
-              'startPage' => '87',
-              'endPage' => '87',
-              'startLine' => '33',
-              'endLine' => '37',
-              'startTerm' => 'Die',
-              'endTerm' => 'eingeschlossen',
-            ),
+            'name' => 'seine Verteilung',
+            'book' => '11',
+            'startPage' => '632',
+            'endPage' => '632',
+            'startLine' => '36',
+            'endLine' => '39',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen.',
+          ),
+          1 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '12',
+            'startPage' => '68',
+            'endPage' => '68',
+            'startLine' => '25',
+            'endLine' => '29',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
+          ),
+          2 => 
+          array (
+            'name' => 'seine Verteilung',
+            'book' => '13',
+            'startPage' => '87',
+            'endPage' => '87',
+            'startLine' => '33',
+            'endLine' => '37',
+            'startTerm' => 'Die',
+            'endTerm' => 'eingeschlossen',
           ),
         ),
       ),
@@ -44686,39 +44461,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '11',
-              'startPage' => '304',
-              'endPage' => '307',
-              'startLine' => '37',
-              'endLine' => '5',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn.',
-            ),
-            1 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '12',
-              'startPage' => '278',
-              'endPage' => '278',
-              'startLine' => '30',
-              'endLine' => '39',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn',
-            ),
-            2 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '13',
-              'startPage' => '291',
-              'endPage' => '291',
-              'startLine' => '28',
-              'endLine' => '37',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn',
-            ),
+            'name' => 'kommunistische',
+            'book' => '11',
+            'startPage' => '304',
+            'endPage' => '307',
+            'startLine' => '37',
+            'endLine' => '5',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn.',
+          ),
+          1 => 
+          array (
+            'name' => 'kommunistische',
+            'book' => '12',
+            'startPage' => '278',
+            'endPage' => '278',
+            'startLine' => '30',
+            'endLine' => '39',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn',
+          ),
+          2 => 
+          array (
+            'name' => 'kommunistische',
+            'book' => '13',
+            'startPage' => '291',
+            'endPage' => '291',
+            'startLine' => '28',
+            'endLine' => '37',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn',
           ),
         ),
       ),
@@ -44813,39 +44585,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '11',
-              'startPage' => '304',
-              'endPage' => '307',
-              'startLine' => '37',
-              'endLine' => '5',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn.',
-            ),
-            1 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '12',
-              'startPage' => '278',
-              'endPage' => '278',
-              'startLine' => '30',
-              'endLine' => '39',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn',
-            ),
-            2 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '13',
-              'startPage' => '291',
-              'endPage' => '291',
-              'startLine' => '28',
-              'endLine' => '37',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn',
-            ),
+            'name' => 'kommunistische',
+            'book' => '11',
+            'startPage' => '304',
+            'endPage' => '307',
+            'startLine' => '37',
+            'endLine' => '5',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn.',
+          ),
+          1 => 
+          array (
+            'name' => 'kommunistische',
+            'book' => '12',
+            'startPage' => '278',
+            'endPage' => '278',
+            'startLine' => '30',
+            'endLine' => '39',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn',
+          ),
+          2 => 
+          array (
+            'name' => 'kommunistische',
+            'book' => '13',
+            'startPage' => '291',
+            'endPage' => '291',
+            'startLine' => '28',
+            'endLine' => '37',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn',
           ),
         ),
       ),
@@ -44856,39 +44625,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '11',
-              'startPage' => '304',
-              'endPage' => '307',
-              'startLine' => '37',
-              'endLine' => '5',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn.',
-            ),
-            1 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '12',
-              'startPage' => '278',
-              'endPage' => '278',
-              'startLine' => '30',
-              'endLine' => '39',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn',
-            ),
-            2 => 
-            array (
-              'name' => 'kommunistische',
-              'book' => '13',
-              'startPage' => '291',
-              'endPage' => '291',
-              'startLine' => '28',
-              'endLine' => '37',
-              'startTerm' => 'Denken',
-              'endTerm' => 'entziehn',
-            ),
+            'name' => 'kommunistische',
+            'book' => '11',
+            'startPage' => '304',
+            'endPage' => '307',
+            'startLine' => '37',
+            'endLine' => '5',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn.',
+          ),
+          1 => 
+          array (
+            'name' => 'kommunistische',
+            'book' => '12',
+            'startPage' => '278',
+            'endPage' => '278',
+            'startLine' => '30',
+            'endLine' => '39',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn',
+          ),
+          2 => 
+          array (
+            'name' => 'kommunistische',
+            'book' => '13',
+            'startPage' => '291',
+            'endPage' => '291',
+            'startLine' => '28',
+            'endLine' => '37',
+            'startTerm' => 'Denken',
+            'endTerm' => 'entziehn',
           ),
         ),
       ),
@@ -55250,39 +55016,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
         ),
       ),
@@ -55475,39 +55238,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
         ),
       ),
@@ -55567,39 +55327,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
         ),
       ),
@@ -55610,39 +55367,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
         ),
       ),
@@ -55968,39 +55722,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
         ),
       ),
@@ -56011,41 +55762,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
           1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          3 => 
           array (
             'name' => 'Indien',
             'book' => '15',
@@ -56066,7 +55814,7 @@
             array (
             ),
           ),
-          2 => 
+          4 => 
           array (
             'name' => 'Indien',
             'book' => '15',
@@ -56087,7 +55835,7 @@
             array (
             ),
           ),
-          3 => 
+          5 => 
           array (
             'name' => 'Indien',
             'book' => '15',
@@ -56299,39 +56047,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
         ),
       ),
@@ -56342,39 +56087,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
         ),
       ),
@@ -56385,39 +56127,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '11',
-              'startPage' => '697',
-              'endPage' => '697',
-              'startLine' => '23',
-              'endLine' => '26',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            1 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
-            2 => 
-            array (
-              'name' => 'Wirkung des kapitalistischen Welthandels',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '7',
-              'endLine' => '11',
-              'startTerm' => 'Sie',
-              'endTerm' => 'etc',
-            ),
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '11',
+            'startPage' => '697',
+            'endPage' => '697',
+            'startLine' => '23',
+            'endLine' => '26',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          1 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
+          ),
+          2 => 
+          array (
+            'name' => 'Wirkung des kapitalistischen Welthandels',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '7',
+            'endLine' => '11',
+            'startTerm' => 'Sie',
+            'endTerm' => 'etc',
           ),
         ),
       ),
@@ -57355,87 +57094,84 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Irland',
+            'book' => '11',
+            'startPage' => '314',
+            'endPage' => 
             array (
-              'name' => 'Irland',
-              'book' => '11',
-              'startPage' => '314',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '4',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Ireland',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '4',
+            'endLine' => 
             array (
-              'name' => 'Irland',
-              'book' => '12',
-              'startPage' => '286',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '14',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Ir-land',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Ireland',
+            'endTerm' => 
             array (
-              'name' => 'Irland',
-              'book' => '13',
-              'startPage' => '299',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '14',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Ir-land',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Irland',
+            'book' => '12',
+            'startPage' => '286',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '14',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Ir-land',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Irland',
+            'book' => '13',
+            'startPage' => '299',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '14',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Ir-land',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Landgesetzgebung',
             'book' => '15',
@@ -62819,41 +62555,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '11',
-              'startPage' => '590',
-              'endPage' => '590',
-              'startLine' => '3',
-              'endLine' => '7',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '12',
-              'startPage' => '31',
-              'endPage' => '31',
-              'startLine' => '21',
-              'endLine' => '25',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein',
-            ),
-            2 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '13',
-              'startPage' => '53',
-              'endPage' => '53',
-              'startLine' => '12',
-              'endLine' => '16',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein',
-            ),
+            'name' => 'und Klassengegensätze',
+            'book' => '11',
+            'startPage' => '590',
+            'endPage' => '590',
+            'startLine' => '3',
+            'endLine' => '7',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein.',
           ),
           1 => 
+          array (
+            'name' => 'und Klassengegensätze',
+            'book' => '12',
+            'startPage' => '31',
+            'endPage' => '31',
+            'startLine' => '21',
+            'endLine' => '25',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein',
+          ),
+          2 => 
+          array (
+            'name' => 'und Klassengegensätze',
+            'book' => '13',
+            'startPage' => '53',
+            'endPage' => '53',
+            'startLine' => '12',
+            'endLine' => '16',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein',
+          ),
+          3 => 
           array (
             'name' => 'Stagnation des i. K.',
             'book' => '15',
@@ -62883,39 +62616,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '11',
-              'startPage' => '590',
-              'endPage' => '590',
-              'startLine' => '3',
-              'endLine' => '7',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '12',
-              'startPage' => '31',
-              'endPage' => '31',
-              'startLine' => '21',
-              'endLine' => '25',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein',
-            ),
-            2 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '13',
-              'startPage' => '53',
-              'endPage' => '53',
-              'startLine' => '12',
-              'endLine' => '16',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein',
-            ),
+            'name' => 'und Klassengegensätze',
+            'book' => '11',
+            'startPage' => '590',
+            'endPage' => '590',
+            'startLine' => '3',
+            'endLine' => '7',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Klassengegensätze',
+            'book' => '12',
+            'startPage' => '31',
+            'endPage' => '31',
+            'startLine' => '21',
+            'endLine' => '25',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein',
+          ),
+          2 => 
+          array (
+            'name' => 'und Klassengegensätze',
+            'book' => '13',
+            'startPage' => '53',
+            'endPage' => '53',
+            'startLine' => '12',
+            'endLine' => '16',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein',
           ),
         ),
       ),
@@ -62982,39 +62712,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '11',
-              'startPage' => '590',
-              'endPage' => '590',
-              'startLine' => '3',
-              'endLine' => '7',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '12',
-              'startPage' => '31',
-              'endPage' => '31',
-              'startLine' => '21',
-              'endLine' => '25',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein',
-            ),
-            2 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '13',
-              'startPage' => '53',
-              'endPage' => '53',
-              'startLine' => '12',
-              'endLine' => '16',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein',
-            ),
+            'name' => 'und Klassengegensätze',
+            'book' => '11',
+            'startPage' => '590',
+            'endPage' => '590',
+            'startLine' => '3',
+            'endLine' => '7',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Klassengegensätze',
+            'book' => '12',
+            'startPage' => '31',
+            'endPage' => '31',
+            'startLine' => '21',
+            'endLine' => '25',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein',
+          ),
+          2 => 
+          array (
+            'name' => 'und Klassengegensätze',
+            'book' => '13',
+            'startPage' => '53',
+            'endPage' => '53',
+            'startLine' => '12',
+            'endLine' => '16',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein',
           ),
         ),
       ),
@@ -63354,39 +63081,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '11',
-              'startPage' => '590',
-              'endPage' => '590',
-              'startLine' => '3',
-              'endLine' => '7',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '12',
-              'startPage' => '31',
-              'endPage' => '31',
-              'startLine' => '21',
-              'endLine' => '25',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein',
-            ),
-            2 => 
-            array (
-              'name' => 'und Klassengegensätze',
-              'book' => '13',
-              'startPage' => '53',
-              'endPage' => '53',
-              'startLine' => '12',
-              'endLine' => '16',
-              'startTerm' => 'Das',
-              'endTerm' => 'ein',
-            ),
+            'name' => 'und Klassengegensätze',
+            'book' => '11',
+            'startPage' => '590',
+            'endPage' => '590',
+            'startLine' => '3',
+            'endLine' => '7',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Klassengegensätze',
+            'book' => '12',
+            'startPage' => '31',
+            'endPage' => '31',
+            'startLine' => '21',
+            'endLine' => '25',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein',
+          ),
+          2 => 
+          array (
+            'name' => 'und Klassengegensätze',
+            'book' => '13',
+            'startPage' => '53',
+            'endPage' => '53',
+            'startLine' => '12',
+            'endLine' => '16',
+            'startTerm' => 'Das',
+            'endTerm' => 'ein',
           ),
         ),
       ),
@@ -67570,56 +67294,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -67659,56 +67380,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -67720,56 +67438,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -67809,56 +67524,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -67870,56 +67582,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -67931,56 +67640,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -68046,59 +67752,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'und unproduktives K.',
             'book' => '15',
@@ -68128,56 +67831,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -68189,56 +67889,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -68278,56 +67975,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -68339,56 +68033,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -68400,56 +68091,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -68461,56 +68149,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -68522,56 +68207,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Produktivkapital',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Productivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '3',
+            'endLine' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Productivkapital',
+            'endTerm' => 
             array (
-              'name' => 'Produktivkapital',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '3',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Produktivkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Produktivkapital',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '3',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Produktivkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -74735,55 +74417,52 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Normalminimum der K.',
+            'book' => '11',
+            'startPage' => '218',
+            'endPage' => '218',
+            'startLine' => 
             array (
-              'name' => 'Normalminimum der K.',
-              'book' => '11',
-              'startPage' => '218',
-              'endPage' => '218',
-              'startLine' => 
+              '@content' => '18',
+              '@attributes' => 
               array (
-                '@content' => '18',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endLine' => '29',
-              'startTerm' => 
+            ),
+            'endLine' => '29',
+            'startTerm' => 
+            array (
+              '@content' => 'Zwei-tens',
+              '@attributes' => 
               array (
-                '@content' => 'Zwei-tens',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endTerm' => 'ist.',
             ),
-            1 => 
-            array (
-              'name' => 'Normalminimum der K.',
-              'book' => '12',
-              'startPage' => '222',
-              'endPage' => '222',
-              'startLine' => '10',
-              'endLine' => '20',
-              'startTerm' => 'Zweitens',
-              'endTerm' => 'ist',
-            ),
-            2 => 
-            array (
-              'name' => 'Normalminimum der K.',
-              'book' => '13',
-              'startPage' => '239',
-              'endPage' => '239',
-              'startLine' => '10',
-              'endLine' => '20',
-              'startTerm' => 'Zweitens',
-              'endTerm' => 'ist',
-            ),
+            'endTerm' => 'ist.',
           ),
           1 => 
+          array (
+            'name' => 'Normalminimum der K.',
+            'book' => '12',
+            'startPage' => '222',
+            'endPage' => '222',
+            'startLine' => '10',
+            'endLine' => '20',
+            'startTerm' => 'Zweitens',
+            'endTerm' => 'ist',
+          ),
+          2 => 
+          array (
+            'name' => 'Normalminimum der K.',
+            'book' => '13',
+            'startPage' => '239',
+            'endPage' => '239',
+            'startLine' => '10',
+            'endLine' => '20',
+            'startTerm' => 'Zweitens',
+            'endTerm' => 'ist',
+          ),
+          3 => 
           array (
             'name' => 'Konkurrenz der K.',
             'book' => '15',
@@ -74869,53 +74548,50 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Normalminimum der K.',
+            'book' => '11',
+            'startPage' => '218',
+            'endPage' => '218',
+            'startLine' => 
             array (
-              'name' => 'Normalminimum der K.',
-              'book' => '11',
-              'startPage' => '218',
-              'endPage' => '218',
-              'startLine' => 
+              '@content' => '18',
+              '@attributes' => 
               array (
-                '@content' => '18',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endLine' => '29',
-              'startTerm' => 
+            ),
+            'endLine' => '29',
+            'startTerm' => 
+            array (
+              '@content' => 'Zwei-tens',
+              '@attributes' => 
               array (
-                '@content' => 'Zwei-tens',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endTerm' => 'ist.',
             ),
-            1 => 
-            array (
-              'name' => 'Normalminimum der K.',
-              'book' => '12',
-              'startPage' => '222',
-              'endPage' => '222',
-              'startLine' => '10',
-              'endLine' => '20',
-              'startTerm' => 'Zweitens',
-              'endTerm' => 'ist',
-            ),
-            2 => 
-            array (
-              'name' => 'Normalminimum der K.',
-              'book' => '13',
-              'startPage' => '239',
-              'endPage' => '239',
-              'startLine' => '10',
-              'endLine' => '20',
-              'startTerm' => 'Zweitens',
-              'endTerm' => 'ist',
-            ),
+            'endTerm' => 'ist.',
+          ),
+          1 => 
+          array (
+            'name' => 'Normalminimum der K.',
+            'book' => '12',
+            'startPage' => '222',
+            'endPage' => '222',
+            'startLine' => '10',
+            'endLine' => '20',
+            'startTerm' => 'Zweitens',
+            'endTerm' => 'ist',
+          ),
+          2 => 
+          array (
+            'name' => 'Normalminimum der K.',
+            'book' => '13',
+            'startPage' => '239',
+            'endPage' => '239',
+            'startLine' => '10',
+            'endLine' => '20',
+            'startTerm' => 'Zweitens',
+            'endTerm' => 'ist',
           ),
         ),
       ),
@@ -77880,45 +77556,42 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'asketische Expolstulationen der Kirchenväter.',
+            'book' => '11',
+            'startPage' => '594',
+            'endPage' => 
             array (
-              'name' => 'asketische Expolstulationen der Kirchenväter.',
-              'book' => '11',
-              'startPage' => '594',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '41',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'ascetische Expostulationen in den Kirchenvätern',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '41',
+            'endLine' => 
             array (
-              'name' => 'asketische Expolstulationen der Kirchenväter.',
-              'book' => '12',
-              'startPage' => '34',
-              'endPage' => '34',
-              'startLine' => '40',
-              'endLine' => '41',
-              'startTerm' => 'ascetische',
-              'endTerm' => 'Kirchenväter',
             ),
-            2 => 
+            'startTerm' => 'ascetische Expostulationen in den Kirchenvätern',
+            'endTerm' => 
             array (
-              'name' => 'asketische Expolstulationen der Kirchenväter.',
-              'book' => '13',
-              'startPage' => '56',
-              'endPage' => '56',
-              'startLine' => '27',
-              'endLine' => '28',
-              'startTerm' => 'ascetische',
-              'endTerm' => 'Kirchenväter',
             ),
+          ),
+          1 => 
+          array (
+            'name' => 'asketische Expolstulationen der Kirchenväter.',
+            'book' => '12',
+            'startPage' => '34',
+            'endPage' => '34',
+            'startLine' => '40',
+            'endLine' => '41',
+            'startTerm' => 'ascetische',
+            'endTerm' => 'Kirchenväter',
+          ),
+          2 => 
+          array (
+            'name' => 'asketische Expolstulationen der Kirchenväter.',
+            'book' => '13',
+            'startPage' => '56',
+            'endPage' => '56',
+            'startLine' => '27',
+            'endLine' => '28',
+            'startTerm' => 'ascetische',
+            'endTerm' => 'Kirchenväter',
           ),
         ),
       ),
@@ -80952,39 +80625,36 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'als Form der Produktivkraft der Arbeit',
+            'book' => '12',
+            'startPage' => '112',
+            'endPage' => 
             array (
-              'name' => 'als Form der Produktivkraft der Arbeit',
-              'book' => '12',
-              'startPage' => '112',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '20',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kooperation',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '20',
+            'endLine' => 
             array (
-              'name' => 'als Form der Produktivkraft der Arbeit',
-              'book' => '13',
-              'startPage' => '130',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '26',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kooperation',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'startTerm' => 'Kooperation',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'als Form der Produktivkraft der Arbeit',
+            'book' => '13',
+            'startPage' => '130',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '26',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Kooperation',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -81620,41 +81290,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und metallisches Geld',
-              'book' => '11',
-              'startPage' => '653',
-              'endPage' => '653',
-              'startLine' => '10',
-              'endLine' => '23',
-              'startTerm' => 'Wir',
-              'endTerm' => 'Funktionsform.',
-            ),
-            1 => 
-            array (
-              'name' => 'und metallisches Geld',
-              'book' => '12',
-              'startPage' => '87',
-              'endPage' => '88',
-              'startLine' => '34',
-              'endLine' => '7',
-              'startTerm' => 'Wir',
-              'endTerm' => 'Funktionsform',
-            ),
-            2 => 
-            array (
-              'name' => 'und metallisches Geld',
-              'book' => '13',
-              'startPage' => '104',
-              'endPage' => '105',
-              'startLine' => '39',
-              'endLine' => '12',
-              'startTerm' => 'Wir',
-              'endTerm' => 'Funktionsform',
-            ),
+            'name' => 'und metallisches Geld',
+            'book' => '11',
+            'startPage' => '653',
+            'endPage' => '653',
+            'startLine' => '10',
+            'endLine' => '23',
+            'startTerm' => 'Wir',
+            'endTerm' => 'Funktionsform.',
           ),
           1 => 
+          array (
+            'name' => 'und metallisches Geld',
+            'book' => '12',
+            'startPage' => '87',
+            'endPage' => '88',
+            'startLine' => '34',
+            'endLine' => '7',
+            'startTerm' => 'Wir',
+            'endTerm' => 'Funktionsform',
+          ),
+          2 => 
+          array (
+            'name' => 'und metallisches Geld',
+            'book' => '13',
+            'startPage' => '104',
+            'endPage' => '105',
+            'startLine' => '39',
+            'endLine' => '12',
+            'startTerm' => 'Wir',
+            'endTerm' => 'Funktionsform',
+          ),
+          3 => 
           array (
             'name' => 'Entwertung',
             'book' => '15',
@@ -81684,39 +81351,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und metallisches Geld',
-              'book' => '11',
-              'startPage' => '653',
-              'endPage' => '653',
-              'startLine' => '10',
-              'endLine' => '23',
-              'startTerm' => 'Wir',
-              'endTerm' => 'Funktionsform.',
-            ),
-            1 => 
-            array (
-              'name' => 'und metallisches Geld',
-              'book' => '12',
-              'startPage' => '87',
-              'endPage' => '88',
-              'startLine' => '34',
-              'endLine' => '7',
-              'startTerm' => 'Wir',
-              'endTerm' => 'Funktionsform',
-            ),
-            2 => 
-            array (
-              'name' => 'und metallisches Geld',
-              'book' => '13',
-              'startPage' => '104',
-              'endPage' => '105',
-              'startLine' => '39',
-              'endLine' => '12',
-              'startTerm' => 'Wir',
-              'endTerm' => 'Funktionsform',
-            ),
+            'name' => 'und metallisches Geld',
+            'book' => '11',
+            'startPage' => '653',
+            'endPage' => '653',
+            'startLine' => '10',
+            'endLine' => '23',
+            'startTerm' => 'Wir',
+            'endTerm' => 'Funktionsform.',
+          ),
+          1 => 
+          array (
+            'name' => 'und metallisches Geld',
+            'book' => '12',
+            'startPage' => '87',
+            'endPage' => '88',
+            'startLine' => '34',
+            'endLine' => '7',
+            'startTerm' => 'Wir',
+            'endTerm' => 'Funktionsform',
+          ),
+          2 => 
+          array (
+            'name' => 'und metallisches Geld',
+            'book' => '13',
+            'startPage' => '104',
+            'endPage' => '105',
+            'startLine' => '39',
+            'endLine' => '12',
+            'startTerm' => 'Wir',
+            'endTerm' => 'Funktionsform',
           ),
         ),
       ),
@@ -82473,59 +82137,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Kriegsknecht',
+            'book' => '11',
+            'startPage' => '712',
+            'endPage' => 
             array (
-              'name' => 'Kriegsknecht',
-              'book' => '11',
-              'startPage' => '712',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '14',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kriegsknecht',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '14',
+            'endLine' => 
             array (
-              'name' => 'Kriegsknecht',
-              'book' => '12',
-              'startPage' => '335',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kriegsknecht',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Kriegsknecht',
+            'endTerm' => 
             array (
-              'name' => 'Kriegsknecht',
-              'book' => '13',
-              'startPage' => '346',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '9',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kriegsknecht',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Kriegsknecht',
+            'book' => '12',
+            'startPage' => '335',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Kriegsknecht',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Kriegsknecht',
+            'book' => '13',
+            'startPage' => '346',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '9',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Kriegsknecht',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'und Wucherer',
             'book' => '15',
@@ -82583,56 +82244,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Kriegsknecht',
+            'book' => '11',
+            'startPage' => '712',
+            'endPage' => 
             array (
-              'name' => 'Kriegsknecht',
-              'book' => '11',
-              'startPage' => '712',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '14',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kriegsknecht',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '14',
+            'endLine' => 
             array (
-              'name' => 'Kriegsknecht',
-              'book' => '12',
-              'startPage' => '335',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kriegsknecht',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Kriegsknecht',
+            'endTerm' => 
             array (
-              'name' => 'Kriegsknecht',
-              'book' => '13',
-              'startPage' => '346',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '9',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kriegsknecht',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Kriegsknecht',
+            'book' => '12',
+            'startPage' => '335',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Kriegsknecht',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Kriegsknecht',
+            'book' => '13',
+            'startPage' => '346',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '9',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Kriegsknecht',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -82683,59 +82341,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Kultur',
+            'book' => '11',
+            'startPage' => '203',
+            'endPage' => 
             array (
-              'name' => 'Kultur',
-              'book' => '11',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '20',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kultur',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '20',
+            'endLine' => 
             array (
-              'name' => 'Kultur',
-              'book' => '12',
-              'startPage' => '209',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '26',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kultur',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Kultur',
+            'endTerm' => 
             array (
-              'name' => 'Kultur',
-              'book' => '13',
-              'startPage' => '226',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '26',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Kultur',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Kultur',
+            'book' => '12',
+            'startPage' => '209',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '26',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Kultur',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Kultur',
+            'book' => '13',
+            'startPage' => '226',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '26',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Kultur',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Kulturzustand',
             'book' => '15',
@@ -82800,39 +82455,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -82843,39 +82495,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -82886,39 +82535,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -82929,39 +82575,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -82972,39 +82615,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83015,39 +82655,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83058,39 +82695,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83101,39 +82735,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83144,39 +82775,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83187,39 +82815,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83230,39 +82855,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83273,39 +82895,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83316,39 +82935,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83359,39 +82975,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83402,39 +83015,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83445,39 +83055,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83488,39 +83095,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83531,39 +83135,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83574,39 +83175,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83617,39 +83215,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83660,39 +83255,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83759,39 +83351,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '11',
-              'startPage' => '809',
-              'endPage' => '809',
-              'startLine' => '27',
-              'endLine' => '35',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden.)',
-            ),
-            1 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '12',
-              'startPage' => '470',
-              'endPage' => '470',
-              'startLine' => '25',
-              'endLine' => '33',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
-            2 => 
-            array (
-              'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
-              'book' => '13',
-              'startPage' => '473',
-              'endPage' => '473',
-              'startLine' => '20',
-              'endLine' => '28',
-              'startTerm' => 'Man',
-              'endTerm' => 'werden',
-            ),
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '11',
+            'startPage' => '809',
+            'endPage' => '809',
+            'startLine' => '27',
+            'endLine' => '35',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden.)',
+          ),
+          1 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '12',
+            'startPage' => '470',
+            'endPage' => '470',
+            'startLine' => '25',
+            'endLine' => '33',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
+          ),
+          2 => 
+          array (
+            'name' => '"Schäffle und bürgerliche Kritiker des ""Kapitals"""',
+            'book' => '13',
+            'startPage' => '473',
+            'endPage' => '473',
+            'startLine' => '20',
+            'endLine' => '28',
+            'startTerm' => 'Man',
+            'endTerm' => 'werden',
           ),
         ),
       ),
@@ -83809,50 +83398,47 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
+            'book' => '11',
+            'startPage' => '200',
+            'endPage' => '200',
+            'startLine' => '28',
+            'endLine' => '33',
+            'startTerm' => 'Indem',
+            'endTerm' => 'ist.',
+          ),
+          1 => 
+          array (
+            'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => 
             array (
-              'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
-              'book' => '11',
-              'startPage' => '200',
-              'endPage' => '200',
-              'startLine' => '28',
-              'endLine' => '33',
-              'startTerm' => 'Indem',
-              'endTerm' => 'ist.',
             ),
-            1 => 
+            'startLine' => '33',
+            'endLine' => 
             array (
-              'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '33',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Indem',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Indem',
+            'endTerm' => 
             array (
-              'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '33',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Indem',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '33',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Indem',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -83864,50 +83450,47 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
+            'book' => '11',
+            'startPage' => '200',
+            'endPage' => '200',
+            'startLine' => '28',
+            'endLine' => '33',
+            'startTerm' => 'Indem',
+            'endTerm' => 'ist.',
+          ),
+          1 => 
+          array (
+            'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => 
             array (
-              'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
-              'book' => '11',
-              'startPage' => '200',
-              'endPage' => '200',
-              'startLine' => '28',
-              'endLine' => '33',
-              'startTerm' => 'Indem',
-              'endTerm' => 'ist.',
             ),
-            1 => 
+            'startLine' => '33',
+            'endLine' => 
             array (
-              'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '33',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Indem',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Indem',
+            'endTerm' => 
             array (
-              'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '33',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Indem',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Verschlechterung seiner Lage durch Scheidung zwischen Manufaktur und Agrikultur',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '33',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Indem',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -88711,73 +88294,70 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Sklavensystem in M.',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '34',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Manufaktur',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '34',
+            'endLine' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '21',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Manufak-tur',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Manufaktur',
+            'endTerm' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '23',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Manufaktur',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Sklavensystem in M.',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '21',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Manufak-tur',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavensystem in M.',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '23',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Manufaktur',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Minimum des Kapitals',
             'book' => '15',
@@ -88933,70 +88513,67 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Sklavensystem in M.',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => 
+            ),
+            'startLine' => '34',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Manufaktur',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Sklavensystem in M.',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '21',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => '34',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Manufaktur',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            1 => 
+            'endLine' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Manufak-tur',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '21',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Manufak-tur',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endTerm' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '23',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Manufaktur',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavensystem in M.',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '23',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Manufaktur',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -89008,70 +88585,67 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Sklavensystem in M.',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => 
+            ),
+            'startLine' => '34',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Manufaktur',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Sklavensystem in M.',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '21',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => '34',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Manufaktur',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            1 => 
+            'endLine' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Manufak-tur',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '21',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Manufak-tur',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endTerm' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '23',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Manufaktur',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavensystem in M.',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '23',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Manufaktur',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -89083,70 +88657,67 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Sklavensystem in M.',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => 
+            ),
+            'startLine' => '34',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Manufaktur',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Sklavensystem in M.',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '21',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => '34',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Manufaktur',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            1 => 
+            'endLine' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Manufak-tur',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '21',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Manufak-tur',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endTerm' => 
             array (
-              'name' => 'Sklavensystem in M.',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '23',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Manufaktur',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavensystem in M.',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '23',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Manufaktur',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -93427,39 +92998,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
-              'book' => '11',
-              'startPage' => '656',
-              'endPage' => '657',
-              'startLine' => '19',
-              'endLine' => '24',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            1 => 
-            array (
-              'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
-              'book' => '12',
-              'startPage' => '90',
-              'endPage' => '91',
-              'startLine' => '33',
-              'endLine' => '39',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt',
-            ),
-            2 => 
-            array (
-              'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
-              'book' => '13',
-              'startPage' => '107',
-              'endPage' => '109',
-              'startLine' => '31',
-              'endLine' => '3',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt',
-            ),
+            'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
+            'book' => '11',
+            'startPage' => '656',
+            'endPage' => '657',
+            'startLine' => '19',
+            'endLine' => '24',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          1 => 
+          array (
+            'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
+            'book' => '12',
+            'startPage' => '90',
+            'endPage' => '91',
+            'startLine' => '33',
+            'endLine' => '39',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt',
+          ),
+          2 => 
+          array (
+            'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
+            'book' => '13',
+            'startPage' => '107',
+            'endPage' => '109',
+            'startLine' => '31',
+            'endLine' => '3',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt',
           ),
         ),
       ),
@@ -93519,41 +93087,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
-              'book' => '11',
-              'startPage' => '656',
-              'endPage' => '657',
-              'startLine' => '19',
-              'endLine' => '24',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            1 => 
-            array (
-              'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
-              'book' => '12',
-              'startPage' => '90',
-              'endPage' => '91',
-              'startLine' => '33',
-              'endLine' => '39',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt',
-            ),
-            2 => 
-            array (
-              'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
-              'book' => '13',
-              'startPage' => '107',
-              'endPage' => '109',
-              'startLine' => '31',
-              'endLine' => '3',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt',
-            ),
+            'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
+            'book' => '11',
+            'startPage' => '656',
+            'endPage' => '657',
+            'startLine' => '19',
+            'endLine' => '24',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
           ),
           1 => 
+          array (
+            'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
+            'book' => '12',
+            'startPage' => '90',
+            'endPage' => '91',
+            'startLine' => '33',
+            'endLine' => '39',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt',
+          ),
+          2 => 
+          array (
+            'name' => 'als Entwicklungsphase der gesellschaftlichen Produktion',
+            'book' => '13',
+            'startPage' => '107',
+            'endPage' => '109',
+            'startLine' => '31',
+            'endLine' => '3',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt',
+          ),
+          3 => 
           array (
             'name' => 'Naturalwirtschaft',
             'book' => '15',
@@ -93574,7 +93139,7 @@
             array (
             ),
           ),
-          2 => 
+          4 => 
           array (
             'name' => 'Naturalwirtschaft',
             'book' => '15',
@@ -93595,7 +93160,7 @@
             array (
             ),
           ),
-          3 => 
+          5 => 
           array (
             'name' => 'Naturalwirtschaft',
             'book' => '15',
@@ -94493,84 +94058,81 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Verschleiß des fixen Kapitals',
+            'book' => '11',
+            'startPage' => '113',
+            'endPage' => 
             array (
-              'name' => 'und Verschleiß des fixen Kapitals',
-              'book' => '11',
-              'startPage' => '113',
-              'endPage' => 
+            ),
+            'startLine' => '19',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Naturkräften',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'und Verschleiß des fixen Kapitals',
+            'book' => '12',
+            'startPage' => '138',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '30',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => '19',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Naturkräften',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            1 => 
+            'endLine' => 
             array (
-              'name' => 'und Verschleiß des fixen Kapitals',
-              'book' => '12',
-              'startPage' => '138',
-              'endPage' => 
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Naturkräf-ten.',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '30',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Naturkräf-ten.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endTerm' => 
             array (
-              'name' => 'und Verschleiß des fixen Kapitals',
-              'book' => '13',
-              'startPage' => '157',
-              'endPage' => 
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'und Verschleiß des fixen Kapitals',
+            'book' => '13',
+            'startPage' => '157',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '4',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => 
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Naturkräf-ten.',
+              '@attributes' => 
               array (
-                '@content' => '4',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Naturkräf-ten.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -94631,84 +94193,81 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Verschleiß des fixen Kapitals',
+            'book' => '11',
+            'startPage' => '113',
+            'endPage' => 
             array (
-              'name' => 'und Verschleiß des fixen Kapitals',
-              'book' => '11',
-              'startPage' => '113',
-              'endPage' => 
+            ),
+            'startLine' => '19',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Naturkräften',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'und Verschleiß des fixen Kapitals',
+            'book' => '12',
+            'startPage' => '138',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '30',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => '19',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Naturkräften',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            1 => 
+            'endLine' => 
             array (
-              'name' => 'und Verschleiß des fixen Kapitals',
-              'book' => '12',
-              'startPage' => '138',
-              'endPage' => 
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Naturkräf-ten.',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => 
-              array (
-                '@content' => '30',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Naturkräf-ten.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endTerm' => 
             array (
-              'name' => 'und Verschleiß des fixen Kapitals',
-              'book' => '13',
-              'startPage' => '157',
-              'endPage' => 
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'und Verschleiß des fixen Kapitals',
+            'book' => '13',
+            'startPage' => '157',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => 
+            array (
+              '@content' => '4',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => 
+            ),
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 
+            array (
+              '@content' => 'Naturkräf-ten.',
+              '@attributes' => 
               array (
-                '@content' => '4',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 
-              array (
-                '@content' => 'Naturkräf-ten.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -95008,56 +94567,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'absolute',
+            'book' => '11',
+            'startPage' => '612',
+            'endPage' => 
             array (
-              'name' => 'absolute',
-              'book' => '11',
-              'startPage' => '612',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'absoluten Nothwendigkeit',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '27',
+            'endLine' => 
             array (
-              'name' => 'absolute',
-              'book' => '12',
-              'startPage' => '52',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '31',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Nothwendigkeit',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'absoluten Nothwendigkeit',
+            'endTerm' => 
             array (
-              'name' => 'absolute',
-              'book' => '13',
-              'startPage' => '72',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '8',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Nothwendigkeit',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'absolute',
+            'book' => '12',
+            'startPage' => '52',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '31',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Nothwendigkeit',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'absolute',
+            'book' => '13',
+            'startPage' => '72',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '8',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Nothwendigkeit',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -95759,39 +95315,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -95914,39 +95467,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -96027,39 +95577,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -96378,39 +95925,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -96421,39 +95965,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -96541,39 +96082,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -96584,39 +96122,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -98006,39 +97541,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -98049,39 +97581,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '11',
-              'startPage' => '329',
-              'endPage' => '332',
-              'startLine' => '14',
-              'endLine' => '9',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '12',
-              'startPage' => '301',
-              'endPage' => '304',
-              'startLine' => '20',
-              'endLine' => '7',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Arbeitslohn',
-              'book' => '13',
-              'startPage' => '314',
-              'endPage' => '316',
-              'startLine' => '10',
-              'endLine' => '41',
-              'startTerm' => 'Nimmt',
-              'endTerm' => 'vorherrscht.',
-            ),
+            'name' => 'und Arbeitslohn',
+            'book' => '11',
+            'startPage' => '329',
+            'endPage' => '332',
+            'startLine' => '14',
+            'endLine' => '9',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '12',
+            'startPage' => '301',
+            'endPage' => '304',
+            'startLine' => '20',
+            'endLine' => '7',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Arbeitslohn',
+            'book' => '13',
+            'startPage' => '314',
+            'endPage' => '316',
+            'startLine' => '10',
+            'endLine' => '41',
+            'startTerm' => 'Nimmt',
+            'endTerm' => 'vorherrscht.',
           ),
         ),
       ),
@@ -108170,39 +107699,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108213,39 +107739,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108256,39 +107779,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108299,39 +107819,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108391,39 +107908,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108462,39 +107976,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108505,39 +108016,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108548,39 +108056,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108647,39 +108152,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108746,39 +108248,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108789,39 +108288,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -108881,39 +108377,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -109505,39 +108998,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -109548,39 +109038,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '11',
-              'startPage' => '604',
-              'endPage' => '605',
-              'startLine' => '30',
-              'endLine' => '3',
-              'startTerm' => 'Hier',
-              'endTerm' => 'Kapitalisten.',
-            ),
-            1 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '12',
-              'startPage' => '45',
-              'endPage' => '45',
-              'startLine' => '7',
-              'endLine' => '20',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
-            2 => 
-            array (
-              'name' => 'Vulgärökonomie über den k._P.',
-              'book' => '13',
-              'startPage' => '64',
-              'endPage' => '64',
-              'startLine' => '29',
-              'endLine' => '42',
-              'startTerm' => 'Wir',
-              'endTerm' => 'ein.',
-            ),
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '11',
+            'startPage' => '604',
+            'endPage' => '605',
+            'startLine' => '30',
+            'endLine' => '3',
+            'startTerm' => 'Hier',
+            'endTerm' => 'Kapitalisten.',
+          ),
+          1 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '12',
+            'startPage' => '45',
+            'endPage' => '45',
+            'startLine' => '7',
+            'endLine' => '20',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
+          ),
+          2 => 
+          array (
+            'name' => 'Vulgärökonomie über den k._P.',
+            'book' => '13',
+            'startPage' => '64',
+            'endPage' => '64',
+            'startLine' => '29',
+            'endLine' => '42',
+            'startTerm' => 'Wir',
+            'endTerm' => 'ein.',
           ),
         ),
       ),
@@ -109717,39 +109204,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '11',
-              'startPage' => '656',
-              'endPage' => '657',
-              'startLine' => '19',
-              'endLine' => '24',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '12',
-              'startPage' => '90',
-              'endPage' => '91',
-              'startLine' => '33',
-              'endLine' => '39',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '13',
-              'startPage' => '107',
-              'endPage' => '109',
-              'startLine' => '38',
-              'endLine' => '3',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
+            'name' => 'und Verkehrsweise',
+            'book' => '11',
+            'startPage' => '656',
+            'endPage' => '657',
+            'startLine' => '19',
+            'endLine' => '24',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verkehrsweise',
+            'book' => '12',
+            'startPage' => '90',
+            'endPage' => '91',
+            'startLine' => '33',
+            'endLine' => '39',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verkehrsweise',
+            'book' => '13',
+            'startPage' => '107',
+            'endPage' => '109',
+            'startLine' => '38',
+            'endLine' => '3',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
           ),
         ),
       ),
@@ -109816,39 +109300,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '11',
-              'startPage' => '656',
-              'endPage' => '657',
-              'startLine' => '19',
-              'endLine' => '24',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '12',
-              'startPage' => '90',
-              'endPage' => '91',
-              'startLine' => '33',
-              'endLine' => '39',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '13',
-              'startPage' => '107',
-              'endPage' => '109',
-              'startLine' => '38',
-              'endLine' => '3',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
+            'name' => 'und Verkehrsweise',
+            'book' => '11',
+            'startPage' => '656',
+            'endPage' => '657',
+            'startLine' => '19',
+            'endLine' => '24',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verkehrsweise',
+            'book' => '12',
+            'startPage' => '90',
+            'endPage' => '91',
+            'startLine' => '33',
+            'endLine' => '39',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verkehrsweise',
+            'book' => '13',
+            'startPage' => '107',
+            'endPage' => '109',
+            'startLine' => '38',
+            'endLine' => '3',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
           ),
         ),
       ),
@@ -110188,39 +109669,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '11',
-              'startPage' => '656',
-              'endPage' => '657',
-              'startLine' => '19',
-              'endLine' => '24',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '12',
-              'startPage' => '90',
-              'endPage' => '91',
-              'startLine' => '33',
-              'endLine' => '39',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '13',
-              'startPage' => '107',
-              'endPage' => '109',
-              'startLine' => '38',
-              'endLine' => '3',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
+            'name' => 'und Verkehrsweise',
+            'book' => '11',
+            'startPage' => '656',
+            'endPage' => '657',
+            'startLine' => '19',
+            'endLine' => '24',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verkehrsweise',
+            'book' => '12',
+            'startPage' => '90',
+            'endPage' => '91',
+            'startLine' => '33',
+            'endLine' => '39',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verkehrsweise',
+            'book' => '13',
+            'startPage' => '107',
+            'endPage' => '109',
+            'startLine' => '38',
+            'endLine' => '3',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
           ),
         ),
       ),
@@ -110287,39 +109765,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '11',
-              'startPage' => '656',
-              'endPage' => '657',
-              'startLine' => '19',
-              'endLine' => '24',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '12',
-              'startPage' => '90',
-              'endPage' => '91',
-              'startLine' => '33',
-              'endLine' => '39',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Verkehrsweise',
-              'book' => '13',
-              'startPage' => '107',
-              'endPage' => '109',
-              'startLine' => '38',
-              'endLine' => '3',
-              'startTerm' => 'Man',
-              'endTerm' => 'umgekehrt.',
-            ),
+            'name' => 'und Verkehrsweise',
+            'book' => '11',
+            'startPage' => '656',
+            'endPage' => '657',
+            'startLine' => '19',
+            'endLine' => '24',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Verkehrsweise',
+            'book' => '12',
+            'startPage' => '90',
+            'endPage' => '91',
+            'startLine' => '33',
+            'endLine' => '39',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Verkehrsweise',
+            'book' => '13',
+            'startPage' => '107',
+            'endPage' => '109',
+            'startLine' => '38',
+            'endLine' => '3',
+            'startTerm' => 'Man',
+            'endTerm' => 'umgekehrt.',
           ),
         ),
       ),
@@ -116439,39 +115914,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '11',
-              'startPage' => '199',
-              'endPage' => '200',
-              'startLine' => '15',
-              'endLine' => '21',
-              'startTerm' => 'But',
-              'endTerm' => 'employ.',
-            ),
-            1 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => '206',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
-            2 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => '223',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
+            'name' => 'in Rußland',
+            'book' => '11',
+            'startPage' => '199',
+            'endPage' => '200',
+            'startLine' => '15',
+            'endLine' => '21',
+            'startTerm' => 'But',
+            'endTerm' => 'employ.',
+          ),
+          1 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => '206',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
+          ),
+          2 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => '223',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
           ),
         ),
       ),
@@ -116593,41 +116065,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '11',
-              'startPage' => '199',
-              'endPage' => '200',
-              'startLine' => '15',
-              'endLine' => '21',
-              'startTerm' => 'But',
-              'endTerm' => 'employ.',
-            ),
-            1 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => '206',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
-            2 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => '223',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
+            'name' => 'in Rußland',
+            'book' => '11',
+            'startPage' => '199',
+            'endPage' => '200',
+            'startLine' => '15',
+            'endLine' => '21',
+            'startTerm' => 'But',
+            'endTerm' => 'employ.',
           ),
           1 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => '206',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
+          ),
+          2 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => '223',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
+          ),
+          3 => 
           array (
             'name' => 'Ruin der P.',
             'book' => '15',
@@ -116713,39 +116182,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '11',
-              'startPage' => '199',
-              'endPage' => '200',
-              'startLine' => '15',
-              'endLine' => '21',
-              'startTerm' => 'But',
-              'endTerm' => 'employ.',
-            ),
-            1 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => '206',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
-            2 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => '223',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
+            'name' => 'in Rußland',
+            'book' => '11',
+            'startPage' => '199',
+            'endPage' => '200',
+            'startLine' => '15',
+            'endLine' => '21',
+            'startTerm' => 'But',
+            'endTerm' => 'employ.',
+          ),
+          1 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => '206',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
+          ),
+          2 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => '223',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
           ),
         ),
       ),
@@ -116756,39 +116222,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '11',
-              'startPage' => '199',
-              'endPage' => '200',
-              'startLine' => '15',
-              'endLine' => '21',
-              'startTerm' => 'But',
-              'endTerm' => 'employ.',
-            ),
-            1 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => '206',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
-            2 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => '223',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
+            'name' => 'in Rußland',
+            'book' => '11',
+            'startPage' => '199',
+            'endPage' => '200',
+            'startLine' => '15',
+            'endLine' => '21',
+            'startTerm' => 'But',
+            'endTerm' => 'employ.',
+          ),
+          1 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => '206',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
+          ),
+          2 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => '223',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
           ),
         ),
       ),
@@ -116827,39 +116290,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '11',
-              'startPage' => '199',
-              'endPage' => '200',
-              'startLine' => '15',
-              'endLine' => '21',
-              'startTerm' => 'But',
-              'endTerm' => 'employ.',
-            ),
-            1 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => '206',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
-            2 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => '223',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
+            'name' => 'in Rußland',
+            'book' => '11',
+            'startPage' => '199',
+            'endPage' => '200',
+            'startLine' => '15',
+            'endLine' => '21',
+            'startTerm' => 'But',
+            'endTerm' => 'employ.',
+          ),
+          1 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => '206',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
+          ),
+          2 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => '223',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
           ),
         ),
       ),
@@ -116898,39 +116358,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '11',
-              'startPage' => '199',
-              'endPage' => '200',
-              'startLine' => '15',
-              'endLine' => '21',
-              'startTerm' => 'But',
-              'endTerm' => 'employ.',
-            ),
-            1 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => '206',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
-            2 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => '223',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
+            'name' => 'in Rußland',
+            'book' => '11',
+            'startPage' => '199',
+            'endPage' => '200',
+            'startLine' => '15',
+            'endLine' => '21',
+            'startTerm' => 'But',
+            'endTerm' => 'employ.',
+          ),
+          1 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => '206',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
+          ),
+          2 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => '223',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
           ),
         ),
       ),
@@ -117032,39 +116489,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '11',
-              'startPage' => '199',
-              'endPage' => '200',
-              'startLine' => '15',
-              'endLine' => '21',
-              'startTerm' => 'But',
-              'endTerm' => 'employ.',
-            ),
-            1 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '12',
-              'startPage' => '206',
-              'endPage' => '206',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
-            2 => 
-            array (
-              'name' => 'in Rußland',
-              'book' => '13',
-              'startPage' => '223',
-              'endPage' => '223',
-              'startLine' => '13',
-              'endLine' => '26',
-              'startTerm' => 'Dort',
-              'endTerm' => 'geliefert.',
-            ),
+            'name' => 'in Rußland',
+            'book' => '11',
+            'startPage' => '199',
+            'endPage' => '200',
+            'startLine' => '15',
+            'endLine' => '21',
+            'startTerm' => 'But',
+            'endTerm' => 'employ.',
+          ),
+          1 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '12',
+            'startPage' => '206',
+            'endPage' => '206',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
+          ),
+          2 => 
+          array (
+            'name' => 'in Rußland',
+            'book' => '13',
+            'startPage' => '223',
+            'endPage' => '223',
+            'startLine' => '13',
+            'endLine' => '26',
+            'startTerm' => 'Dort',
+            'endTerm' => 'geliefert.',
           ),
         ),
       ),
@@ -117458,56 +116912,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Rationalismus',
+            'book' => '11',
+            'startPage' => '631',
+            'endPage' => 
             array (
-              'name' => 'Rationalismus',
-              'book' => '11',
-              'startPage' => '631',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Rationalismus',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '15',
+            'endLine' => 
             array (
-              'name' => 'Rationalismus',
-              'book' => '12',
-              'startPage' => '67',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Rationalismus',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Rationalismus',
+            'endTerm' => 
             array (
-              'name' => 'Rationalismus',
-              'book' => '13',
-              'startPage' => '86',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '24',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Rationalismus',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Rationalismus',
+            'book' => '12',
+            'startPage' => '67',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Rationalismus',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Rationalismus',
+            'book' => '13',
+            'startPage' => '86',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '24',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Rationalismus',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -123215,56 +122666,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '34',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetreibung',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '34',
+            'endLine' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '22',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetrieb',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Schiffsbetreibung',
+            'endTerm' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '24',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetrieb',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '22',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Schiffsbetrieb',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '24',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Schiffsbetrieb',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -123276,59 +122724,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '34',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetreibung',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '34',
+            'endLine' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '22',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetrieb',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Schiffsbetreibung',
+            'endTerm' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '24',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetrieb',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '22',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Schiffsbetrieb',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '24',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Schiffsbetrieb',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Schiffahrt',
             'book' => '15',
@@ -123349,7 +122794,7 @@
             array (
             ),
           ),
-          2 => 
+          4 => 
           array (
             'name' => 'Schiffahrt',
             'book' => '15',
@@ -123370,7 +122815,7 @@
             array (
             ),
           ),
-          3 => 
+          5 => 
           array (
             'name' => 'Schiffahrt',
             'book' => '15',
@@ -123400,56 +122845,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '34',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetreibung',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '34',
+            'endLine' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '22',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetrieb',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Schiffsbetreibung',
+            'endTerm' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '24',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetrieb',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '22',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Schiffsbetrieb',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '24',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Schiffsbetrieb',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -123536,56 +122978,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '11',
+            'startPage' => '777',
+            'endPage' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '11',
-              'startPage' => '777',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '34',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetreibung',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '34',
+            'endLine' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '22',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetrieb',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Schiffsbetreibung',
+            'endTerm' => 
             array (
-              'name' => 'Schiffbetrieb mit Sklaven',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '24',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Schiffsbetrieb',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '22',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Schiffsbetrieb',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Schiffbetrieb mit Sklaven',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '24',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Schiffsbetrieb',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -123890,56 +123329,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'schottische Ökonomen',
+            'book' => '11',
+            'startPage' => '178',
+            'endPage' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '11',
-              'startPage' => '178',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '21',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '21',
+            'endLine' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '12',
-              'startPage' => '194',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '13',
-              'startPage' => '211',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'schottische Ökonomen',
+            'book' => '12',
+            'startPage' => '194',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'schottische Ökonomen',
+            'book' => '13',
+            'startPage' => '211',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -123951,56 +123387,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'schottische Ökonomen',
+            'book' => '11',
+            'startPage' => '178',
+            'endPage' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '11',
-              'startPage' => '178',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '21',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '21',
+            'endLine' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '12',
-              'startPage' => '194',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '13',
-              'startPage' => '211',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'schottische Ökonomen',
+            'book' => '12',
+            'startPage' => '194',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'schottische Ökonomen',
+            'book' => '13',
+            'startPage' => '211',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -124012,56 +123445,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'schottische Ökonomen',
+            'book' => '11',
+            'startPage' => '178',
+            'endPage' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '11',
-              'startPage' => '178',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '21',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '21',
+            'endLine' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '12',
-              'startPage' => '194',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '13',
-              'startPage' => '211',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'schottische Ökonomen',
+            'book' => '12',
+            'startPage' => '194',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'schottische Ökonomen',
+            'book' => '13',
+            'startPage' => '211',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -124101,56 +123531,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'schottische Ökonomen',
+            'book' => '11',
+            'startPage' => '178',
+            'endPage' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '11',
-              'startPage' => '178',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '21',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '21',
+            'endLine' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '12',
-              'startPage' => '194',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
             array (
-              'name' => 'schottische Ökonomen',
-              'book' => '13',
-              'startPage' => '211',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'schottischen Oekonomen',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'schottische Ökonomen',
+            'book' => '12',
+            'startPage' => '194',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'schottische Ökonomen',
+            'book' => '13',
+            'startPage' => '211',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '1',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'schottischen Oekonomen',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -128607,56 +128034,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'als Selbstzweck',
+            'book' => '11',
+            'startPage' => '591',
+            'endPage' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '11',
-              'startPage' => '591',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '32',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '32',
+            'endLine' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '12',
-              'startPage' => '32',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '36',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '13',
-              'startPage' => '54',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '25',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'als Selbstzweck',
+            'book' => '12',
+            'startPage' => '32',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '36',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'als Selbstzweck',
+            'book' => '13',
+            'startPage' => '54',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '25',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -128668,56 +128092,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'als Selbstzweck',
+            'book' => '11',
+            'startPage' => '591',
+            'endPage' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '11',
-              'startPage' => '591',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '32',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '32',
+            'endLine' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '12',
-              'startPage' => '32',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '36',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '13',
-              'startPage' => '54',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '25',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'als Selbstzweck',
+            'book' => '12',
+            'startPage' => '32',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '36',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'als Selbstzweck',
+            'book' => '13',
+            'startPage' => '54',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '25',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -128799,59 +128220,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'als Selbstzweck',
+            'book' => '11',
+            'startPage' => '591',
+            'endPage' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '11',
-              'startPage' => '591',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '32',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '32',
+            'endLine' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '12',
-              'startPage' => '32',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '36',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
             array (
-              'name' => 'als Selbstzweck',
-              'book' => '13',
-              'startPage' => '54',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '25',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Selbstzweck',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'als Selbstzweck',
+            'book' => '12',
+            'startPage' => '32',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '36',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'als Selbstzweck',
+            'book' => '13',
+            'startPage' => '54',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '25',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Selbstzweck',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Tauschwert',
             'book' => '15',
@@ -128872,7 +128290,7 @@
             array (
             ),
           ),
-          2 => 
+          4 => 
           array (
             'name' => 'Tauschwert',
             'book' => '15',
@@ -128893,7 +128311,7 @@
             array (
             ),
           ),
-          3 => 
+          5 => 
           array (
             'name' => 'Tauschwert',
             'book' => '15',
@@ -128914,7 +128332,7 @@
             array (
             ),
           ),
-          4 => 
+          6 => 
           array (
             'name' => 'Tauschwert',
             'book' => '15',
@@ -128935,7 +128353,7 @@
             array (
             ),
           ),
-          5 => 
+          7 => 
           array (
             'name' => 'Tauschwert',
             'book' => '15',
@@ -128956,7 +128374,7 @@
             array (
             ),
           ),
-          6 => 
+          8 => 
           array (
             'name' => 'Tauschwert',
             'book' => '15',
@@ -133042,56 +132460,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '11',
+            'startPage' => '778',
+            'endPage' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '11',
-              'startPage' => '778',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '2',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'slave breeding states',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '2',
+            'endLine' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '30',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Sklavenzuchtgebiet',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'slave breeding states',
+            'endTerm' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '32',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Sklavenzuchtgebiet',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '30',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Sklavenzuchtgebiet',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '32',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Sklavenzuchtgebiet',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -133103,56 +132518,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '11',
+            'startPage' => '778',
+            'endPage' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '11',
-              'startPage' => '778',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '2',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'slave breeding states',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '2',
+            'endLine' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '30',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Sklavenzuchtgebiet',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'slave breeding states',
+            'endTerm' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '32',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Sklavenzuchtgebiet',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '30',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Sklavenzuchtgebiet',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '32',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Sklavenzuchtgebiet',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -133234,59 +132646,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '11',
+            'startPage' => '778',
+            'endPage' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '11',
-              'startPage' => '778',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '2',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'slave breeding states',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '2',
+            'endLine' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '12',
-              'startPage' => '442',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '30',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Sklavenzuchtgebiet',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'slave breeding states',
+            'endTerm' => 
             array (
-              'name' => 'Sklavenzuchtgebiet',
-              'book' => '13',
-              'startPage' => '445',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '32',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Sklavenzuchtgebiet',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '12',
+            'startPage' => '442',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '30',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Sklavenzuchtgebiet',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Sklavenzuchtgebiet',
+            'book' => '13',
+            'startPage' => '445',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '32',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Sklavenzuchtgebiet',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'Verkehrswesen',
             'book' => '15',
@@ -134598,56 +134007,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -134687,56 +134093,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -134748,56 +134151,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -134809,56 +134209,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -134870,56 +134267,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -134931,56 +134325,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -134992,56 +134383,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -135109,56 +134497,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -135170,59 +134555,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'und Ackerbau',
             'book' => '15',
@@ -135252,56 +134634,53 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'New Leicesters',
+            'book' => '11',
+            'startPage' => '189',
+            'endPage' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '11',
-              'startPage' => '189',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '37',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'new Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '37',
+            'endLine' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '12',
-              'startPage' => '203',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '16',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'new Leicesters',
+            'endTerm' => 
             array (
-              'name' => 'New Leicesters',
-              'book' => '13',
-              'startPage' => '220',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '15',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'New Leicesters',
-              'endTerm' => 
-              array (
-              ),
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '12',
+            'startPage' => '203',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '16',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Leicesters',
+            'book' => '13',
+            'startPage' => '220',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '15',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'New Leicesters',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -136873,45 +136252,42 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'ihre Verdopplung in Ware und Geld',
+            'book' => '11',
+            'startPage' => '344',
+            'endPage' => 
             array (
-              'name' => 'ihre Verdopplung in Ware und Geld',
-              'book' => '11',
-              'startPage' => '344',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'die Verdopplung der Waare in Waare u. Geld',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '1',
+            'endLine' => 
             array (
-              'name' => 'ihre Verdopplung in Ware und Geld',
-              'book' => '12',
-              'startPage' => '317',
-              'endPage' => '317',
-              'startLine' => '35',
-              'endLine' => '36',
-              'startTerm' => 'die Verdopplung der Waare in',
-              'endTerm' => 'Waare und Geld',
             ),
-            2 => 
+            'startTerm' => 'die Verdopplung der Waare in Waare u. Geld',
+            'endTerm' => 
             array (
-              'name' => 'ihre Verdopplung in Ware und Geld',
-              'book' => '13',
-              'startPage' => '329',
-              'endPage' => '329',
-              'startLine' => '6',
-              'endLine' => '7',
-              'startTerm' => 'die Verdopplung der Waare in',
-              'endTerm' => 'Waare und Geld',
             ),
+          ),
+          1 => 
+          array (
+            'name' => 'ihre Verdopplung in Ware und Geld',
+            'book' => '12',
+            'startPage' => '317',
+            'endPage' => '317',
+            'startLine' => '35',
+            'endLine' => '36',
+            'startTerm' => 'die Verdopplung der Waare in',
+            'endTerm' => 'Waare und Geld',
+          ),
+          2 => 
+          array (
+            'name' => 'ihre Verdopplung in Ware und Geld',
+            'book' => '13',
+            'startPage' => '329',
+            'endPage' => '329',
+            'startLine' => '6',
+            'endLine' => '7',
+            'startTerm' => 'die Verdopplung der Waare in',
+            'endTerm' => 'Waare und Geld',
           ),
         ),
       ),
@@ -137258,45 +136634,42 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'ihre Verdopplung in Ware und Geld',
+            'book' => '11',
+            'startPage' => '344',
+            'endPage' => 
             array (
-              'name' => 'ihre Verdopplung in Ware und Geld',
-              'book' => '11',
-              'startPage' => '344',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '1',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'die Verdopplung der Waare in Waare u. Geld',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '1',
+            'endLine' => 
             array (
-              'name' => 'ihre Verdopplung in Ware und Geld',
-              'book' => '12',
-              'startPage' => '317',
-              'endPage' => '317',
-              'startLine' => '35',
-              'endLine' => '36',
-              'startTerm' => 'die Verdopplung der Waare in',
-              'endTerm' => 'Waare und Geld',
             ),
-            2 => 
+            'startTerm' => 'die Verdopplung der Waare in Waare u. Geld',
+            'endTerm' => 
             array (
-              'name' => 'ihre Verdopplung in Ware und Geld',
-              'book' => '13',
-              'startPage' => '329',
-              'endPage' => '329',
-              'startLine' => '6',
-              'endLine' => '7',
-              'startTerm' => 'die Verdopplung der Waare in',
-              'endTerm' => 'Waare und Geld',
             ),
+          ),
+          1 => 
+          array (
+            'name' => 'ihre Verdopplung in Ware und Geld',
+            'book' => '12',
+            'startPage' => '317',
+            'endPage' => '317',
+            'startLine' => '35',
+            'endLine' => '36',
+            'startTerm' => 'die Verdopplung der Waare in',
+            'endTerm' => 'Waare und Geld',
+          ),
+          2 => 
+          array (
+            'name' => 'ihre Verdopplung in Ware und Geld',
+            'book' => '13',
+            'startPage' => '329',
+            'endPage' => '329',
+            'startLine' => '6',
+            'endLine' => '7',
+            'startTerm' => 'die Verdopplung der Waare in',
+            'endTerm' => 'Waare und Geld',
           ),
         ),
       ),
@@ -139673,64 +139046,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -139742,64 +139112,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -139839,64 +139206,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -139908,64 +139272,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -140005,64 +139366,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -140074,64 +139432,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -140143,64 +139498,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -140212,64 +139564,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -140281,64 +139630,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -140350,64 +139696,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -140419,64 +139762,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -140516,64 +139856,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -141551,64 +140888,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -141620,67 +140954,64 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
+            'endTerm' => 'Waarenkapital',
           ),
           1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'und Geldkapital im Gegensatz zum produktiven Kapital',
             'book' => '15',
@@ -141738,64 +141069,61 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'überschüssiges',
+            'book' => '11',
+            'startPage' => '277',
+            'endPage' => '277',
+            'startLine' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '11',
-              'startPage' => '277',
-              'endPage' => '277',
-              'startLine' => 
+              '@content' => '26',
+              '@attributes' => 
               array (
-                '@content' => '26',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '27',
-              'startTerm' => 
-              array (
-                '@content' => 'über-schüssiges',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'Waarenkapital',
-            ),
-            1 => 
-            array (
-              'name' => 'überschüssiges',
-              'book' => '12',
-              'startPage' => '254',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
+                'type' => 'split',
               ),
             ),
-            2 => 
+            'endLine' => '27',
+            'startTerm' => 
             array (
-              'name' => 'überschüssiges',
-              'book' => '13',
-              'startPage' => '267',
-              'endPage' => 
+              '@content' => 'über-schüssiges',
+              '@attributes' => 
               array (
+                'type' => 'split',
               ),
-              'startLine' => '27',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'überschüssiges Waarenkapital',
-              'endTerm' => 
-              array (
-              ),
+            ),
+            'endTerm' => 'Waarenkapital',
+          ),
+          1 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '12',
+            'startPage' => '254',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'überschüssiges',
+            'book' => '13',
+            'startPage' => '267',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '27',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'überschüssiges Waarenkapital',
+            'endTerm' => 
+            array (
             ),
           ),
         ),
@@ -141814,51 +141142,48 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Exploitation',
+            'book' => '11',
+            'startPage' => '672',
+            'endPage' => '672',
+            'startLine' => '16',
+            'endLine' => '28',
+            'startTerm' => 'Sein',
+            'endTerm' => 'übergipfelt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '30',
+            'endLine' => '36',
+            'startTerm' => 'Jeder',
+            'endTerm' => 'übergipfelt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '30',
+            'endLine' => 
             array (
-              'name' => 'und Exploitation',
-              'book' => '11',
-              'startPage' => '672',
-              'endPage' => '672',
-              'startLine' => '16',
-              'endLine' => '28',
-              'startTerm' => 'Sein',
-              'endTerm' => 'übergipfelt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '30',
-              'endLine' => '36',
-              'startTerm' => 'Jeder',
-              'endTerm' => 'übergipfelt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '30',
-              'endLine' => 
+              '@content' => '36',
+              '@attributes' => 
               array (
-                '@content' => '36',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'startTerm' => 'Jeder',
-              'endTerm' => 
+            ),
+            'startTerm' => 'Jeder',
+            'endTerm' => 
+            array (
+              '@content' => 'übergip-felt.',
+              '@attributes' => 
               array (
-                '@content' => 'übergip-felt.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
             ),
           ),
@@ -141871,51 +141196,48 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Exploitation',
+            'book' => '11',
+            'startPage' => '672',
+            'endPage' => '672',
+            'startLine' => '16',
+            'endLine' => '28',
+            'startTerm' => 'Sein',
+            'endTerm' => 'übergipfelt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '30',
+            'endLine' => '36',
+            'startTerm' => 'Jeder',
+            'endTerm' => 'übergipfelt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '30',
+            'endLine' => 
             array (
-              'name' => 'und Exploitation',
-              'book' => '11',
-              'startPage' => '672',
-              'endPage' => '672',
-              'startLine' => '16',
-              'endLine' => '28',
-              'startTerm' => 'Sein',
-              'endTerm' => 'übergipfelt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '30',
-              'endLine' => '36',
-              'startTerm' => 'Jeder',
-              'endTerm' => 'übergipfelt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '30',
-              'endLine' => 
+              '@content' => '36',
+              '@attributes' => 
               array (
-                '@content' => '36',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'startTerm' => 'Jeder',
-              'endTerm' => 
+            ),
+            'startTerm' => 'Jeder',
+            'endTerm' => 
+            array (
+              '@content' => 'übergip-felt.',
+              '@attributes' => 
               array (
-                '@content' => 'übergip-felt.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
             ),
           ),
@@ -142012,51 +141334,48 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Exploitation',
+            'book' => '11',
+            'startPage' => '672',
+            'endPage' => '672',
+            'startLine' => '16',
+            'endLine' => '28',
+            'startTerm' => 'Sein',
+            'endTerm' => 'übergipfelt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '30',
+            'endLine' => '36',
+            'startTerm' => 'Jeder',
+            'endTerm' => 'übergipfelt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '30',
+            'endLine' => 
             array (
-              'name' => 'und Exploitation',
-              'book' => '11',
-              'startPage' => '672',
-              'endPage' => '672',
-              'startLine' => '16',
-              'endLine' => '28',
-              'startTerm' => 'Sein',
-              'endTerm' => 'übergipfelt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '30',
-              'endLine' => '36',
-              'startTerm' => 'Jeder',
-              'endTerm' => 'übergipfelt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '30',
-              'endLine' => 
+              '@content' => '36',
+              '@attributes' => 
               array (
-                '@content' => '36',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'startTerm' => 'Jeder',
-              'endTerm' => 
+            ),
+            'startTerm' => 'Jeder',
+            'endTerm' => 
+            array (
+              '@content' => 'übergip-felt.',
+              '@attributes' => 
               array (
-                '@content' => 'übergip-felt.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
             ),
           ),
@@ -142202,51 +141521,48 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Exploitation',
+            'book' => '11',
+            'startPage' => '672',
+            'endPage' => '672',
+            'startLine' => '16',
+            'endLine' => '28',
+            'startTerm' => 'Sein',
+            'endTerm' => 'übergipfelt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '30',
+            'endLine' => '36',
+            'startTerm' => 'Jeder',
+            'endTerm' => 'übergipfelt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '30',
+            'endLine' => 
             array (
-              'name' => 'und Exploitation',
-              'book' => '11',
-              'startPage' => '672',
-              'endPage' => '672',
-              'startLine' => '16',
-              'endLine' => '28',
-              'startTerm' => 'Sein',
-              'endTerm' => 'übergipfelt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '30',
-              'endLine' => '36',
-              'startTerm' => 'Jeder',
-              'endTerm' => 'übergipfelt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '30',
-              'endLine' => 
+              '@content' => '36',
+              '@attributes' => 
               array (
-                '@content' => '36',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'startTerm' => 'Jeder',
-              'endTerm' => 
+            ),
+            'startTerm' => 'Jeder',
+            'endTerm' => 
+            array (
+              '@content' => 'übergip-felt.',
+              '@attributes' => 
               array (
-                '@content' => 'übergip-felt.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
             ),
           ),
@@ -142259,51 +141575,48 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Exploitation',
+            'book' => '11',
+            'startPage' => '672',
+            'endPage' => '672',
+            'startLine' => '16',
+            'endLine' => '28',
+            'startTerm' => 'Sein',
+            'endTerm' => 'übergipfelt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '30',
+            'endLine' => '36',
+            'startTerm' => 'Jeder',
+            'endTerm' => 'übergipfelt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '30',
+            'endLine' => 
             array (
-              'name' => 'und Exploitation',
-              'book' => '11',
-              'startPage' => '672',
-              'endPage' => '672',
-              'startLine' => '16',
-              'endLine' => '28',
-              'startTerm' => 'Sein',
-              'endTerm' => 'übergipfelt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '30',
-              'endLine' => '36',
-              'startTerm' => 'Jeder',
-              'endTerm' => 'übergipfelt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '30',
-              'endLine' => 
+              '@content' => '36',
+              '@attributes' => 
               array (
-                '@content' => '36',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'startTerm' => 'Jeder',
-              'endTerm' => 
+            ),
+            'startTerm' => 'Jeder',
+            'endTerm' => 
+            array (
+              '@content' => 'übergip-felt.',
+              '@attributes' => 
               array (
-                '@content' => 'übergip-felt.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
             ),
           ),
@@ -142316,51 +141629,48 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Exploitation',
+            'book' => '11',
+            'startPage' => '672',
+            'endPage' => '672',
+            'startLine' => '16',
+            'endLine' => '28',
+            'startTerm' => 'Sein',
+            'endTerm' => 'übergipfelt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '30',
+            'endLine' => '36',
+            'startTerm' => 'Jeder',
+            'endTerm' => 'übergipfelt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '30',
+            'endLine' => 
             array (
-              'name' => 'und Exploitation',
-              'book' => '11',
-              'startPage' => '672',
-              'endPage' => '672',
-              'startLine' => '16',
-              'endLine' => '28',
-              'startTerm' => 'Sein',
-              'endTerm' => 'übergipfelt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '30',
-              'endLine' => '36',
-              'startTerm' => 'Jeder',
-              'endTerm' => 'übergipfelt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '30',
-              'endLine' => 
+              '@content' => '36',
+              '@attributes' => 
               array (
-                '@content' => '36',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'startTerm' => 'Jeder',
-              'endTerm' => 
+            ),
+            'startTerm' => 'Jeder',
+            'endTerm' => 
+            array (
+              '@content' => 'übergip-felt.',
+              '@attributes' => 
               array (
-                '@content' => 'übergip-felt.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
             ),
           ),
@@ -142373,51 +141683,48 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Exploitation',
+            'book' => '11',
+            'startPage' => '672',
+            'endPage' => '672',
+            'startLine' => '16',
+            'endLine' => '28',
+            'startTerm' => 'Sein',
+            'endTerm' => 'übergipfelt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '30',
+            'endLine' => '36',
+            'startTerm' => 'Jeder',
+            'endTerm' => 'übergipfelt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '30',
+            'endLine' => 
             array (
-              'name' => 'und Exploitation',
-              'book' => '11',
-              'startPage' => '672',
-              'endPage' => '672',
-              'startLine' => '16',
-              'endLine' => '28',
-              'startTerm' => 'Sein',
-              'endTerm' => 'übergipfelt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '30',
-              'endLine' => '36',
-              'startTerm' => 'Jeder',
-              'endTerm' => 'übergipfelt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '30',
-              'endLine' => 
+              '@content' => '36',
+              '@attributes' => 
               array (
-                '@content' => '36',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'startTerm' => 'Jeder',
-              'endTerm' => 
+            ),
+            'startTerm' => 'Jeder',
+            'endTerm' => 
+            array (
+              '@content' => 'übergip-felt.',
+              '@attributes' => 
               array (
-                '@content' => 'übergip-felt.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
             ),
           ),
@@ -142612,51 +141919,48 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'und Exploitation',
+            'book' => '11',
+            'startPage' => '672',
+            'endPage' => '672',
+            'startLine' => '16',
+            'endLine' => '28',
+            'startTerm' => 'Sein',
+            'endTerm' => 'übergipfelt.',
+          ),
+          1 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '12',
+            'startPage' => '16',
+            'endPage' => '16',
+            'startLine' => '30',
+            'endLine' => '36',
+            'startTerm' => 'Jeder',
+            'endTerm' => 'übergipfelt.',
+          ),
+          2 => 
+          array (
+            'name' => 'und Exploitation',
+            'book' => '13',
+            'startPage' => '38',
+            'endPage' => '38',
+            'startLine' => '30',
+            'endLine' => 
             array (
-              'name' => 'und Exploitation',
-              'book' => '11',
-              'startPage' => '672',
-              'endPage' => '672',
-              'startLine' => '16',
-              'endLine' => '28',
-              'startTerm' => 'Sein',
-              'endTerm' => 'übergipfelt.',
-            ),
-            1 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '12',
-              'startPage' => '16',
-              'endPage' => '16',
-              'startLine' => '30',
-              'endLine' => '36',
-              'startTerm' => 'Jeder',
-              'endTerm' => 'übergipfelt.',
-            ),
-            2 => 
-            array (
-              'name' => 'und Exploitation',
-              'book' => '13',
-              'startPage' => '38',
-              'endPage' => '38',
-              'startLine' => '30',
-              'endLine' => 
+              '@content' => '36',
+              '@attributes' => 
               array (
-                '@content' => '36',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'startTerm' => 'Jeder',
-              'endTerm' => 
+            ),
+            'startTerm' => 'Jeder',
+            'endTerm' => 
+            array (
+              '@content' => 'übergip-felt.',
+              '@attributes' => 
               array (
-                '@content' => 'übergip-felt.',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
             ),
           ),
@@ -147409,39 +146713,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -147480,39 +146781,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -147523,39 +146821,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -148126,39 +147421,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -148169,39 +147461,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -148428,39 +147717,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -148471,39 +147757,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -150859,41 +150142,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
           1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          3 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -150914,7 +150194,7 @@
             array (
             ),
           ),
-          2 => 
+          4 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -150935,7 +150215,7 @@
             array (
             ),
           ),
-          3 => 
+          5 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -150956,7 +150236,7 @@
             array (
             ),
           ),
-          4 => 
+          6 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -150977,7 +150257,7 @@
             array (
             ),
           ),
-          5 => 
+          7 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -150998,7 +150278,7 @@
             array (
             ),
           ),
-          6 => 
+          8 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151019,7 +150299,7 @@
             array (
             ),
           ),
-          7 => 
+          9 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151040,7 +150320,7 @@
             array (
             ),
           ),
-          8 => 
+          10 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151061,7 +150341,7 @@
             array (
             ),
           ),
-          9 => 
+          11 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151082,7 +150362,7 @@
             array (
             ),
           ),
-          10 => 
+          12 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151103,7 +150383,7 @@
             array (
             ),
           ),
-          11 => 
+          13 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151124,7 +150404,7 @@
             array (
             ),
           ),
-          12 => 
+          14 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151145,7 +150425,7 @@
             array (
             ),
           ),
-          13 => 
+          15 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151166,7 +150446,7 @@
             array (
             ),
           ),
-          14 => 
+          16 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151187,7 +150467,7 @@
             array (
             ),
           ),
-          15 => 
+          17 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151208,7 +150488,7 @@
             array (
             ),
           ),
-          16 => 
+          18 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151229,7 +150509,7 @@
             array (
             ),
           ),
-          17 => 
+          19 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151250,7 +150530,7 @@
             array (
             ),
           ),
-          18 => 
+          20 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151271,7 +150551,7 @@
             array (
             ),
           ),
-          19 => 
+          21 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151292,7 +150572,7 @@
             array (
             ),
           ),
-          20 => 
+          22 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151313,7 +150593,7 @@
             array (
             ),
           ),
-          21 => 
+          23 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151334,7 +150614,7 @@
             array (
             ),
           ),
-          22 => 
+          24 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151355,7 +150635,7 @@
             array (
             ),
           ),
-          23 => 
+          25 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151376,7 +150656,7 @@
             array (
             ),
           ),
-          24 => 
+          26 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151397,7 +150677,7 @@
             array (
             ),
           ),
-          25 => 
+          27 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151418,7 +150698,7 @@
             array (
             ),
           ),
-          26 => 
+          28 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151439,7 +150719,7 @@
             array (
             ),
           ),
-          27 => 
+          29 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151460,7 +150740,7 @@
             array (
             ),
           ),
-          28 => 
+          30 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151481,7 +150761,7 @@
             array (
             ),
           ),
-          29 => 
+          31 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151502,7 +150782,7 @@
             array (
             ),
           ),
-          30 => 
+          32 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151523,7 +150803,7 @@
             array (
             ),
           ),
-          31 => 
+          33 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151544,7 +150824,7 @@
             array (
             ),
           ),
-          32 => 
+          34 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151565,7 +150845,7 @@
             array (
             ),
           ),
-          33 => 
+          35 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151586,7 +150866,7 @@
             array (
             ),
           ),
-          34 => 
+          36 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151607,7 +150887,7 @@
             array (
             ),
           ),
-          35 => 
+          37 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151628,7 +150908,7 @@
             array (
             ),
           ),
-          36 => 
+          38 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151649,7 +150929,7 @@
             array (
             ),
           ),
-          37 => 
+          39 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151670,7 +150950,7 @@
             array (
             ),
           ),
-          38 => 
+          40 => 
           array (
             'name' => 'und Produktivität der Arbeit',
             'book' => '15',
@@ -151700,39 +150980,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -151743,39 +151020,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -151870,39 +151144,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -151913,39 +151184,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '11',
-              'startPage' => '646',
-              'endPage' => '647',
-              'startLine' => '41',
-              'endLine' => '40',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            1 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '12',
-              'startPage' => '80',
-              'endPage' => '80',
-              'startLine' => '15',
-              'endLine' => '31',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
-            2 => 
-            array (
-              'name' => 'Bailey über W.',
-              'book' => '13',
-              'startPage' => '99',
-              'endPage' => '99',
-              'startLine' => '20',
-              'endLine' => '36',
-              'startTerm' => 'Value',
-              'endTerm' => 'wird.',
-            ),
+            'name' => 'Bailey über W.',
+            'book' => '11',
+            'startPage' => '646',
+            'endPage' => '647',
+            'startLine' => '41',
+            'endLine' => '40',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          1 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '12',
+            'startPage' => '80',
+            'endPage' => '80',
+            'startLine' => '15',
+            'endLine' => '31',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
+          ),
+          2 => 
+          array (
+            'name' => 'Bailey über W.',
+            'book' => '13',
+            'startPage' => '99',
+            'endPage' => '99',
+            'startLine' => '20',
+            'endLine' => '36',
+            'startTerm' => 'Value',
+            'endTerm' => 'wird.',
           ),
         ),
       ),
@@ -154271,60 +153539,57 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'in der kapitalistischen Produktionsweise',
+            'book' => '11',
+            'startPage' => '308',
+            'endPage' => '308',
+            'startLine' => '9',
+            'endLine' => '20',
+            'startTerm' => 'Widerspruch',
+            'endTerm' => 'etc.',
+          ),
+          1 => 
+          array (
+            'name' => 'in der kapitalistischen Produktionsweise',
+            'book' => '12',
+            'startPage' => '280',
+            'endPage' => '280',
+            'startLine' => 
             array (
-              'name' => 'in der kapitalistischen Produktionsweise',
-              'book' => '11',
-              'startPage' => '308',
-              'endPage' => '308',
-              'startLine' => '9',
-              'endLine' => '20',
-              'startTerm' => 'Widerspruch',
-              'endTerm' => 'etc.',
+              '@content' => '32',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
             ),
-            1 => 
+            'endLine' => '42',
+            'startTerm' => 
             array (
-              'name' => 'in der kapitalistischen Produktionsweise',
-              'book' => '12',
-              'startPage' => '280',
-              'endPage' => '280',
-              'startLine' => 
+              '@content' => 'Wi-derspruch',
+              '@attributes' => 
               array (
-                '@content' => '32',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endLine' => '42',
-              'startTerm' => 
-              array (
-                '@content' => 'Wi-derspruch',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'muß.',
             ),
-            2 => 
+            'endTerm' => 'muß.',
+          ),
+          2 => 
+          array (
+            'name' => 'in der kapitalistischen Produktionsweise',
+            'book' => '13',
+            'startPage' => '293',
+            'endPage' => '293',
+            'startLine' => '+31-32',
+            'endLine' => '41',
+            'startTerm' => 
             array (
-              'name' => 'in der kapitalistischen Produktionsweise',
-              'book' => '13',
-              'startPage' => '293',
-              'endPage' => '293',
-              'startLine' => '+31-32',
-              'endLine' => '41',
-              'startTerm' => 
+              '@content' => 'Wi-derspruch',
+              '@attributes' => 
               array (
-                '@content' => 'Wi-derspruch',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
+                'type' => 'split',
               ),
-              'endTerm' => 'muß.',
             ),
+            'endTerm' => 'muß.',
           ),
         ),
       ),
@@ -154391,62 +153656,59 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'in der kapitalistischen Produktionsweise',
-              'book' => '11',
-              'startPage' => '308',
-              'endPage' => '308',
-              'startLine' => '9',
-              'endLine' => '20',
-              'startTerm' => 'Widerspruch',
-              'endTerm' => 'etc.',
-            ),
-            1 => 
-            array (
-              'name' => 'in der kapitalistischen Produktionsweise',
-              'book' => '12',
-              'startPage' => '280',
-              'endPage' => '280',
-              'startLine' => 
-              array (
-                '@content' => '32',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endLine' => '42',
-              'startTerm' => 
-              array (
-                '@content' => 'Wi-derspruch',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'muß.',
-            ),
-            2 => 
-            array (
-              'name' => 'in der kapitalistischen Produktionsweise',
-              'book' => '13',
-              'startPage' => '293',
-              'endPage' => '293',
-              'startLine' => '+31-32',
-              'endLine' => '41',
-              'startTerm' => 
-              array (
-                '@content' => 'Wi-derspruch',
-                '@attributes' => 
-                array (
-                  'type' => 'split',
-                ),
-              ),
-              'endTerm' => 'muß.',
-            ),
+            'name' => 'in der kapitalistischen Produktionsweise',
+            'book' => '11',
+            'startPage' => '308',
+            'endPage' => '308',
+            'startLine' => '9',
+            'endLine' => '20',
+            'startTerm' => 'Widerspruch',
+            'endTerm' => 'etc.',
           ),
           1 => 
+          array (
+            'name' => 'in der kapitalistischen Produktionsweise',
+            'book' => '12',
+            'startPage' => '280',
+            'endPage' => '280',
+            'startLine' => 
+            array (
+              '@content' => '32',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endLine' => '42',
+            'startTerm' => 
+            array (
+              '@content' => 'Wi-derspruch',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endTerm' => 'muß.',
+          ),
+          2 => 
+          array (
+            'name' => 'in der kapitalistischen Produktionsweise',
+            'book' => '13',
+            'startPage' => '293',
+            'endPage' => '293',
+            'startLine' => '+31-32',
+            'endLine' => '41',
+            'startTerm' => 
+            array (
+              '@content' => 'Wi-derspruch',
+              '@attributes' => 
+              array (
+                'type' => 'split',
+              ),
+            ),
+            'endTerm' => 'muß.',
+          ),
+          3 => 
           array (
             'name' => 'zwischen Produktivkräften und Produktionsverhältnissen',
             'book' => '15',
@@ -155478,59 +154740,56 @@
         array (
           0 => 
           array (
-            0 => 
+            'name' => 'Zahlungsbilanz',
+            'book' => '11',
+            'startPage' => '608',
+            'endPage' => 
             array (
-              'name' => 'Zahlungsbilanz',
-              'book' => '11',
-              'startPage' => '608',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '11',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Zahlungsbilanz',
-              'endTerm' => 
-              array (
-              ),
             ),
-            1 => 
+            'startLine' => '11',
+            'endLine' => 
             array (
-              'name' => 'Zahlungsbilanz',
-              'book' => '12',
-              'startPage' => '48',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '39',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Zahlungsbilanz',
-              'endTerm' => 
-              array (
-              ),
             ),
-            2 => 
+            'startTerm' => 'Zahlungsbilanz',
+            'endTerm' => 
             array (
-              'name' => 'Zahlungsbilanz',
-              'book' => '13',
-              'startPage' => '68',
-              'endPage' => 
-              array (
-              ),
-              'startLine' => '20',
-              'endLine' => 
-              array (
-              ),
-              'startTerm' => 'Zahlungsbilanz',
-              'endTerm' => 
-              array (
-              ),
             ),
           ),
           1 => 
+          array (
+            'name' => 'Zahlungsbilanz',
+            'book' => '12',
+            'startPage' => '48',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '39',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Zahlungsbilanz',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'Zahlungsbilanz',
+            'book' => '13',
+            'startPage' => '68',
+            'endPage' => 
+            array (
+            ),
+            'startLine' => '20',
+            'endLine' => 
+            array (
+            ),
+            'startTerm' => 'Zahlungsbilanz',
+            'endTerm' => 
+            array (
+            ),
+          ),
+          3 => 
           array (
             'name' => 'in Krisen',
             'book' => '15',
@@ -155960,28 +155219,25 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Zentralisation',
-              'book' => '12',
-              'startPage' => '311',
-              'endPage' => '311',
-              'startLine' => '27',
-              'endLine' => '27',
-              'startTerm' => 'Centralisation',
-              'endTerm' => 'Kapital',
-            ),
-            1 => 
-            array (
-              'name' => 'Zentralisation',
-              'book' => '13',
-              'startPage' => '324',
-              'endPage' => '324',
-              'startLine' => '37',
-              'endLine' => '37',
-              'startTerm' => 'Centralisation',
-              'endTerm' => 'Kapital',
-            ),
+            'name' => 'Zentralisation',
+            'book' => '12',
+            'startPage' => '311',
+            'endPage' => '311',
+            'startLine' => '27',
+            'endLine' => '27',
+            'startTerm' => 'Centralisation',
+            'endTerm' => 'Kapital',
+          ),
+          1 => 
+          array (
+            'name' => 'Zentralisation',
+            'book' => '13',
+            'startPage' => '324',
+            'endPage' => '324',
+            'startLine' => '37',
+            'endLine' => '37',
+            'startTerm' => 'Centralisation',
+            'endTerm' => 'Kapital',
           ),
         ),
       ),
@@ -158716,39 +157972,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '11',
-              'startPage' => '610',
-              'endPage' => '610',
-              'startLine' => '21',
-              'endLine' => '22',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist',
-            ),
-            1 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '51',
-              'startLine' => '6',
-              'endLine' => '7',
-              'startTerm' => 'Produktion',
-              'endTerm' => '"ist;"',
-            ),
-            2 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '13',
-              'startPage' => '70',
-              'endPage' => '70',
-              'startLine' => '20',
-              'endLine' => '21',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist;',
-            ),
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '11',
+            'startPage' => '610',
+            'endPage' => '610',
+            'startLine' => '21',
+            'endLine' => '22',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist',
+          ),
+          1 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '51',
+            'startLine' => '6',
+            'endLine' => '7',
+            'startTerm' => 'Produktion',
+            'endTerm' => '"ist;"',
+          ),
+          2 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '13',
+            'startPage' => '70',
+            'endPage' => '70',
+            'startLine' => '20',
+            'endLine' => '21',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist;',
           ),
         ),
       ),
@@ -158759,39 +158012,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '11',
-              'startPage' => '610',
-              'endPage' => '610',
-              'startLine' => '21',
-              'endLine' => '22',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist',
-            ),
-            1 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '51',
-              'startLine' => '6',
-              'endLine' => '7',
-              'startTerm' => 'Produktion',
-              'endTerm' => '"ist;"',
-            ),
-            2 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '13',
-              'startPage' => '70',
-              'endPage' => '70',
-              'startLine' => '20',
-              'endLine' => '21',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist;',
-            ),
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '11',
+            'startPage' => '610',
+            'endPage' => '610',
+            'startLine' => '21',
+            'endLine' => '22',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist',
+          ),
+          1 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '51',
+            'startLine' => '6',
+            'endLine' => '7',
+            'startTerm' => 'Produktion',
+            'endTerm' => '"ist;"',
+          ),
+          2 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '13',
+            'startPage' => '70',
+            'endPage' => '70',
+            'startLine' => '20',
+            'endLine' => '21',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist;',
           ),
         ),
       ),
@@ -158802,39 +158052,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '11',
-              'startPage' => '610',
-              'endPage' => '610',
-              'startLine' => '21',
-              'endLine' => '22',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist',
-            ),
-            1 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '51',
-              'startLine' => '6',
-              'endLine' => '7',
-              'startTerm' => 'Produktion',
-              'endTerm' => '"ist;"',
-            ),
-            2 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '13',
-              'startPage' => '70',
-              'endPage' => '70',
-              'startLine' => '20',
-              'endLine' => '21',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist;',
-            ),
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '11',
+            'startPage' => '610',
+            'endPage' => '610',
+            'startLine' => '21',
+            'endLine' => '22',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist',
+          ),
+          1 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '51',
+            'startLine' => '6',
+            'endLine' => '7',
+            'startTerm' => 'Produktion',
+            'endTerm' => '"ist;"',
+          ),
+          2 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '13',
+            'startPage' => '70',
+            'endPage' => '70',
+            'startLine' => '20',
+            'endLine' => '21',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist;',
           ),
         ),
       ),
@@ -159086,39 +158333,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '11',
-              'startPage' => '610',
-              'endPage' => '610',
-              'startLine' => '21',
-              'endLine' => '22',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist',
-            ),
-            1 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '51',
-              'startLine' => '6',
-              'endLine' => '7',
-              'startTerm' => 'Produktion',
-              'endTerm' => '"ist;"',
-            ),
-            2 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '13',
-              'startPage' => '70',
-              'endPage' => '70',
-              'startLine' => '20',
-              'endLine' => '21',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist;',
-            ),
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '11',
+            'startPage' => '610',
+            'endPage' => '610',
+            'startLine' => '21',
+            'endLine' => '22',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist',
+          ),
+          1 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '51',
+            'startLine' => '6',
+            'endLine' => '7',
+            'startTerm' => 'Produktion',
+            'endTerm' => '"ist;"',
+          ),
+          2 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '13',
+            'startPage' => '70',
+            'endPage' => '70',
+            'startLine' => '20',
+            'endLine' => '21',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist;',
           ),
         ),
       ),
@@ -159129,39 +158373,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '11',
-              'startPage' => '610',
-              'endPage' => '610',
-              'startLine' => '21',
-              'endLine' => '22',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist',
-            ),
-            1 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '12',
-              'startPage' => '51',
-              'endPage' => '51',
-              'startLine' => '6',
-              'endLine' => '7',
-              'startTerm' => 'Produktion',
-              'endTerm' => '"ist;"',
-            ),
-            2 => 
-            array (
-              'name' => 'Existenz der Produzenten als Z.',
-              'book' => '13',
-              'startPage' => '70',
-              'endPage' => '70',
-              'startLine' => '20',
-              'endLine' => '21',
-              'startTerm' => 'Produktion',
-              'endTerm' => 'ist;',
-            ),
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '11',
+            'startPage' => '610',
+            'endPage' => '610',
+            'startLine' => '21',
+            'endLine' => '22',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist',
+          ),
+          1 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '12',
+            'startPage' => '51',
+            'endPage' => '51',
+            'startLine' => '6',
+            'endLine' => '7',
+            'startTerm' => 'Produktion',
+            'endTerm' => '"ist;"',
+          ),
+          2 => 
+          array (
+            'name' => 'Existenz der Produzenten als Z.',
+            'book' => '13',
+            'startPage' => '70',
+            'endPage' => '70',
+            'startLine' => '20',
+            'endLine' => '21',
+            'startTerm' => 'Produktion',
+            'endTerm' => 'ist;',
           ),
         ),
       ),
@@ -159207,39 +158448,36 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'melancholische Periode',
-              'book' => '11',
-              'startPage' => '271',
-              'endPage' => '271',
-              'startLine' => '14',
-              'endLine' => '16',
-              'startTerm' => 'dieß',
-              'endTerm' => 'eröffnet',
-            ),
-            1 => 
-            array (
-              'name' => 'melancholische Periode',
-              'book' => '12',
-              'startPage' => '246',
-              'endPage' => '246',
-              'startLine' => '32',
-              'endLine' => '34',
-              'startTerm' => 'dies',
-              'endTerm' => 'eröffnet',
-            ),
-            2 => 
-            array (
-              'name' => 'melancholische Periode',
-              'book' => '13',
-              'startPage' => '261',
-              'endPage' => '261',
-              'startLine' => '28',
-              'endLine' => '30',
-              'startTerm' => 'dies',
-              'endTerm' => 'eröffnet',
-            ),
+            'name' => 'melancholische Periode',
+            'book' => '11',
+            'startPage' => '271',
+            'endPage' => '271',
+            'startLine' => '14',
+            'endLine' => '16',
+            'startTerm' => 'dieß',
+            'endTerm' => 'eröffnet',
+          ),
+          1 => 
+          array (
+            'name' => 'melancholische Periode',
+            'book' => '12',
+            'startPage' => '246',
+            'endPage' => '246',
+            'startLine' => '32',
+            'endLine' => '34',
+            'startTerm' => 'dies',
+            'endTerm' => 'eröffnet',
+          ),
+          2 => 
+          array (
+            'name' => 'melancholische Periode',
+            'book' => '13',
+            'startPage' => '261',
+            'endPage' => '261',
+            'startLine' => '28',
+            'endLine' => '30',
+            'startTerm' => 'dies',
+            'endTerm' => 'eröffnet',
           ),
         ),
       ),
@@ -159544,41 +158782,38 @@
         array (
           0 => 
           array (
-            0 => 
-            array (
-              'name' => 'melancholische Periode',
-              'book' => '11',
-              'startPage' => '271',
-              'endPage' => '271',
-              'startLine' => '14',
-              'endLine' => '16',
-              'startTerm' => 'dieß',
-              'endTerm' => 'eröffnet',
-            ),
-            1 => 
-            array (
-              'name' => 'melancholische Periode',
-              'book' => '12',
-              'startPage' => '246',
-              'endPage' => '246',
-              'startLine' => '32',
-              'endLine' => '34',
-              'startTerm' => 'dies',
-              'endTerm' => 'eröffnet',
-            ),
-            2 => 
-            array (
-              'name' => 'melancholische Periode',
-              'book' => '13',
-              'startPage' => '261',
-              'endPage' => '261',
-              'startLine' => '28',
-              'endLine' => '30',
-              'startTerm' => 'dies',
-              'endTerm' => 'eröffnet',
-            ),
+            'name' => 'melancholische Periode',
+            'book' => '11',
+            'startPage' => '271',
+            'endPage' => '271',
+            'startLine' => '14',
+            'endLine' => '16',
+            'startTerm' => 'dieß',
+            'endTerm' => 'eröffnet',
           ),
           1 => 
+          array (
+            'name' => 'melancholische Periode',
+            'book' => '12',
+            'startPage' => '246',
+            'endPage' => '246',
+            'startLine' => '32',
+            'endLine' => '34',
+            'startTerm' => 'dies',
+            'endTerm' => 'eröffnet',
+          ),
+          2 => 
+          array (
+            'name' => 'melancholische Periode',
+            'book' => '13',
+            'startPage' => '261',
+            'endPage' => '261',
+            'startLine' => '28',
+            'endLine' => '30',
+            'startTerm' => 'dies',
+            'endTerm' => 'eröffnet',
+          ),
+          3 => 
           array (
             'name' => 'und relative Übervölkerung',
             'book' => '15',
