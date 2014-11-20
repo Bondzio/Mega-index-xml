@@ -5,10 +5,22 @@ include './utility.php';
 // $result = array_merge_recursive($ar1, $ar2);
 // pre_print_r($result);
 
+$r = 'als Grundlage für tableau économique';
+$w = 'als Grundlage fÃ¼r tableau Ã©conomique';
+// $w = 'und klassische Ã–konomie';
 
-
-
-
+pre_print_r(bin2hex($r));
+// 616c73204772756e646c6167652066c3bc72207461626c65617520c3a9636f6e6f6d69717565
+// 616c73204772756e646c6167652066c3
+//                                 83c2
+//                                 bc72207461626c65617520c3
+//                                                         83c2
+//                                                         a9636f6e6f6d69717565
+pre_print_r(hex2bin('83c2'));
+pre_print_r(hex2bin('616c73204772756e646c6167652066c3bc72207461626c65617520c3a9636f6e6f6d69717565'));
+pre_print_r(bin2hex($w));
+// 616c73204772756e646c6167652066c383c2bc72207461626c65617520c383c2a9636f6e6f6d69717565
+exit;
 
 $a = array (
       'oname' => 'Ägypten',
