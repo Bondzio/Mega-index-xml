@@ -23,41 +23,55 @@ foreach ($unduplicate_arr as $key => $value) {
 		$unter_arr = $value['unterBegriff'];
 
 		foreach ($unter_arr as $k => $v) {
-			if(array_key_exists(0, $v['group'])){
-				$unduplicate_arr[$key]['unterBegriff'][$k]['group']['entry'] = array();
-				foreach ($v['group'] as $k_group => $v_group) {
-					foreach ($v_group as $k_entry => $v_entry) {
-						if($k_entry == 'entry'){
-							// pre_print_r($v_entry);
-							if(array_key_exists(0, $v_entry)){
-								foreach ($v_entry as $k_sub_entry => $v_sub_entry) {
-									// pre_print_r($v_sub_entry);
-									$unduplicate_arr[$key]['unterBegriff'][$k]['group']['entry'][] = $v_sub_entry;
-									// unset($unduplicate_arr[$key][0]['unterBegriff'][$k]['group'][$k_group]['entry']);
+			if(array_key_exists('group', $v)){
+				// unset($unduplicate_arr[$key]['unterBegriff']['$k']['group']);
+
+				if(array_key_exists(0, $v['group'])){
+					$unduplicate_arr[$key]['unterBegriff'][$k]['entry'] = array();
+					foreach ($v['group'] as $k_group => $v_group) {
+						foreach ($v_group as $k_entry => $v_entry) {
+							if($k_entry == 'entry'){
+								if(array_key_exists(0, $v_entry)){
+									foreach ($v_entry as $k_sub_entry => $v_sub_entry) {
+										$unduplicate_arr[$key]['unterBegriff'][$k]['entry'][] = $v_sub_entry;
+										}
+									}else{
+										$unduplicate_arr[$key]['unterBegriff'][$k]['entry'][] = $v_entry;
 									}
-								}else{
-									// pre_print_r($v_entry);
-									$unduplicate_arr[$key]['unterBegriff'][$k]['group']['entry'][] = $v_entry;
-								}
+							}
+							unset($unduplicate_arr[$key]['unterBegriff'][$k]['group'][$k_group]['entry']);
 						}
-						unset($unduplicate_arr[$key]['unterBegriff'][$k]['group'][$k_group]['entry']);
+							unset($unduplicate_arr[$key]['unterBegriff'][$k]['group']);
+							// unset($unduplicate_arr[$key]['unterBegriff'][$k]['group'][$k_group]);
 					}
-						unset($unduplicate_arr[$key]['unterBegriff'][$k]['group'][$k_group]);
-				}
-			}else{
-				// if(array_key_exists(0, $v['group'])){
-				// pre_print_r($v['group']['entry']);
-				// pre_print_r(count($unduplicate_arr[$key][1]['unterBegriff']));
+							// pre_print_r($unduplicate_arr[$key]['unterBegriff'][$k]['group']);
+							// unset($unduplicate_arr[$key]['unterBegriff'][$k]['group']);
+				}else{
+					// if(array_key_exists(0, $v['group'])){
+					// pre_print_r($v['group']['entry']);
+					// pre_print_r(count($unduplicate_arr[$key][1]['unterBegriff']));
 
-				$tmp = array(0 => $v['group']['entry']);
-				foreach ($unduplicate_arr[$key]['unterBegriff'] as $k_tmp => $v_tmp) {
-				unset($unduplicate_arr[$key]['unterBegriff'][$k_tmp]['group']['entry']);
-				$unduplicate_arr[$key]['unterBegriff'][$k_tmp]['group']['entry'] = $tmp;
-
+					$tmp = array(0 => $v['group']['entry']);
+					foreach ($unduplicate_arr[$key]['unterBegriff'] as $k_tmp => $v_tmp) {
+						unset($unduplicate_arr[$key]['unterBegriff'][$k_tmp]['group']['entry']);
+						$unduplicate_arr[$key]['unterBegriff'][$k_tmp]['entry'] = $tmp;
+					}
+					unset($unduplicate_arr[$key]['unterBegriff'][$k_tmp]['group']);
 				}
-			}
+
+				// $unduplicate_arr[$key]['unterBegriff'][$k]['group'] = 111111111111;
+				unset($unduplicate_arr[$key]['unterBegriff'][$k]['group']);
+		}else{
+			// pre_print_r($v);
+			pre_print_r("word's don't has key of group");
+		}
+
+		if(array_key_exists('@attributes', $v)){
+			// pre_print_r($v['@attributes']);
+			unset($unduplicate_arr[$key]['unterBegriff'][$k]['@attributes']);
 		}
 	}
+}
 
 	if(array_key_exists('link', $value)){
 		// pre_print_r($value['link']);
@@ -68,11 +82,13 @@ foreach ($unduplicate_arr as $key => $value) {
 		}
 	}
 
-
-
-
-
+	if(array_key_exists('@attributes', $value)){
+		// pre_print_r($unduplicate_arr[$key]['@attributes']);
+		unset($unduplicate_arr[$key]['@attributes']);
+	}
 }
+
+
 
 
 foreach ($unduplicate_arr as $key => $value) {
