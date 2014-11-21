@@ -9,6 +9,7 @@ $newGlobRegXML = $dom->appendChild($dom->createElement('globReg'));
 	// pre_print_r($tmp_glob_arr['A0001']);
 foreach ($tmp_glob_arr as $ober_key => $oberBegriff) {
 	$ober = $newGlobRegXML->appendChild($dom->createElement('oberBegriff'));
+	$ober->setAttribute('xml:id', $ober_key);
 	$oname = $ober->appendChild($dom->createElement('oname',trimUTF8BOM($oberBegriff['oname'])));
 // 	// link to append to the last line of this funciton;
 // 	// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
@@ -16,11 +17,12 @@ if(isset($oberBegriff['unterBegriff'])){
 	$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 	
 	if(isset($oberBegriff['unterBegriff']['uname'])){
-		// pre_print_r($oberBegriff['unterBegriff']);
+				// should be empty
+				pre_print_r($oberBegriff['unterBegriff']);
 			}else{
 				// pre_print_r($oberBegriff['unterBegriff']);
-				foreach ($oberBegriff['unterBegriff'] as $unterBegriff) {
-
+				foreach ($oberBegriff['unterBegriff'] as $unter_key => $unterBegriff) {
+					$unter->setAttribute('xml:id', $unter_key);
 					// $unter->setAttribute('uname', trimUTF8BOM($unterBegriff['uname']));
 					$unter->appendChild($dom->createElement('uname', trimUTF8BOM($unterBegriff['uname'])));
 
