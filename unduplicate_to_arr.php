@@ -97,6 +97,19 @@ foreach ($unduplicate_arr as $key => $value) {
 
 
 foreach ($unduplicate_arr as $key => $value) {
+
+// set unterBegriff id;
+	if(array_key_exists('unterBegriff', $value)){
+		// pre_print_r(array_keys($value['unterBegriff']));
+		foreach ($value['unterBegriff'] as $k => $v ) {
+			$num = sprintf("_%03d",($k+1));
+			$tmp = $key.$num;
+			$unduplicate_arr[$key]['unterBegriff'][$tmp] = $v;
+			unset($unduplicate_arr[$key]['unterBegriff'][$k]);
+		}
+	}
+
+
 	// change link word id to refer to word id list;
 	if(array_key_exists('link', $value)){
 		// pre_print_r($value['link']);
