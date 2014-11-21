@@ -5,8 +5,9 @@ require_once('./utility.php');
 $dom = new DomDocument('1.0', 'UTF-8');
 $newGlobRegXML = $dom->appendChild($dom->createElement('globReg'));
 // pre_print_r($tmp_glob_arr['oberBegriff'][0]['unterBegriff'][6]['uname']);
+// pre_print_r(count($tmp_glob_arr));// equal to 1471 (= count($word_id));
+// test count of unter...
 
-	// pre_print_r($tmp_glob_arr['A0001']);
 foreach ($tmp_glob_arr as $ober_key => $oberBegriff) {
 	$ober = $newGlobRegXML->appendChild($dom->createElement('oberBegriff'));
 	$ober->setAttribute('xml:id', $ober_key);
