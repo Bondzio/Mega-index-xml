@@ -15,7 +15,6 @@ foreach ($tmp_glob_arr as $ober_key => $oberBegriff) {
 // 	// link to append to the last line of this funciton;
 // 	// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
 if(isset($oberBegriff['unterBegriff'])){
-	$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 	
 	if(isset($oberBegriff['unterBegriff']['uname'])){
 				// should be empty
@@ -23,6 +22,7 @@ if(isset($oberBegriff['unterBegriff'])){
 			}else{
 				// pre_print_r($oberBegriff['unterBegriff']);
 				foreach ($oberBegriff['unterBegriff'] as $unter_key => $unterBegriff) {
+					$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 					$unter->setAttribute('xml:id', $unter_key);
 					// $unter->setAttribute('uname', trimUTF8BOM($unterBegriff['uname']));
 					$unter->appendChild($dom->createElement('uname', trimUTF8BOM($unterBegriff['uname'])));
@@ -56,13 +56,24 @@ if(isset($oberBegriff['unterBegriff'])){
 											// pre_print_r($oberBegriff['oname']);
 											// pre_print_r($unterBegriff['uname']);
 											// pre_print_r($v_entry);
-											// pre_print_r($k);
+											// pre_print_r($k); pre_print_r($v);
 											// pre_print_r($v['@content']);
 											$v_entry[$k] = $v['@content'];
 										}
 									}
 								}
 
+
+								if(!isset($v_entry['name'])){
+									pre_print_r('<h4>The under entries do not have name tag</h4>');
+											pre_print_r($oberBegriff['oname']);
+											pre_print_r($unterBegriff['uname']);
+											// pre_print_r($v_entry);
+									$v_entry['name'] = $unterBegriff['uname'];
+								}
+
+
+								// pre_print_r($v_entry['name']);
 
 								// pre_print_r(array_keys($v_entry));
 								$name_value = $v_entry['name'];
