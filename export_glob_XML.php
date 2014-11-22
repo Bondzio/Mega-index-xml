@@ -48,6 +48,12 @@ if(isset($oberBegriff['unterBegriff'])){
 							foreach ($v_group_arr as $k_entry => $v_entry) {
 							// pre_print_r(array_keys($v_entry));
 								// pre_print_r($v_entry);
+
+								if(count(array_keys($v_entry)) != 8){
+									// pre_print_r($v_entry);
+									// name book startPage endPage startLine endLine startTerm endTerm
+								}
+
 								foreach ($v_entry as $k => $v) {
 									if(is_array($v)){
 										if(empty($v)){
@@ -65,13 +71,29 @@ if(isset($oberBegriff['unterBegriff'])){
 
 
 								if(!isset($v_entry['name'])){
-									pre_print_r('<h4>The under entries do not have name tag</h4>');
-											pre_print_r($oberBegriff['oname']);
-											pre_print_r($unterBegriff['uname']);
+									// pre_print_r('<h4>The under entries do not have name tag</h4>');
+									// pre_print_r($oberBegriff['oname']);
+									// pre_print_r($unterBegriff['uname']);
 											// pre_print_r($v_entry);
 									$v_entry['name'] = $unterBegriff['uname'];
 								}
 
+								if(!isset($v_entry['startLine'])){
+									// pre_print_r($v_entry);
+									$v_entry['startLine'] = '';
+								}
+								if(!isset($v_entry['endLine'])){
+									// pre_print_r($v_entry);
+									$v_entry['endLine'] = '';
+								}
+								if(!isset($v_entry['startTerm'])){
+									// pre_print_r($v_entry);
+									$v_entry['startTerm'] = '';
+								} 
+								if(!isset($v_entry['endTerm'])){
+									// pre_print_r($v_entry);
+									$v_entry['endTerm'] = '';
+								} 
 
 								// pre_print_r($v_entry['name']);
 
@@ -104,6 +126,10 @@ if(isset($oberBegriff['unterBegriff'])){
 							$group->setAttribute('oname', trimUTF8BOM($oberBegriff['oname']));
 							$group->setAttribute('uname', trimUTF8BOM($unterBegriff['uname']));
 							// pre_print_r($v_group_arr);
+							if(count(array_keys($v_entry)) != 8){
+								// pre_print_r($v_entry);
+								// name book startPage endPage startLine endLine startTerm endTerm
+							}
 
 							foreach ($v_entry_arr as $k => $v) {
 									if(is_array($v)){
@@ -115,6 +141,35 @@ if(isset($oberBegriff['unterBegriff'])){
 										}
 										}
 									}
+
+
+
+									if(!isset($v_entry['name'])){
+										// pre_print_r('<h4>The under entries do not have name tag</h4>');
+										// pre_print_r($oberBegriff['oname']);
+										// pre_print_r($unterBegriff['uname']);
+												// pre_print_r($v_entry);
+										$v_entry['name'] = $unterBegriff['uname'];
+									}
+
+									if(!isset($v_entry['startLine'])){
+										// pre_print_r($v_entry);
+										$v_entry['startLine'] = '';
+									}
+									if(!isset($v_entry['endLine'])){
+										// pre_print_r($v_entry);
+										$v_entry['endLine'] = '';
+									}
+									if(!isset($v_entry['startTerm'])){
+										// pre_print_r($v_entry);
+										$v_entry['startTerm'] = '';
+									} 
+									if(!isset($v_entry['endTerm'])){
+										// pre_print_r($v_entry);
+										$v_entry['endTerm'] = '';
+									} 
+
+
 
 								// pre_print_r(array_keys($v_entry_arr));
 								$name_value = $v_entry_arr['name'];
