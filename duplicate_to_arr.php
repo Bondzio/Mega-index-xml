@@ -67,14 +67,19 @@ foreach ($o_u_duplicate_list as $key => $value) {
 						
 					if($v_tmp!==0){
 						$num = array_search($v_tmp, $word_id);
-						$o_u_duplicate_list_id[$key]['link'][$num] = $v;
+						if($num){
+							$o_u_duplicate_list_id[$key]['link'][$num] = $v;
+						}else{
+						// cannot find word id for this link;
+							// pre_print_r($v);
+						}
 					}else{
 						// cannot find word id for this link;
-						// echo "<b>";
-						// pre_print_r($key);
-						// pre_print_r($value['oname']);
-						// echo "</b>";
-						// pre_print_r($v);
+						echo "<b>";
+						pre_print_r($key);
+						pre_print_r($value['oname']);
+						echo "</b>";
+						pre_print_r($v);
 
 					}
 				}
@@ -167,8 +172,8 @@ foreach ($duplicate_arr as $key => $value) {
 				// pre_print_r($tmp);
 				// pre_print_r(count($duplicate_arr[$key][1]['unterBegriff']));
 				foreach ($duplicate_arr[$key][0]['unterBegriff'] as $k_tmp => $v_tmp) {
-					unset($duplicate_arr[$key][0]['unterBegriff'][$k_tmp]['group']['entry']);
-					$duplicate_arr[$key][0]['unterBegriff'][$k_tmp]['group']['entry'] = $tmp;
+					unset($duplicate_arr[$key][0]['unterBegriff'][$k]['group']['entry']);
+					$duplicate_arr[$key][0]['unterBegriff'][$k]['group']['entry'] = $tmp;
 				}
 			}
 		}
@@ -207,8 +212,8 @@ foreach ($duplicate_arr as $key => $value) {
 				// pre_print_r($v['group']['entry']);
 				// pre_print_r(count($duplicate_arr[$key][1]['unterBegriff']));
 				foreach ($duplicate_arr[$key][1]['unterBegriff'] as $k_tmp => $v_tmp) {
-					unset($duplicate_arr[$key][1]['unterBegriff'][$k_tmp]['group']['entry']);
-					$duplicate_arr[$key][1]['unterBegriff'][$k_tmp]['group']['entry'] = $tmp;
+					unset($duplicate_arr[$key][1]['unterBegriff'][$k]['group']['entry']);
+					$duplicate_arr[$key][1]['unterBegriff'][$k]['group']['entry'] = $tmp;
 				}
 			}
 		}
