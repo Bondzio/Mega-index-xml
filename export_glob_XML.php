@@ -8,6 +8,10 @@ $newGlobRegXML = $dom->appendChild($dom->createElement('globReg'));
 // pre_print_r(count($tmp_glob_arr));// equal to 1471 (= count($word_id));
 // test count of unter...
 
+
+// pre_print_r($tmp_glob_arr['A0005']);
+// exit;
+
 foreach ($tmp_glob_arr as $ober_key => $oberBegriff) {
 	$ober = $newGlobRegXML->appendChild($dom->createElement('oberBegriff'));
 	$ober->setAttribute('xml:id', $ober_key);
@@ -18,10 +22,12 @@ if(isset($oberBegriff['unterBegriff'])){
 	
 	if(isset($oberBegriff['unterBegriff']['uname'])){
 				// should be empty
-				pre_print_r($oberBegriff['unterBegriff']);
+				// pre_print_r($oberBegriff['unterBegriff']);
 			}else{
 				// pre_print_r($oberBegriff['unterBegriff']);
 				foreach ($oberBegriff['unterBegriff'] as $unter_key => $unterBegriff) {
+					// pre_print_r($unter_key);
+
 					$unter = $ober->appendChild($dom->createElement('unterBegriff'));
 					$unter->setAttribute('xml:id', $unter_key);
 					// $unter->setAttribute('uname', trimUTF8BOM($unterBegriff['uname']));
@@ -30,107 +36,22 @@ if(isset($oberBegriff['unterBegriff'])){
 					// pre_print_r(array_keys($unterBegriff));
 					// pre_print_r($unterBegriff['uname']);
 					// pre_print_r($unterBegriff['entry']);
-// 					// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
-// 					// pre_print_r($entry['entry']);
+					// $unter = $ober->appendChild($dom->createElement('unterBegriff'));
+					// pre_print_r($entry['entry']);
 
-					$group_limit = 3;
-					if(count($unterBegriff['entry']) > $group_limit){
 
-						// pre_print_r(count($unterBegriff['entry']));
-						$group_arr = array_chunk($unterBegriff['entry'], $group_limit);
-						// pre_print_r(array_keys($group_arr)); 
-						foreach ($group_arr as $k_group_arr => $v_group_arr) {
-
+						foreach ($unterBegriff['group'] as $k_group_arr => $v_group_arr) {
 							$group = $unter->appendChild($dom->createElement('group'));
 							$group->setAttribute('oname', trimUTF8BOM($oberBegriff['oname']));
 							$group->setAttribute('uname', trimUTF8BOM($unterBegriff['uname']));
-							// pre_print_r(count($v_group_arr)); // should < 3;
-							foreach ($v_group_arr as $k_entry => $v_entry) {
-							// pre_print_r(array_keys($v_entry));
-								// pre_print_r($v_entry);
-
-								if(count(array_keys($v_entry)) != 8){
-									// pre_print_r($v_entry);
-									// name book startPage endPage startLine endLine startTerm endTerm
-								}
-
-								foreach ($v_entry as $k => $v) {
-									if(is_array($v)){
-										if(empty($v)){
-											$v_entry[$k] = '';
-										}else{
-											// pre_print_r($oberBegriff['oname']);
-											// pre_print_r($unterBegriff['uname']);
-											// pre_print_r($v_entry);
-											// pre_print_r($k); pre_print_r($v);
-											// pre_print_r($v['@content']);
-											$v_entry[$k] = $v['@content'];
-										}
+							// pre_print_r(array_keys($v_group_arr['entry']));
+							foreach ($v_group_arr['entry'] as $k_entry_arr => $v_entry_arr) {
+								// pre_print_r($v_entry_arr);
+									foreach ($v_entry_arr as $k_entry => $v_entry) {
+										// pre_print_r($v_entry);
 									}
-								}
 
-
-								if(!isset($v_entry['name'])){
-									// pre_print_r('<h4>The under entries do not have name tag</h4>');
-									// pre_print_r($oberBegriff['oname']);
-									// pre_print_r($unterBegriff['uname']);
-											// pre_print_r($v_entry);
-									$v_entry['name'] = $unterBegriff['uname'];
-								}
-
-								if(!isset($v_entry['startLine'])){
-									// pre_print_r($v_entry);
-									$v_entry['startLine'] = '';
-								}
-								if(!isset($v_entry['endLine'])){
-									// pre_print_r($v_entry);
-									$v_entry['endLine'] = '';
-								}
-								if(!isset($v_entry['startTerm'])){
-									// pre_print_r($v_entry);
-									$v_entry['startTerm'] = '';
-								} 
-								if(!isset($v_entry['endTerm'])){
-									// pre_print_r($v_entry);
-									$v_entry['endTerm'] = '';
-								} 
-
-								// pre_print_r($v_entry['name']);
-
-								// pre_print_r(array_keys($v_entry));
-								$name_value = $v_entry['name'];
-								$book_value = $v_entry['book'];
-								$startPage_value = $v_entry['startPage'];
-								$endPage_value = $v_entry['endPage'];
-								$startLine_value = $v_entry['startLine'];
-								$endLine_value = $v_entry['endLine'];
-								$startTerm_value = $v_entry['startTerm'];
-								$endTerm_value = $v_entry['endTerm'];
-
-								$entry = $group->appendChild($dom->createElement('entry'));
-								$name = $entry->appendChild($dom->createElement('name', $name_value));
-								$book = $entry->appendChild($dom->createElement('book', $book_value));
-								$startPage = $entry->appendChild($dom->createElement('startPage', $startPage_value));
-								$endPage = $entry->appendChild($dom->createElement('endPage', $endPage_value));
-								$startLine = $entry->appendChild($dom->createElement('startLine', $startLine_value));
-								$endLine = $entry->appendChild($dom->createElement('endLine', $endLine_value));
-								$startTerm = $entry->appendChild($dom->createElement('startTerm', $startTerm_value));
-								$endTerm = $entry->appendChild($dom->createElement('endTerm', $endTerm_value));
-							}
-						}
-					}else{
-					// if(count($unterBegriff['entry']) > $group_limit){
-						foreach ($unterBegriff['entry'] as $k_entry_arr => $v_entry_arr) {
-
-							$group = $unter->appendChild($dom->createElement('group'));
-							$group->setAttribute('oname', trimUTF8BOM($oberBegriff['oname']));
-							$group->setAttribute('uname', trimUTF8BOM($unterBegriff['uname']));
-							// pre_print_r($v_group_arr);
-							if(count(array_keys($v_entry)) != 8){
-								// pre_print_r($v_entry);
-								// name book startPage endPage startLine endLine startTerm endTerm
-							}
-
+							// pre_print_r($k_group_arr);
 							foreach ($v_entry_arr as $k => $v) {
 									if(is_array($v)){
 										if(empty($v)){
@@ -142,33 +63,38 @@ if(isset($oberBegriff['unterBegriff'])){
 										}
 									}
 
+										if(!isset($v_entry_arr['name'])){
+											// pre_print_r('<h4>The under entries do not have name tag</h4>');
+											// pre_print_r($oberBegriff['oname']);
+											// pre_print_r($unterBegriff['uname']);
+											// pre_print_r($v_entry_arr);
+											$v_entry_arr['name'] = $unterBegriff['uname'];
+										}
 
-
-									if(!isset($v_entry['name'])){
-										// pre_print_r('<h4>The under entries do not have name tag</h4>');
-										// pre_print_r($oberBegriff['oname']);
-										// pre_print_r($unterBegriff['uname']);
-												// pre_print_r($v_entry);
-										$v_entry['name'] = $unterBegriff['uname'];
-									}
-
-									if(!isset($v_entry['startLine'])){
-										// pre_print_r($v_entry);
-										$v_entry['startLine'] = '';
-									}
-									if(!isset($v_entry['endLine'])){
-										// pre_print_r($v_entry);
-										$v_entry['endLine'] = '';
-									}
-									if(!isset($v_entry['startTerm'])){
-										// pre_print_r($v_entry);
-										$v_entry['startTerm'] = '';
-									} 
-									if(!isset($v_entry['endTerm'])){
-										// pre_print_r($v_entry);
-										$v_entry['endTerm'] = '';
-									} 
-
+										if(!isset($v_entry_arr['startLine'])){
+										// pre_print_r($v_entry_arr);
+											$v_entry_arr['startLine'] = '';
+										}
+										if(!isset($v_entry_arr['endLine'])){
+										// pre_print_r($v_entry_arr);
+											$v_entry_arr['endLine'] = '';
+										}
+										// if(!isset($v_entry_arr['startPage'])){
+										// // pre_print_r($v_entry_arr);
+										// 	$v_entry_arr['startPage'] = '';
+										// }
+										// if(!isset($v_entry_arr['endPage'])){
+										// // pre_print_r($v_entry_arr);
+										// 	$v_entry_arr['endPage'] = '';
+										// }
+										if(!isset($v_entry_arr['startTerm'])){
+										// pre_print_r($v_entry_arr);
+											$v_entry_arr['startTerm'] = '';
+										} 
+										if(!isset($v_entry_arr['endTerm'])){
+										// pre_print_r($v_entry_arr);
+											$v_entry_arr['endTerm'] = '';
+										} 
 
 
 								// pre_print_r(array_keys($v_entry_arr));
@@ -191,12 +117,8 @@ if(isset($oberBegriff['unterBegriff'])){
 								$startTerm = $entry->appendChild($dom->createElement('startTerm', $startTerm_value));
 								$endTerm = $entry->appendChild($dom->createElement('endTerm', $endTerm_value));
 
+									}
 								}
-							}
-
-
-					// foreach ($unterBegriff['entry'] as $k_entry => $v_entry) {}
-
 
 				}
 			}
@@ -232,8 +154,6 @@ if(isset($oberBegriff['unterBegriff'])){
 
 
 };
-
-
 
 
 $dom->formatOutput = true;
