@@ -37,11 +37,19 @@ foreach ($tmp_glob_arr as $ober_key => $oberBegriff) {
 								}
 							// pre_print_r($unter_value);
 								// $entry_keys = array_keys($group_value['entry']);
+
+
+								// pre_print_r(array_keys($group_value));
+								if(!array_key_exists('entry', $group_value)){
+									pre_print_r($ober_key);
+								}
+
 								// pre_print_r($group_value);
 								if(!isset($group_value['entry'][0])){
 									// pre_print_r($group_value['entry']);
 									// pre_print_r($tmp_glob_arr[$ober_key]['unterBegriff'][$unter_key]['group'][$group_key]['entry']);
-									$tmp_glob_arr[$ober_key]['unterBegriff'][$unter_key]['group'][$group_key]['entry'] = array( 0 => $group_value['entry'] );
+									$tmp_glob_arr[$ober_key]['unterBegriff'][$unter_key]['group'][$group_key]['entry'] = array($group_value['entry']) ;
+									// pre_print_r(array_keys($tmp_glob_arr[$ober_key]['unterBegriff'][$unter_key]['group'][$group_key]));
 								}else{
 									// pre_print_r(array_keys($group_value['entry']));
 									// pre_print_r($group_value['entry']);
