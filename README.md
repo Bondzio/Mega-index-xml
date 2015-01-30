@@ -30,7 +30,8 @@ use php to process raw text to xml
  　
 ####ＰＨＰファイルの説明
         clean_process.php: OCRソフトウェアによる得られたテキストファイルのミスを検証する
-
+        index.php: upload.phpと一緒に使って、テキストファイルをサーバーにアップロードする
+        upload.php: アップロードされたファイルはフォルダtmpに保存される。
         classify_process.php:　テキストの文章の構造を解析する。
             親索引、親索引のページ、子索引、子索引ページ、ハイフン単語を識別して、
             PHPのArrayのデータ構造としてdb_array.phpのファイルをアウトプットする。
@@ -38,6 +39,20 @@ use php to process raw text to xml
             そしてソースコードの汎用性を考えて、SQLを使わない。
 
         xml_export.php:　db_array.phpのデータを読み、XMLファイルをアウトプットする。
+
+        insert_id.php: 各親索引に頭文字を含むIDを与える。
+
+        fetch_duplicate.php: 既存の親索引と新しい親索引の重複した部分を抽出する。
+
+        get_upduplicate_arr.php: 既存の親索引と新しい親索引の重複していない部分を抽出する。
+
+        duplicate_to_arr.php: 既存の親索引と新しい親索引の重複した部分を抽出するのをarrayとして保存する。
+
+        undupicate_to_arr.php:既存の親索引と新しい親索引の重複していない部分を抽出するのをarrayとして保存する。
+
+        merge_dupli_undupli.php:
+
+        export_glob_XML.php:
 
         xml_import.php:　globReg.XMLファイルを読み、データ構造を解析して、
             PHPのArrayのデータをアウトプットする。
@@ -49,7 +64,7 @@ use php to process raw text to xml
 
         xmlstr_to_array:　主にXMLファイルをarrayに転換する関数。
 
-        utility.php:　各種有用な関数
+        utility.php:　各種便利な関数
 
         globRegVolcabulary.php: Megaのウェブサイトに現れた親索引と
             globReg.xmlから抽出した親索引の比較する。
@@ -64,11 +79,18 @@ use php to process raw text to xml
 
 
 ####ＰＨＰファイルの実行手順
-	classify_process.php =>
+	index.php =>
+    classify_process.php =>
 	xml_export.php =>
-	xml_import.php =>
-	array_merge.php =>
-	word_sort.php
+    insert_id.php =>
+    fetch_duplicate.php =>
+    get_unduplicate_arr.php =>
+    duplicate_to_arr.php =>
+    unduplicate_to_arr.php =>
+    merge_dupli_undupli.php => 
+    export_glob_XML.php =>
+        The generated xml file named "newGlobReg.xml" is saved on folder "xml"
+
 
 
 #### globReg.xmlファイルとindex.txtから生成したｘｍｌの合成について
