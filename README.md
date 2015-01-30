@@ -89,7 +89,7 @@ use php to process raw text to xml
     unduplicate_to_arr.php =>
     merge_dupli_undupli.php => 
     export_glob_XML.php =>
-        The generated xml file named "newGlobReg.xml" is saved on folder "xml"
+    The generated xml file named "newGlobReg.xml" is saved on folder "xml"
 
 
 
