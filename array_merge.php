@@ -11,6 +11,9 @@ for ($i=0; $i < count($globRegxml['oberBegriff']); $i++) {
 }
 
 for ($i=0; $i < count($tmpxml['oberBegriff']); $i++) { 
+	if(is_array($tmpxml['oberBegriff'][$i]['oname'])){
+		pre_print_r("word_id ".$i." error");
+		exit; };
 	$tmp_o[] = trimUTF8BOM($tmpxml['oberBegriff'][$i]['oname']);
 }
 

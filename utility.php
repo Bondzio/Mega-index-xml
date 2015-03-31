@@ -59,7 +59,7 @@ function delFileUnderDir( $dirName ){
  } 
 }
 
-function array_to_xml($db, $save_path){
+function array_to_xml($bookid, $db, $save_path){
   $key_char = $db['key_char'];
   $key_num = $db['key_num'];
   $hyphen_char = $db['hyphen_char'];
@@ -108,7 +108,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
       $group->setAttribute('uname', $key_char[$i]);
       $entry = $group->appendChild($dom->createElement('entry'));
       $name = $entry->appendChild($dom->createElement('name', $key_char[$i]));
-      $book = $entry->appendChild($dom->createElement('book', '15'));
+      $book = $entry->appendChild($dom->createElement('book', $bookid));
       $startPage = $entry->appendChild($dom->createElement('startPage', $each_page));
       $endPage = $entry->appendChild($dom->createElement('endPage'));
       $startLine = $entry->appendChild($dom->createElement('startLine',' '));
@@ -160,7 +160,7 @@ for ($i=0; $i < count($key_char) ; $i++) {
             $group->setAttribute('uname', $hyphen_char[$i][$j]);
             $entry = $group->appendChild($dom->createElement('entry'));
             $name = $entry->appendChild($dom->createElement('name', $hyphen_char[$i][$j]));
-            $book = $entry->appendChild($dom->createElement('book', '15'));
+            $book = $entry->appendChild($dom->createElement('book', $bookid));
             $startPage = $entry->appendChild($dom->createElement('startPage', $each_hyphen_page));
             $endPage = $entry->appendChild($dom->createElement('endPage'));
             $startLine = $entry->appendChild($dom->createElement('startLine',' '));

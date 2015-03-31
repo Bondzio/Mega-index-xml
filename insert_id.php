@@ -13,6 +13,7 @@ foreach ($word_arr as $key => $value) {
 	foreach ($value as $k => $v) {
 		$num = sprintf("%04d",$i);
 		$tmp = strtoupper($key).$num;
+		// pre_print_r($v);
 		$word_id[$tmp] = $v;
 		$i++;
 	}

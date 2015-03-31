@@ -1,9 +1,19 @@
-
 <?php
+session_start();
 include "./utility.php";
+$keywords = file("./tmp/tmp.txt");
 
-$keywds = file("./tmp/tmp.txt");
 
+for ($i=0; $i <count($keywords) ; $i++) { 
+	// echo $i." : ".trim($keywds[$i])."<br />";
+	$item = trim($keywords[$i]);
+	if(empty($item)){
+		// remove lines only have space.
+		unset($keywords[$i]);
+	}
+}
+
+$keywds = array_values($keywords);
 $key = array();
 $hyphen = array();
 $arrow = array();

@@ -8,10 +8,9 @@ function pre_print_r($var){
     echo "<br />";
 }
 
-
 //improt abbyy处理后的纯文本文件
 //然后读取文件每一行为 数组。
-$keywds = file("./text/clean_part3.txt");
+$keywds = file("./text/1035.txt");
 preg_replace('/\n{2,}/', '\n', $keywds);
 
 /*
@@ -48,18 +47,18 @@ pre_print_r($fl_array);
 //[464] => - und industrieller Kapitalist 267 268 275278 280 284-287 290 328 577
 //[477] => - seine Kosten 263 264 283-287 289296 300
 
-for ($i=0; $i <count($keywds) ; $i++) { 
-//	$subject = $keywds[$i];
-	$pattern = '/\d{6,}/';
-	$matchCount = preg_match($pattern, $keywds[$i],$matches);
+// for ($i=0; $i <count($keywds) ; $i++) { 
+// //	$subject = $keywds[$i];
+// 	$pattern = '/\d{6,}/';
+// 	$matchCount = preg_match($pattern, $keywds[$i],$matches);
 
-	if($matchCount==0){
-}else{
-		$replacement = substr($matches[0],0,3)."-".substr($matches[0],3,3);
-		$clean_arr=preg_replace($pattern, $replacement, $keywds);
-		pre_print_r($clean_arr);
-		}
-};
+// 	if($matchCount==0){
+// }else{
+// 		$replacement = substr($matches[0],0,3)."-".substr($matches[0],3,3);
+// 		$clean_arr=preg_replace($pattern, $replacement, $keywds);
+// 		pre_print_r($clean_arr);
+// 		}
+// };
 
 
 // for ($i=0; $i <count($clean_arr) ; $i++) { 
@@ -73,3 +72,13 @@ for ($i=0; $i <count($keywds) ; $i++) {
 // 	}
 // }
 
+for ($i=0; $i <count($keywds) ; $i++) { 
+	// echo $i." : ".trim($keywds[$i])."<br />";
+	$item = trim($keywds[$i]);
+	if(empty($item)){
+		// remove lines only have space.
+		unset($keywds[$i]);
+	}else{
+	echo trim($keywds[$i])."<br />";
+	}
+}
